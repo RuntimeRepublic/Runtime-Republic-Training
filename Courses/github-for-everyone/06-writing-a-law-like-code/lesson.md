@@ -1,6 +1,6 @@
 # Writing a Law the Way We Write Code
 
-![Writing a Law the Way We Write Code](06-writing-law-like-code.png)
+![Writing a Law the Way We Write Code](../../../Images/github-for-everyone/06-writing-law-like-code.png)
 
 Course: GitHub for Everyone
 Lesson: 06 of 07

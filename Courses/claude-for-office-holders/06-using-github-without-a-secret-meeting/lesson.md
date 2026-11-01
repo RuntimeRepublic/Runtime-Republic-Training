@@ -1,6 +1,6 @@
 # Using GitHub Without Holding a Secret Meeting
 
-![Using GitHub Without Holding a Secret Meeting](06-using-github-without-a-secret-meeting.png)
+![Using GitHub Without Holding a Secret Meeting](../../../Images/claude-for-office-holders/06-using-github-without-a-secret-meeting.png)
 
 Course: Claude for Office Holders
 Lesson: 06 of 06

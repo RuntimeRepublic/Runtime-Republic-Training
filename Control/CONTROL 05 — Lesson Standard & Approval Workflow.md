@@ -1,9 +1,9 @@
 CONTROL 05 — Lesson Standard & Approval Workflow
 
-Version: 1.2
-Date: 2026-10-30
+Version: 1.3
+Date: 2026-11-01
 Status: Draft — pending Human Engineer approval
-Change: 1.2 offers three lesson lengths per series: Short, Standard and Long (§6), at the Human Engineer's request. 1.1 showed the supporting image at the top of the lesson page (§3, §5, §7).
+Change: 1.3 keeps images in `Images/<course>/` instead of the lesson folder (§3, §5, §7). 1.2 offers three lesson lengths per series: Short, Standard and Long (§6), at the Human Engineer's request. 1.1 showed the supporting image at the top of the lesson page (§3, §5, §7).
 Project: Runtime-Republic Training
 
 ---
@@ -30,13 +30,13 @@ Every `lesson.md` starts with this block, before the essay text:
 ```
 # <Lesson title>
 
-![<Lesson title>](<image file>)      ← only once the image exists
+![<Lesson title>](../../../Images/<course>/<image file>)   ← only once the image exists
 
 Course: <course name>
 Lesson: <NN> of <total>
 Status: Draft | Review | Approved | Narrated | Published
 Runtime: about <N> minutes
-Image: Pending | <file name in the lesson folder>
+Image: Pending | <file name in Images/<course>/>
 Podcast: Not recorded | Recorded <YYYY-MM-DD>
 Sources: None | <links to the canonical control documents the lesson teaches>
 Approved by: — | <name>, <YYYY-MM-DD>
@@ -76,9 +76,14 @@ names others.
 # 5. Supporting Image
 
 • Every lesson needs a supporting image before it can be Approved.
-• The image lives in the lesson's own folder and is named in the `Image:` line.
-• Once the image exists, the header also shows it with `![<Lesson title>](<image file>)`
-  under the title, so one link shows the picture and the essay together.
+• The image lives in `Images/<course>/`, never in the lesson folder, and its file name is
+  in the `Image:` line. Lesson folders hold text only, so a course folder stays small
+  enough to add to a Claude Project as knowledge.
+• Once the image exists, the header also shows it with
+  `![<Lesson title>](../../../Images/<course>/<image file>)` under the title, so one link
+  shows the picture and the essay together.
+• `scripts/move-lesson-images.ps1` moves any image left in a lesson folder and updates
+  the header link. Run it without `-Apply` first to see what it will change.
 • BlueprintLiberty.com appears at the bottom center of the image, with
   RuntimeRepublic.com on the line directly below it.
 • Full image standards (size, style, format) are deferred by the Human Engineer to
@@ -107,7 +112,8 @@ Lessons become podcasts, so they are written to be heard:
 | Header line missing | `check-lessons.sh` fails |
 | Status not one of the five values | `check-lessons.sh` fails |
 | Approved or later with `Image: Pending` | `check-lessons.sh` fails |
-| `Image:` names a file that is not in the lesson folder | `check-lessons.sh` fails |
+| `Image:` names a file that is not in `Images/<course>/` | `check-lessons.sh` fails |
+| An image file sits in a lesson folder | `check-lessons.sh` fails |
 | `Image:` names a file but the header does not show it | `check-lessons.sh` fails |
 | Approved or later with `Approved by: —` | `check-lessons.sh` fails |
 | Narrated or later with `Podcast: Not recorded` | `check-lessons.sh` fails |

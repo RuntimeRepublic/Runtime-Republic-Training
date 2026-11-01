@@ -1,6 +1,6 @@
 # The Toolbox, Learning the Words of GitHub
 
-![The Toolbox, Learning the Words of GitHub](03-the-toolbox.png)
+![The Toolbox, Learning the Words of GitHub](../../../Images/github-for-everyone/03-the-toolbox.png)
 
 Course: GitHub for Everyone
 Lesson: 03 of 07

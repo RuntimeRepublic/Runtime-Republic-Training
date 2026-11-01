@@ -1,6 +1,6 @@
 # A Bill Should Never Exist in the Dark
 
-![A Bill Should Never Exist in the Dark](01-a-bill-should-never-exist-in-the-dark.png)
+![A Bill Should Never Exist in the Dark](../../../Images/one-hour-rule/01-a-bill-should-never-exist-in-the-dark.png)
 
 Course: The One-Hour Rule
 Lesson: 01 of 05

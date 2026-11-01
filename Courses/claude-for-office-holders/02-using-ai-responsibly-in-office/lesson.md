@@ -1,6 +1,6 @@
 # Using AI Responsibly in Office
 
-![Using AI Responsibly in Office](02-using-ai-responsibly.png)
+![Using AI Responsibly in Office](../../../Images/claude-for-office-holders/02-using-ai-responsibly.png)
 
 Course: Claude for Office Holders
 Lesson: 02 of 06

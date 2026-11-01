@@ -1,6 +1,6 @@
 # The Signal, a Phone App That Tells You When It's Your Turn
 
-![The Signal, a Phone App That Tells You When It's Your Turn](07-the-signal.png)
+![The Signal, a Phone App That Tells You When It's Your Turn](../../../Images/github-for-everyone/07-the-signal.png)
 
 Course: GitHub for Everyone
 Lesson: 07 of 07

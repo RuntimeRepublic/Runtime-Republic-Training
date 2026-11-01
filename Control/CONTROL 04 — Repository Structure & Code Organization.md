@@ -1,9 +1,9 @@
 CONTROL 04 — Repository Structure & Code Organization
 
-Version: 1.1
-Date: 2026-10-31
+Version: 1.2
+Date: 2026-11-01
 Status: Draft — pending Human Engineer approval
-Change: 1.1 adds the narration pipeline, audio configuration, `lesson.mp3` and the GitHub Pages folder (CONTROL 06).
+Change: 1.2 moves lesson images to `Images/<course>/`, so lesson folders hold text only and a whole course folder fits in a Claude Project; `scripts/move-lesson-images.ps1` moves them. 1.1 adds the narration pipeline, audio configuration, `lesson.mp3` and the GitHub Pages folder (CONTROL 06).
 Project: Runtime-Republic Training
 
 ---
@@ -26,8 +26,11 @@ Runtime-Republic Training/
 │       ├── README.md         Course page: purpose, lesson list, source repositories
 │       └── <NN-lesson-name>/
 │           ├── lesson.md     The essay, with the CONTROL 05 header
-│           ├── image.png     Supporting image (CONTROL 05 §5)
 │           └── lesson.mp3    Narration, once merged (CONTROL 06 §3.5)
+│
+├── Images/
+│   └── <course>/
+│       └── <image file>      Supporting image for a lesson (CONTROL 05 §5)
 │
 ├── src/                      Software, layered per CONTROL 10: the narration pipeline
 │                             from Phase 2, bridge software from Phase 3
@@ -35,7 +38,8 @@ Runtime-Republic Training/
 ├── docs/                     GitHub Pages: player pages and podcast.xml (CONTROL 06 §3.7)
 │
 ├── Control/                  CONTROL documents + ARCHITECTURE_STATUS.md
-├── scripts/                  init-project.sh, check-controls.sh, check-lessons.sh
+├── scripts/                  init-project.sh, check-controls.sh, check-lessons.sh,
+│                             move-lesson-images.ps1
 └── .github/                  CI and narration workflows, PR template
 ```
 
@@ -48,7 +52,7 @@ Runtime-Republic Training/
 | If the file… | It goes in… |
 |---|---|
 | teaches one topic | `Courses/<course>/<NN-lesson-name>/lesson.md` |
-| illustrates a lesson | the same lesson folder |
+| illustrates a lesson | `Images/<course>/`, never the lesson folder |
 | narrates a lesson | `lesson.mp3` in the same lesson folder |
 | configures narration | `audio.config.yml` or `pronunciations.yml` at the root |
 | is a player page or the podcast feed | `docs/` |
