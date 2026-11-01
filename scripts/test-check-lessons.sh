@@ -21,7 +21,7 @@ write_lesson() {
   {
     echo "# Test lesson"
     echo
-    if [[ "$3" != "Pending" && "${6:-}" != "NoEmbed" ]]; then echo "![Test lesson]($3)"; echo; fi
+    if [[ "$3" != "Pending" && "${6:-}" != "NoEmbed" ]]; then echo "![Test lesson](../../../Images/test-course/$3)"; echo; fi
     echo "Course: Test Course"
     echo "Lesson: 01 of 01"
     [[ "${6:-}" != "Status" ]] && echo "Status: $2"
@@ -49,18 +49,18 @@ expect() {
     sed 's/^/      /' "$tmp/out.txt"
     failed=$((failed + 1))
   fi
-  rm -rf "$tmp/Courses"
+  rm -rf "$tmp/Courses" "$tmp/Images"
 }
 
 write_lesson 01-draft Draft Pending "Not recorded" "—"
 expect pass test_draftWithPendingImage_passes
 
 write_lesson 01-approved Approved image.png "Not recorded" "Human Engineer, 2026-10-30"
-touch "$tmp/Courses/test-course/01-approved/image.png"
+mkdir -p "$tmp/Images/test-course" && touch "$tmp/Images/test-course/image.png"
 expect pass test_approvedWithImageAndApprover_passes
 
 write_lesson 01-narrated Narrated image.png "Recorded 2026-11-01" "Human Engineer, 2026-10-30"
-touch "$tmp/Courses/test-course/01-narrated/image.png"
+mkdir -p "$tmp/Images/test-course" && touch "$tmp/Images/test-course/image.png"
 expect pass test_narratedWithRecording_passes
 
 write_lesson 01-no-status Draft Pending "Not recorded" "—" Status
@@ -76,23 +76,33 @@ write_lesson 01-missing-file Approved image.png "Not recorded" "Human Engineer, 
 expect fail test_approvedWithImageFileMissing_fails
 
 write_lesson 01-no-approver Approved image.png "Not recorded" "—"
-touch "$tmp/Courses/test-course/01-no-approver/image.png"
+mkdir -p "$tmp/Images/test-course" && touch "$tmp/Images/test-course/image.png"
 expect fail test_approvedWithoutApprover_fails
 
 write_lesson 01-not-recorded Published image.png "Not recorded" "Human Engineer, 2026-10-30"
-touch "$tmp/Courses/test-course/01-not-recorded/image.png"
+mkdir -p "$tmp/Images/test-course" && touch "$tmp/Images/test-course/image.png"
 expect fail test_publishedWithoutRecording_fails
 
 write_lesson Bad_Folder Draft Pending "Not recorded" "—"
 expect fail test_badFolderName_fails
 
 write_lesson 01-not-shown Draft image.png "Not recorded" "—" NoEmbed
-touch "$tmp/Courses/test-course/01-not-shown/image.png"
+mkdir -p "$tmp/Images/test-course" && touch "$tmp/Images/test-course/image.png"
 expect fail test_imageNamedButNotShown_fails
 
 write_lesson 01-shown Draft image.png "Not recorded" "—"
-touch "$tmp/Courses/test-course/01-shown/image.png"
+mkdir -p "$tmp/Images/test-course" && touch "$tmp/Images/test-course/image.png"
 expect pass test_draftWithImageShown_passes
+
+write_lesson 01-image-in-folder Approved image.png "Not recorded" "Human Engineer, 2026-10-30"
+mkdir -p "$tmp/Images/test-course" && touch "$tmp/Images/test-course/image.png"
+touch "$tmp/Courses/test-course/01-image-in-folder/image.png"
+expect fail test_imageLeftInLessonFolder_fails
+
+write_lesson 01-old-link Approved image.png "Not recorded" "Human Engineer, 2026-10-30"
+mkdir -p "$tmp/Images/test-course" && touch "$tmp/Images/test-course/image.png"
+sed -i.bak 's#](../../../Images/test-course/image.png)#](image.png)#' "$tmp/Courses/test-course/01-old-link/lesson.md" && rm -f "$tmp/Courses/test-course/01-old-link/lesson.md.bak"
+expect fail test_headerLinksOldLocation_fails
 
 echo
 echo "$passed passed, $failed failed."
