@@ -1,6 +1,6 @@
 # How a Late-Night Idea Became the Internet's Workshop
 
-![How a Late-Night Idea Became the Internet's Workshop](02-the-internets-workshop.png)
+![How a Late-Night Idea Became the Internet's Workshop](../../../Images/github-for-everyone/02-the-internets-workshop.png)
 
 Course: GitHub for Everyone
 Lesson: 02 of 07

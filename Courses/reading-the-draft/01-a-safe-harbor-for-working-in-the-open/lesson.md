@@ -1,6 +1,6 @@
 # A Safe Harbor for Working in the Open
 
-![A Safe Harbor for Working in the Open](01-a-safe-harbor-for-working-in-the-open.png)
+![A Safe Harbor for Working in the Open](../../../Images/reading-the-draft/01-a-safe-harbor-for-working-in-the-open.png)
 
 Course: Reading the Draft
 Lesson: 01 of 02

@@ -1,6 +1,6 @@
 # A Tool for Public Servants
 
-![A Tool for Public Servants](01-a-tool-for-public-servants.png)
+![A Tool for Public Servants](../../../Images/claude-for-office-holders/01-a-tool-for-public-servants.png)
 
 Course: Claude for Office Holders
 Lesson: 01 of 06

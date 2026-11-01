@@ -1,6 +1,6 @@
 # From Scrolling to Participating
 
-![From Scrolling to Participating](04-from-scrolling-to-participating.png)
+![From Scrolling to Participating](../../../Images/claude-for-citizens/04-from-scrolling-to-participating.png)
 
 Course: Claude for Citizens
 Lesson: 04 of 05
