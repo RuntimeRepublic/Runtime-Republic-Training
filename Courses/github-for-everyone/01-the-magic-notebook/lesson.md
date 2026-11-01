@@ -1,6 +1,6 @@
 # The Magic Notebook Where the Whole World Builds Things Together
 
-![The Magic Notebook Where the Whole World Builds Things Together](01-the-magic-notebook.png)
+![The Magic Notebook Where the Whole World Builds Things Together](../../../Images/github-for-everyone/01-the-magic-notebook.png)
 
 Course: GitHub for Everyone
 Lesson: 01 of 07

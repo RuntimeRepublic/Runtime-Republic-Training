@@ -1,8 +1,9 @@
 CONTROL 02 — Development Phase Plan
 
-Version: 1.0
-Date: 2026-10-30
+Version: 1.1
+Date: 2026-10-31
 Status: Draft — pending Human Engineer approval
+Change: 1.1 narrates with a GitHub Action pipeline under CONTROL 06 instead of Essay-Audio-Runtime, and lets Phase 2 groundwork be prepared while Phases 0–1 finish (Human Engineer, 2026-10-31).
 Project: Runtime-Republic Training
 
 ---
@@ -43,9 +44,16 @@ Exit gate: at least one full course has every lesson at `Status: Approved`.
 
 Deliverables:
 
-• Approved lessons narrated exactly as written (Essay-Audio-Runtime)
-• A CONTROL document for audio: where episode files live, naming, and publishing to
-  RuntimeRepublic.com and BlueprintLiberty.com
+• Approved lessons narrated exactly as written by the narration pipeline: a GitHub
+  Action and Python script in this repository, using ElevenLabs as a voice only.
+  Replaces Essay-Audio-Runtime as the narrator (Human Engineer, 2026-10-31).
+• CONTROL 06 — Audio & Podcast Standard: where episode files live, naming, the
+  word-for-word check, and publishing to RuntimeRepublic.com and BlueprintLiberty.com
+• CONTROL 03, 10, 15 and 16 applied to the narration pipeline (Python), since it is software
+
+Groundwork (CONTROL 06, configuration files, the pipeline on a feature branch) may be
+prepared while Phases 0 and 1 finish. No narration runs on `main` until the Phase 1
+exit gate is met.
 
 Exit gate: one full course published as podcast episodes.
 

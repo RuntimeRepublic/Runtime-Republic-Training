@@ -1,8 +1,9 @@
 CONTROL 04 — Repository Structure & Code Organization
 
-Version: 1.0
-Date: 2026-10-30
+Version: 1.2
+Date: 2026-11-01
 Status: Draft — pending Human Engineer approval
+Change: 1.2 moves lesson images to `Images/<course>/`, so lesson folders hold text only and a whole course folder fits in a Claude Project; `scripts/move-lesson-images.ps1` moves them. 1.1 adds the narration pipeline, audio configuration, `lesson.mp3` and the GitHub Pages folder (CONTROL 06).
 Project: Runtime-Republic Training
 
 ---
@@ -16,6 +17,8 @@ Runtime-Republic Training/
 ├── LICENSE                   CC BY 4.0 legal text for all training material
 ├── SOURCES.md                Links behind the dated and numeric facts in lessons
 ├── CLAUDE.md                 AI assistant rules (CONTROL 08)
+├── audio.config.yml          Narration voice, model and format (CONTROL 06)
+├── pronunciations.yml        Audio-only spelling swaps (CONTROL 06 §3.2)
 │
 ├── Courses/
 │   ├── README.md             Course catalog
@@ -23,17 +26,24 @@ Runtime-Republic Training/
 │       ├── README.md         Course page: purpose, lesson list, source repositories
 │       └── <NN-lesson-name>/
 │           ├── lesson.md     The essay, with the CONTROL 05 header
-│           └── image.png     Supporting image (CONTROL 05 §5)
+│           └── lesson.mp3    Narration, once merged (CONTROL 06 §3.5)
 │
-├── src/                      Phase 3 only: bridge software, layered per CONTROL 10
-├── tests/                    Phase 3 only
+├── Images/
+│   └── <course>/
+│       └── <image file>      Supporting image for a lesson (CONTROL 05 §5)
+│
+├── src/                      Software, layered per CONTROL 10: the narration pipeline
+│                             from Phase 2, bridge software from Phase 3
+├── tests/                    Tests for everything in src/ (CONTROL 15)
+├── docs/                     GitHub Pages: player pages and podcast.xml (CONTROL 06 §3.7)
 │
 ├── Control/                  CONTROL documents + ARCHITECTURE_STATUS.md
-├── scripts/                  init-project.sh, check-controls.sh, check-lessons.sh
-└── .github/                  CI workflow, PR template
+├── scripts/                  init-project.sh, check-controls.sh, check-lessons.sh,
+│                             move-lesson-images.ps1
+└── .github/                  CI and narration workflows, PR template
 ```
 
-`src/` and `tests/` do not exist until Phase 3 (CONTROL 02).
+`src/`, `tests/` and `docs/` do not exist until the narration pipeline is added (CONTROL 02 Phase 2).
 
 ---
 
@@ -42,11 +52,14 @@ Runtime-Republic Training/
 | If the file… | It goes in… |
 |---|---|
 | teaches one topic | `Courses/<course>/<NN-lesson-name>/lesson.md` |
-| illustrates a lesson | the same lesson folder |
+| illustrates a lesson | `Images/<course>/`, never the lesson folder |
+| narrates a lesson | `lesson.mp3` in the same lesson folder |
+| configures narration | `audio.config.yml` or `pronunciations.yml` at the root |
+| is a player page or the podcast feed | `docs/` |
 | describes a course | `Courses/<course>/README.md` |
 | sets a rule for this repository | `Control/` |
 | checks the repository | `scripts/` |
-| is software (Phase 3) | `src/`, by layer per CONTROL 10 |
+| is software (narration pipeline, bridge software) | `src/`, by layer per CONTROL 10 |
 
 ---
 
@@ -71,8 +84,8 @@ Runtime-Republic Training/
 # 5. Never Committed
 
 Secrets (keys, certificates, `.env`, service config files with credentials),
-build output, IDE user files, and audio files until Phase 2 defines where they live.
-See `.gitignore` and CONTROL 16.
+build output, IDE user files, and every audio file except a lesson's own
+`lesson.mp3` (CONTROL 06 §3.5). See `.gitignore` and CONTROL 16.
 
 ---
 

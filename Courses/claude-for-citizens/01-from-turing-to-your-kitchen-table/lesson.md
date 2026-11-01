@@ -1,6 +1,6 @@
 # From Turing to Your Kitchen Table
 
-![From Turing to Your Kitchen Table](01-from-turing-to-your-kitchen-table.png)
+![From Turing to Your Kitchen Table](../../../Images/claude-for-citizens/01-from-turing-to-your-kitchen-table.png)
 
 Course: Claude for Citizens
 Lesson: 01 of 05

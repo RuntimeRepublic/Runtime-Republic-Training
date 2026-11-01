@@ -1,0 +1,12 @@
+# Audio-only spelling swaps (CONTROL 06 §3.2).
+# Each entry replaces the exact, case-sensitive text on the left with the text on the
+# right, in memory, just before narration. lesson.md is never changed. The transcript
+# check reverses each swap before comparing, so a swap can never hide a missing word.
+#
+# Proposed entries: the Human Engineer confirms or changes each one before first use.
+
+swaps:
+  AGCL: "A G C L"
+  NBBF: "N B B F"
+  NBEF: "N B E F"
+  # KOMA: ?      # Kansas Open Meetings Act — said as a word ("KOH-mah") or as letters? Human Engineer to decide.

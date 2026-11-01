@@ -1,6 +1,6 @@
 # The One-Hour Rule
 
-![The One-Hour Rule](02-the-one-hour-rule.png)
+![The One-Hour Rule](../../../Images/one-hour-rule/02-the-one-hour-rule.png)
 
 Course: The One-Hour Rule
 Lesson: 02 of 05

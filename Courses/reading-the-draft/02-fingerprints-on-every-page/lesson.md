@@ -1,6 +1,6 @@
 # Fingerprints on Every Page
 
-![Fingerprints on Every Page](02-fingerprints-on-every-page.png)
+![Fingerprints on Every Page](../../../Images/reading-the-draft/02-fingerprints-on-every-page.png)
 
 Course: Reading the Draft
 Lesson: 02 of 02

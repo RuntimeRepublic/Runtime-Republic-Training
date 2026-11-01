@@ -33,6 +33,7 @@ OPERATIONAL TRUTH (project-specific models)
 
 ```
 CONTROL 05 — Lesson Standard & Approval Workflow
+CONTROL 06 — Audio & Podcast Standard
 ```
 
 AI + EXECUTION

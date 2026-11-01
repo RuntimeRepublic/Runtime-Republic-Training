@@ -1,6 +1,6 @@
 # Open Source, Building Things for Everyone
 
-![Open Source, Building Things for Everyone](04-open-source.png)
+![Open Source, Building Things for Everyone](../../../Images/github-for-everyone/04-open-source.png)
 
 Course: GitHub for Everyone
 Lesson: 04 of 07

@@ -1,6 +1,6 @@
 # Open Meetings Meet Open Repositories
 
-![Open Meetings Meet Open Repositories](03-open-meetings-meet-open-repositories.png)
+![Open Meetings Meet Open Repositories](../../../Images/one-hour-rule/03-open-meetings-meet-open-repositories.png)
 
 Course: The One-Hour Rule
 Lesson: 03 of 05

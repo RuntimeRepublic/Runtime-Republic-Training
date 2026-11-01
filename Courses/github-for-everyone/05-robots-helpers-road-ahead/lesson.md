@@ -1,6 +1,6 @@
 # Robots, Helpers, and the Road Ahead
 
-![Robots, Helpers, and the Road Ahead](05-the-road-ahead.png)
+![Robots, Helpers, and the Road Ahead](../../../Images/github-for-everyone/05-the-road-ahead.png)
 
 Course: GitHub for Everyone
 Lesson: 05 of 07

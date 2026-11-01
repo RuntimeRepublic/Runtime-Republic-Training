@@ -39,8 +39,9 @@ xcuserdata/
 Thumbs.db
 ~$*
 
-# Audio stays out until Phase 2 defines where episodes live (CONTROL 04 §5)
+# Audio stays out, except each lesson's own narration (CONTROL 04 §5, CONTROL 06 §3.5)
 *.mp3
+!Courses/*/*/lesson.mp3
 *.wav
 *.m4a
 *.aac

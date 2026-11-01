@@ -1,6 +1,6 @@
 # Meeting Citizens Where the Work Happens
 
-![Meeting Citizens Where the Work Happens](04-meeting-citizens.png)
+![Meeting Citizens Where the Work Happens](../../../Images/claude-for-office-holders/04-meeting-citizens.png)
 
 Course: Claude for Office Holders
 Lesson: 04 of 06

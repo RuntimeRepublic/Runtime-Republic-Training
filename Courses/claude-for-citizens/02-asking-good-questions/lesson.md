@@ -1,6 +1,6 @@
 # Asking Good Questions
 
-![Asking Good Questions](02-asking-good-questions.png)
+![Asking Good Questions](../../../Images/claude-for-citizens/02-asking-good-questions.png)
 
 Course: Claude for Citizens
 Lesson: 02 of 05

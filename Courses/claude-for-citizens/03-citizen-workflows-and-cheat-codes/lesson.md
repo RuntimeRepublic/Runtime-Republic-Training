@@ -1,6 +1,6 @@
 # Citizen Workflows and Cheat Codes
 
-![Citizen Workflows and Cheat Codes](03-citizen-workflows.png)
+![Citizen Workflows and Cheat Codes](../../../Images/claude-for-citizens/03-citizen-workflows.png)
 
 Course: Claude for Citizens
 Lesson: 03 of 05

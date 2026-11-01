@@ -1,6 +1,6 @@
 # What It Would Take Legally
 
-![What It Would Take Legally](04-what-it-would-take-legally.png)
+![What It Would Take Legally](../../../Images/one-hour-rule/04-what-it-would-take-legally.png)
 
 Course: The One-Hour Rule
 Lesson: 04 of 05

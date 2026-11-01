@@ -1,0 +1,21 @@
+# Narration settings for Republic Radio (CONTROL 06 §3.3).
+# The pipeline reads every voice-engine setting from this file and adds nothing.
+# Change a value only by Human Engineer decision, in its own pull request.
+
+provider: elevenlabs
+model: eleven_multilingual_v2      # supports request stitching; eleven_v3 does not (CONTROL 06 rule 12)
+voice_id: "{{FILL: ElevenLabs voice ID chosen by the Human Engineer}}"
+voice_settings:
+  stability: 0.5
+  similarity_boost: 0.75
+apply_text_normalization: "off"    # always off (CONTROL 06 rule 10)
+output_format: mp3_44100_128       # what ElevenLabs returns, before re-encoding
+
+podcast_bitrate: 64k               # re-encoded mono for the feed (CONTROL 06 rule 19)
+loudness_lufs: -16
+chunk_by: paragraph
+min_word_match: 0.98               # transcript check threshold (CONTROL 06 §3.4)
+
+publish_route: "{{FILL: rss (route A) or kit (route B)}}"
+intro: null                        # path to an intro file the Human Engineer owns, or null
+outro: null                        # same; must disclose the AI voice if used (CONTROL 06 rule 29)

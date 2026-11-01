@@ -1,6 +1,6 @@
 # Objections and Hard Questions
 
-![Objections and Hard Questions](05-objections-and-hard-questions.png)
+![Objections and Hard Questions](../../../Images/one-hour-rule/05-objections-and-hard-questions.png)
 
 Course: The One-Hour Rule
 Lesson: 05 of 05

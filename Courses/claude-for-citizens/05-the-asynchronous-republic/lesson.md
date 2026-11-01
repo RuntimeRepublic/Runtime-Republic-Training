@@ -1,6 +1,6 @@
 # The Asynchronous Republic
 
-![The Asynchronous Republic](05-the-asynchronous-republic.png)
+![The Asynchronous Republic](../../../Images/claude-for-citizens/05-the-asynchronous-republic.png)
 
 Course: Claude for Citizens
 Lesson: 05 of 05
