@@ -1,6 +1,6 @@
 # Reading a Repository with Claude
 
-![Reading a Repository with Claude](02-reading-a-repository-with-claude.png)
+![Reading a Repository with Claude](../../../Images/claude-and-github/02-reading-a-repository-with-claude.png)
 
 Course: Claude and GitHub
 Lesson: 02 of 03

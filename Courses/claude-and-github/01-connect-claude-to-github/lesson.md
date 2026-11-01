@@ -1,6 +1,6 @@
 # Connect Claude to GitHub
 
-![Connect Claude to GitHub](01-connect-claude-to-github.png)
+![Connect Claude to GitHub](../../../Images/claude-and-github/01-connect-claude-to-github.png)
 
 Course: Claude and GitHub
 Lesson: 01 of 03
