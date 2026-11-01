@@ -9,9 +9,9 @@ than exact screen positions.
 
 | # | Lesson | Status | What you learn |
 |---|---|---|---|
-| 01 | [Connect ChatGPT to GitHub](01-connect-chatgpt-to-github/lesson.md) | Draft | Settings → Apps → GitHub; choose repositories; the app is read-only |
-| 02 | [Reading a Repository with ChatGPT](02-reading-a-repository-with-chatgpt/lesson.md) | Draft | Reviewer instructions and prompts: map, summary with receipts, strongest objections |
-| 03 | [Proposing Changes with Codex](03-proposing-changes-with-codex/lesson.md) | Draft | Drafting suggested changes; Codex pull requests; the AI proposes, a human decides |
+| 01 | [Connect ChatGPT to GitHub](01-connect-chatgpt-to-github/lesson.md) | Review | Settings → Apps → GitHub; choose repositories; the app is read-only |
+| 02 | [Reading a Repository with ChatGPT](02-reading-a-repository-with-chatgpt/lesson.md) | Review | Reviewer instructions and prompts: map, summary with receipts, strongest objections |
+| 03 | [Proposing Changes with Codex](03-proposing-changes-with-codex/lesson.md) | Review | Drafting suggested changes; Codex pull requests; the AI proposes, a human decides |
 
 Facts behind each lesson: [SOURCES.md](../../SOURCES.md).
 

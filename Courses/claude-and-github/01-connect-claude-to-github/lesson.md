@@ -1,10 +1,12 @@
 # Connect Claude to GitHub
 
+![Connect Claude to GitHub](../../../Images/claude-and-github/01-connect-claude-to-github.png)
+
 Course: Claude and GitHub
 Lesson: 01 of 03
-Status: Draft
+Status: Review
 Runtime: about 3 minutes
-Image: Pending
+Image: 01-connect-claude-to-github.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
@@ -19,7 +21,7 @@ First, a reminder of why this matters. GitHub is where a growing number of publi
 
 Here's the setup, in plain steps. Menus change over time, so look for these words rather than exact positions.
 
-Step one. Have a GitHub account. It's free. You only need it to reach private projects. Public ones can be read by anyone.
+Step one. Have a GitHub account. It's free. Claude's GitHub connector asks you to sign in to GitHub, even to read public projects.
 
 Step two. In Claude, open your settings and find the connectors, sometimes called integrations. Turn on GitHub. Claude will send you to GitHub to sign in and approve access. What you can use may depend on your plan.
 

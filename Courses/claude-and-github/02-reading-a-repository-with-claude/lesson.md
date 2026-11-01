@@ -1,10 +1,12 @@
 # Reading a Repository with Claude
 
+![Reading a Repository with Claude](../../../Images/claude-and-github/02-reading-a-repository-with-claude.png)
+
 Course: Claude and GitHub
 Lesson: 02 of 03
-Status: Draft
+Status: Review
 Runtime: about 3 minutes
-Image: Pending
+Image: 02-reading-a-repository-with-claude.png
 Podcast: Not recorded
 Sources: None
 Approved by: —

@@ -27,13 +27,13 @@ COMPLETED:
 - Claude for Office Holders bonus Lesson 06 (GitHub within the Open Meetings Act), Approved by the Human Engineer (2026-10-30), with image
 - Building With Claude course moved to private repo Lean-Office-Pro-LLC (business and developer content)
 - Course pages for AGCL (NBLF), NBBF, NBEF (planned)
-- GitHub for Everyone course: 7 lessons in Draft, 2 with images, brought over from PR #1 (closed)
+- GitHub for Everyone course: 7 lessons in Draft, all 7 with images, brought over from PR #1 (closed)
 - SOURCES.md and official CC BY 4.0 LICENSE brought over from PR #1
 - scripts/check-lessons.sh with 10 tests, run in CI
 - Learner README and CC BY 4.0 license notice
 - The One-Hour Rule course: 5 lessons Approved by the Human Engineer (2026-10-30), with images (Kansas bill transparency and KOMA)
 - Reading the Draft course (Long length): Lessons 01–02 Approved by the Human Engineer (2026-10-30), with images
-- Claude and GitHub and ChatGPT and GitHub courses (Short length): 3 lessons each in Draft, images pending
+- Claude and GitHub and ChatGPT and GitHub courses (Short length): 3 lessons each in Review, images pending
 - Phase 2 groundwork: CONTROL 06 Audio & Podcast Standard drafted; CONTROL 02 and 04 updated; audio.config.yml and pronunciations.yml added; .gitignore allows lesson.mp3 only
 
 NEXT:

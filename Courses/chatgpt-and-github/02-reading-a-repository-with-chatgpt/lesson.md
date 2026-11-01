@@ -2,7 +2,7 @@
 
 Course: ChatGPT and GitHub
 Lesson: 02 of 03
-Status: Draft
+Status: Review
 Runtime: about 3 minutes
 Image: Pending
 Podcast: Not recorded
@@ -21,7 +21,7 @@ Why those rules? Because an assistant that only agrees with you isn't reviewing 
 
 Now three prompts that do most of the work.
 
-The first builds a map. Say: "Using the repository named One-Hour Rule, list the main files, what each one is for, and what I should read first." Name the repository in your prompt. ChatGPT finds repositories by name.
+The first builds a map. Say: "Using my copy of the Runtime Republic Training repository, list the main files in the One-Hour Rule course, what each one is for, and what I should read first." Name the repository in your prompt. ChatGPT finds repositories by name.
 
 The second asks for receipts. Say: "Summarize this draft in one paragraph. Then list each claim, with the file it came from." Now every sentence can be checked.
 

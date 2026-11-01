@@ -2,7 +2,7 @@
 
 Course: Claude and GitHub
 Lesson: 03 of 03
-Status: Draft
+Status: Review
 Runtime: about 3 minutes
 Image: Pending
 Podcast: Not recorded

@@ -2,7 +2,7 @@
 
 Course: ChatGPT and GitHub
 Lesson: 01 of 03
-Status: Draft
+Status: Review
 Runtime: about 3 minutes
 Image: Pending
 Podcast: Not recorded
@@ -25,6 +25,8 @@ Step two. In ChatGPT, open Settings, then Apps, and find GitHub. ChatGPT will se
 
 Step three. Choose which repositories ChatGPT may see. You can pick just the ones you need, and change that list later from the same place. ChatGPT may ask which projects you use most, so it can prepare them for faster answers.
 
+ChatGPT reads only the repositories you allow, which means ones in your own account or ones you've been given access to. To study someone else's public project, like the One-Hour Rule, make your own copy first. GitHub calls that a fork, and it takes one button. Then allow ChatGPT to see your copy.
+
 A few things to know. New repositories can take several minutes to show up. Search works by repository name, not by file name. And what's available depends on your plan. OpenAI says some plans may only see GitHub in certain modes, such as deep research. If you don't see it, check your plan.
 
 Most important: this GitHub app is read-only. ChatGPT can read your repositories, but it can't change them. Making changes is a separate tool, which we'll cover in Part Three.
@@ -33,7 +35,7 @@ Start with public projects. Reading changes nothing, so you can't break anything
 
 And a first prompt to try. Say or type: "Look at this repository and explain, in plain words, what it is for, who it's for, and where a newcomer should start." Then follow up with: "What should I read first, and why?"
 
-Let's recap. Get a GitHub account. In ChatGPT, go to Settings, then Apps, then GitHub, and approve it. Choose only the repositories you need. Give new ones a few minutes to appear. And remember, it reads but doesn't write.
+Let's recap. Get a GitHub account. In ChatGPT, go to Settings, then Apps, then GitHub, and approve it. Choose only the repositories you need, and fork someone else's project to study it. Give new ones a few minutes to appear. And remember, it reads but doesn't write.
 
 Next time, we'll put ChatGPT to work reading a project, with prompts that find what matters and flag what's missing.
 
