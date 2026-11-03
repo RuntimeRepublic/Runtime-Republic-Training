@@ -1,8 +1,9 @@
 CONTROL 01 — Project Goal & Scope
 
-Version: 1.0
-Date: 2026-10-30
+Version: 1.1
+Date: 2026-11-03
 Status: Draft — pending Human Engineer approval
+Change: 1.1 moves the glossary (§7) to CONTROL 12 — Glossary of Terms.
 Project: Runtime-Republic Training
 
 ---
@@ -87,8 +88,9 @@ canonical control document disagree, the control document wins and the lesson is
 
 # 7. Glossary
 
-| Term | Meaning |
-|------|---------|
+All terms are defined in CONTROL 12 — Glossary of Terms.
+
+------|---------|
 | AGCL | American Gold Contract for Liberty |
 | NBLF | Node-Based Liberty Framework — the course name for AGCL topics |
 | NBBF | Node-Based Budget Framework |
