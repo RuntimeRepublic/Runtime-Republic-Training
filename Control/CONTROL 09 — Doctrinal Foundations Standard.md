@@ -80,9 +80,9 @@ Starting entries (2026-11-04). New entries are added only with Human Engineer ap
 | Lens | Entry |
 |---|---|
 | First principle | Every authority and every tax must earn its next term. When its purpose is met or its time runs out, it ends unless people deliberately renew it. |
-| Design rationale | **Problem:** temporary authority and taxes become permanent by default. **Rule:** AGCL Control 00A — authority expires automatically (A1); renewal needs affirmative action (A2); unmet metrics end it early (A3). **Mechanism:** a timer plus metrics forces Plan-Do-Check-Act: Plan (defined problem, duration, metrics), Do (act within the window), Check (A3), Act (A2 renew, or expire). **Alternative:** open-ended authority with repeal by vote; rejected because the burden falls on those who want it ended. **Check:** every authority shows its expiration date and metrics publicly. |
+| Design rationale | **Problem:** temporary authority and taxes become permanent by default. **Rule:** AGCL Control 00A — authority expires automatically (A1); renewal needs affirmative action (A2); unmet metrics end it early (A3). The same decay applies to debt and spending: Control 00E rule E1 (every debt needs a sunset), Control 00F rule F7 (thresholds trigger automatic funding reduction), Point 09 (debt falls at least 0.25% per quarter, compounded, to zero) and Points 05.1 and 05.3 (spending falls annually until debt is zero). **Mechanism:** a timer plus metrics forces Plan-Do-Check-Act: Plan (defined problem, duration, metrics), Do (act within the window), Check (A3), Act (A2 renew, or expire). **Alternative:** open-ended authority with repeal by vote; rejected because the burden falls on those who want it ended. **Check:** every authority shows its expiration date and metrics publicly. |
 | Political theology | Exodus 36:3–7 — collection stopped once the need was met (**Precedent**; a voluntary offering, not a tax). Leviticus 25:10–16 — land priced by years left to the Jubilee, so a claim shrank to zero (**Analogy**; governs land, not taxes). Deuteronomy 15:1–2, 12 — debts and servants released every seventh year (**Analogy**). Genesis 41:34–36 with 47:24–26 — Joseph's one-fifth, tied to seven years, became permanent (**Precedent**, cautionary). Automatic expiration and metrics are **Modern design**. |
-| Not in the AGCL | A tax rate that falls as the remaining need shrinks, and the "0.025% quarterly decay" figure, are not in the canonical AGCL documents. Teach them only as proposals. |
+| Not in the AGCL | A tax rate that falls by itself as the remaining need shrinks. The AGCL applies decay to authority, debt and spending, not to a tax rate; teach a tax taper only as a proposal. The "0.025% quarterly" figure seen elsewhere is a misstatement of Point 09's 0.25% per quarter debt reduction; cite Point 09 instead. |
 
 ### F2 — Ownership is protected from the state
 
@@ -130,7 +130,9 @@ Starting entries (2026-11-04). New entries are added only with Human Engineer ap
 • CONTROL 05 — Lesson Standard & Approval Workflow (review; writing for the ear)
 • CONTROL 12 — Glossary of Terms (lens and classification terms to be added)
 • AGCL — Doctrinal Foundations and Economic Lineage (the economic counterpart; non-operative)
-• AGCL — Control 00A Authority and Expiration; Control 00C Property Rights and Pooling
+• AGCL — Control 00A Authority and Expiration; 00C Property Rights and Pooling;
+  00E Debt and Intergenerational Liability; 00F Uncertainty and Black-Swan Stress;
+  Points 05.1, 05.3 and 09
 
 ---
 
