@@ -59,6 +59,9 @@ that definition and never restate it differently.
 | Word-for-word check | The transcript of a narration compared word by word with the spoken text. Below `min_word_match` (default 0.98), the run fails (CONTROL 06 §3.4). | Runtime-Republic-Training |
 | Text fingerprint | The SHA-256 of a lesson's spoken text, stored in its audio block. A lesson is re-narrated only when it changes (CONTROL 06 §3.5). | Runtime-Republic-Training |
 | Narration pull request | The pull request that delivers each narration. Merging it is the Human Engineer's acceptance; closing it rejects the narration (CONTROL 06 §3.6). | Runtime-Republic-Training |
+| Member | A person who supports at least one AGCL Point (CONTROL 07 §3.1). | Runtime-Republic-Training |
+| Team | A group trained together; every member meets the membership rule (CONTROL 07 §3.1). | Runtime-Republic-Training |
+| Directional support | Working toward the AGCL's goals without having to agree with every rule (CONTROL 07). | Runtime-Republic-Training |
 
 ## 3.3 Terms owned elsewhere (name and link only)
 
