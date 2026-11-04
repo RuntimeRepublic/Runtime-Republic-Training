@@ -53,6 +53,12 @@ CONTROL 10 — Architectural Separation & Logic Sovereignty
 CONTROL 16 — Release, Security & Readiness
 ```
 
+DOCTRINE (explains; never overrides a control)
+
+```
+CONTROL 09 — Doctrinal Foundations Standard
+```
+
 STATUS
 
 ```
