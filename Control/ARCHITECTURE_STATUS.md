@@ -58,6 +58,7 @@ DECISIONS LOG:
 | 2026-10-31 | Narrator is a GitHub Action pipeline in this repository (Republic Radio), replacing Essay-Audio-Runtime; Essay-Audio-Runtime parked | CONTROL 02 §4, CONTROL 06 |
 | 2026-10-31 | Phase 2 groundwork may be prepared while Phases 0–1 finish; no narration runs on main before the Phase 1 exit gate | CONTROL 02 §4 |
 | 2026-10-31 | Each narration arrives as a pull request; merging it is the Human Engineer's acceptance | CONTROL 06 §3.6 |
+| 2026-11-04 | Training is nonpartisan: any team may declare a party; Runtime Republic trains any team that supports the AGCL control documents as directional goals; paid software and consulting belong to Lean Office Pro LLC | CONTROL 07 (Draft) |
 
 VERIFICATION LOG:
 
