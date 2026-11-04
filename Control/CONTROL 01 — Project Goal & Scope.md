@@ -1,9 +1,9 @@
 CONTROL 01 — Project Goal & Scope
 
-Version: 1.1
-Date: 2026-11-03
+Version: 1.2
+Date: 2026-11-04
 Status: Draft — pending Human Engineer approval
-Change: 1.1 moves the glossary (§7) to CONTROL 12 — Glossary of Terms.
+Change: 1.2 places Scripture above the canonical framework documents (§6), per AGCL Control 000 (proposed). 1.1 moves the glossary (§7) to CONTROL 12 — Glossary of Terms.
 Project: Runtime-Republic Training
 
 ---
@@ -83,6 +83,16 @@ canonical control document disagree, the control document wins and the lesson is
 | AGCL (NBLF) | https://github.com/jhodges07/AGCL-Control-Documents |
 | NBBF | https://github.com/jhodges07/NBBF-Control-Documents |
 | NBEF | https://github.com/jhodges07/NBEF-Control-Documents |
+
+Authority order, highest first:
+
+1. Scripture, the chief control document (AGCL Control 000 — Chief Authority Control, proposed)
+2. The canonical framework control documents above
+3. This repository's CONTROL documents
+4. Training material, and the witnesses it cites (economists, historians, theologians)
+
+A lower level may apply a higher level, never contradict it. Teaching how Scripture bears
+on a framework rule follows CONTROL 09 — Doctrinal Foundations Standard.
 
 ---
 
