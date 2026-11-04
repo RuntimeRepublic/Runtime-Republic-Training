@@ -41,6 +41,11 @@ that definition and never restate it differently.
 
 | Term | Meaning | Owner |
 |---|---|---|
+| First-principles review | A foundation stated in one or two plain sentences, tied to an AGCL control or Point (CONTROL 09 §3.2). | Runtime-Republic-Training |
+| Design rationale | The reasoning behind a rule, recorded separately from it: problem, rule, mechanism, alternative, check (CONTROL 09 §3.3). | Runtime-Republic-Training |
+| Political theology | The lens showing how an AGCL rule applies Scripture (CONTROL 09 §3.4). | Runtime-Republic-Training |
+| Link classification | One of Command, Principle, Precedent, Analogy or Modern design, given to every Scripture link (CONTROL 09 §3.4). | Runtime-Republic-Training |
+| Foundations Register | The list of foundations, each recorded through all three lenses (CONTROL 09 §3.5). | Runtime-Republic-Training |
 | Course | An ordered set of lessons on one subject. | Runtime-Republic-Training |
 | Lesson | One topic, delivered as an essay and, once approved, a podcast episode. | Runtime-Republic-Training |
 | Training material | Lessons, essays and podcasts. Material that teaches but never sets rules; the canonical control document wins any disagreement (CONTROL 01 §6). | Runtime-Republic-Training |
@@ -73,6 +78,13 @@ that definition and never restate it differently.
 | CONTROL document | See the master glossary. | {{FILL: RuntimeRepublic link, once the master list exists}} |
 | Agentic Civics (HSAC) | See the master glossary. | {{FILL: RuntimeRepublic link, once the master list exists}} |
 | Constitutional republic | See the master glossary. | {{FILL: RuntimeRepublic link, once the master list exists}} |
+| Point | One of the AGCL's numbered proposals, 01–10. | [AGCL-Control-Documents](https://github.com/jhodges07/AGCL-Control-Documents) |
+| Chief control document | Scripture, under AGCL Control 000 (proposed). | [AGCL-Control-Documents](https://github.com/jhodges07/AGCL-Control-Documents) |
+| Ruling | See AGCL Control 000 (proposed). | [AGCL-Control-Documents](https://github.com/jhodges07/AGCL-Control-Documents) |
+| Witness | See AGCL Control 000 (proposed). | [AGCL-Control-Documents](https://github.com/jhodges07/AGCL-Control-Documents) |
+| Hermeneutical method | See AGCL Control 000 (proposed). | [AGCL-Control-Documents](https://github.com/jhodges07/AGCL-Control-Documents) |
+| Whole-system citation | See AGCL Control 000 (proposed), Rule S4. | [AGCL-Control-Documents](https://github.com/jhodges07/AGCL-Control-Documents) |
+| Doctrinal companion | See AGCL Doctrinal Foundations and Economic Lineage. | [AGCL-Control-Documents](https://github.com/jhodges07/AGCL-Control-Documents) |
 
 ---
 
