@@ -88,7 +88,7 @@ Starting entries (2026-11-04). New entries are added only with Human Engineer ap
 | Lens | Entry |
 |---|---|
 | First principle | What you own cannot be taken by recurring government claims, and nothing may be pooled before its owner is known. |
-| Design rationale | **Rule:** AGCL Point 09 ("property ownership becomes absolute") and Control 00C ("ownership precedes pooling"). Remaining questions follow §3.3 rule 4; {{FILL: problem, mechanism, alternative and check for F2, from the Human Engineer}}. |
+| Design rationale | **Problem:** government can take what people own through recurring claims, or pool it before anyone knows whose it is. **Rule:** AGCL Control 00C: "Ownership precedes authority" and "pooling without ownership is confiscation." Point 09 ends federal authority to tax property: no recurring claims on land or assets, and no transfer of ownership through taxation. **Mechanism:** ownership is declared before anything is pooled, value reverts to its owner when a program ends or fails, and no recurring tax can attach to owned property. **Alternative:** recurring property taxes softened by exemptions and relief; rejected because the owner never fully owns, and title can still pass for unpaid tax. **Check:** no asset is pooled without a declared owner, and no title passes for an unpaid recurring tax. |
 | Political theology | Exodus 20:15, 17 — no stealing or coveting (**Principle**). 1 Kings 21 — Naboth refuses the king his vineyard (**Precedent**). Counter-texts: Leviticus 25:23 (the land belongs to God) and Leviticus 19:9–10 (gleanings left for the poor). "Absolute" is **Modern design**. |
 
 ### F3 — Taxation is legitimate but bounded
@@ -96,7 +96,7 @@ Starting entries (2026-11-04). New entries are added only with Human Engineer ap
 | Lens | Entry |
 |---|---|
 | First principle | Government may tax, but it must show why each tax continues. |
-| Design rationale | Applies F1 to revenue: AGCL Points 01, 02 and 05.2 (consumption taxation, revenue sharing, clawback). {{FILL: full rationale record for F3, from the Human Engineer}} |
+| Design rationale | **Problem:** taxes attach to income and labor, hide inside prices, continue by inertia, and get spent outside lawful authority. **Rule:** AGCL Point 01 moves taxation from income and labor to visible point-of-sale transactions. Point 05.2: a tax dollar assigned outside constitutional limits stays under the taxpayer's authority. Control 00A: taxing power, as fiscal authority, expires unless renewed. **Mechanism:** tax only at a visible transaction, every dollar traced on a public ledger, unauthorized spending redirected automatically, and taxing authority on a timer. **Alternative:** income and payroll taxes with yearly appropriations; rejected because the tax is hidden, follows the earner, and continues without proof. **Check:** the tax is shown at every purchase, every dollar can be traced, and no dollar is spent outside enumerated authority. |
 | Political theology | Matthew 22:21 and Romans 13:6–7 — taxes are owed to governing authorities (**Command**; a counter-text to any claim that taxation is wrong). 1 Samuel 8:10–18 — rulers who take the people's resources become oppressive (**Precedent**). |
 
 ---
