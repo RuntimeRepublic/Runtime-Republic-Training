@@ -34,6 +34,7 @@ OPERATIONAL TRUTH (project-specific models)
 ```
 CONTROL 05 — Lesson Standard & Approval Workflow
 CONTROL 06 — Audio & Podcast Standard
+CONTROL 07 — Who We Train
 CONTROL 12 — Glossary of Terms
 ```
 
