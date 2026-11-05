@@ -11,6 +11,7 @@ Choose a series below, then follow its essays in reading order. Each essay ends 
 | [Reading the Draft](reading-the-draft/README.md) | 2 lessons Approved | Long essays (10–12 minutes) that read model legislation clause by clause, starting with an Open Meetings Act safe harbor |
 | [Claude and GitHub](claude-and-github/README.md) | 3 lessons in Review | Setting up Claude to read GitHub projects and propose changes safely, with ready-to-use prompts |
 | [ChatGPT and GitHub](chatgpt-and-github/README.md) | 3 lessons in Review | Setting up ChatGPT to read GitHub projects, and Codex to propose changes safely, with ready-to-use prompts |
+| [Distinctions Without Operational Consequence](distinctions-without-operational-consequence/README.md) | 1 lesson in Draft | An essay on distinctions between the Nazi and Soviet systems that do not change how power was used |
 | [AGCL — Node-Based Liberty Framework](agcl-nblf/README.md) | Planned | The American Gold Contract for Liberty |
 | [NBBF — Node-Based Budget Framework](nbbf/README.md) | Planned | Node-scoped budgeting, authority boundaries, exit and sunset rules |
 | [NBEF — Node-Based Education Framework](nbef/README.md) | Planned | The Node-Based Education Framework |
