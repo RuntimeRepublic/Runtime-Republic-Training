@@ -4,7 +4,7 @@
 
 Course: The Agentic Civic Node
 Lesson: 02 of 06
-Status: Approved
+Status: Draft
 Runtime: about 4 minutes
 Image: 02-getting-started-as-a-group.png
 Podcast: Not recorded

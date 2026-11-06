@@ -4,7 +4,7 @@
 
 Course: The Agentic Civic Node
 Lesson: 06 of 06
-Status: Approved
+Status: Draft
 Runtime: about 4 minutes
 Image: 06-your-node-starts-now.png
 Podcast: Not recorded

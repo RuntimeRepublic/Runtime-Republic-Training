@@ -4,7 +4,7 @@
 
 Course: The Agentic Civic Node
 Lesson: 05 of 06
-Status: Approved
+Status: Draft
 Runtime: about 4 minutes
 Image: 05-lessons-that-travel.png
 Podcast: Not recorded
