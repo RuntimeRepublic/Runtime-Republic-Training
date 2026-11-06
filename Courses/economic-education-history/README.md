@@ -1,6 +1,9 @@
-# Distinctions Without Operational Consequence
+# Economic Education — History
 
-One essay by James A. Hodges, 2026-11-04. It argues that formal distinctions between the Nazi and Soviet systems, including residual private title, did not change how power was used.
+Essays on economic history: how regimes actually treated property, workers and rivals,
+judged by what they did rather than what their platforms said.
+
+Tags: #socialism #political-enemies
 
 | # | Lesson | Status | Image |
 |---|---|---|---|

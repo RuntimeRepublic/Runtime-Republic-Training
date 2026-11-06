@@ -1,8 +1,8 @@
 # Distinctions Without Operational Consequence
 
-![Distinctions Without Operational Consequence](../../../Images/distinctions-without-operational-consequence/01-distinctions-without-operational-consequence.jpg)
+![Distinctions Without Operational Consequence](../../../Images/economic-education-history/01-distinctions-without-operational-consequence.jpg)
 
-Course: Distinctions Without Operational Consequence
+Course: Economic Education — History
 Lesson: 01 of 01
 Status: Draft
 Runtime: about 6 minutes
@@ -11,6 +11,7 @@ Podcast: Not recorded
 Sources: None
 Approved by: —
 License: CC BY 4.0
+Tags: #socialism #political-enemies
 
 ---
 
