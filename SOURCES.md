@@ -136,6 +136,18 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 
 ---
 
+## Discord for Everyone
+
+### Lesson 01 — Where the Talking Happens
+
+| Fact | Source |
+|---|---|
+| "Your place to talk": Discord moves away from a gaming-only focus, June 2020 | [PC Gamer: Discord ditches gaming branding](https://www.pcgamer.com/discord-ditches-its-gaming-branding-in-a-bid-to-become-a-general-purpose-chat-app) |
+| Discord ends acquisition talks with Microsoft (reported value around $10 billion), April 2021 | [GamesRadar: Discord ends buyout talks with Microsoft](https://www.gamesradar.com/discord-reportedly-ends-buyout-talks-with-microsoft-before-a-deal-is-reached) |
+| Over 200 million monthly active users; Jason Citron steps down; Humam Sakhnini named CEO; IPO reports, April 2025 | [TechCrunch, 2025-04-23](https://techcrunch.com/2025/04/23/discord-appoints-former-activision-blizzard-exec-humam-sakhnini-as-ceo) |
+
+---
+
 ## Claude and GitHub
 
 | Fact | Source |
