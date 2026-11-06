@@ -12,7 +12,7 @@ Choose a series below, then follow its essays in reading order. Each essay ends 
 | [Claude and GitHub](claude-and-github/README.md) | 3 lessons in Review | Setting up Claude to read GitHub projects and propose changes safely, with ready-to-use prompts |
 | [ChatGPT and GitHub](chatgpt-and-github/README.md) | 3 lessons in Review | Setting up ChatGPT to read GitHub projects, and Codex to propose changes safely, with ready-to-use prompts |
 | [Discord for Everyone](discord-for-everyone/README.md) | 1 lesson in Draft | What Discord is, where it came from, and how Runtime Republic uses it: Discord is for talk, GitHub is the record |
-| [The Agentic Civic Node](the-agentic-civic-node/README.md) | 6 lessons Approved | How a group of citizens starts, grows and connects an Agentic Civic Node: one cause, one Human Engineer, an open record, AI agents under human control, and lessons that travel |
+| [The Agentic Civic Node](the-agentic-civic-node/README.md) | 6 lessons in Draft | How a group of citizens starts, grows and connects an Agentic Civic Node: one cause, one Human Engineer, an open record, AI agents under human control, and lessons that travel |
 | [Economic Education — History](economic-education-history/README.md) | 1 lesson in Draft | Economic history: how regimes actually treated property, workers and rivals, starting with the Nazi and Soviet systems (#socialism #political-enemies) |
 | [AGCL — Node-Based Liberty Framework](agcl-nblf/README.md) | Planned | The American Gold Contract for Liberty |
 | [NBBF — Node-Based Budget Framework](nbbf/README.md) | Planned | Node-scoped budgeting, authority boundaries, exit and sunset rules |

@@ -4,7 +4,7 @@
 
 Course: The Agentic Civic Node
 Lesson: 04 of 06
-Status: Approved
+Status: Draft
 Runtime: about 6 minutes
 Image: 04-when-a-node-grows.png
 Podcast: Not recorded
