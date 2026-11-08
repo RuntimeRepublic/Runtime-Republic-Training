@@ -1,5 +1,7 @@
 # Runtime Republic Launches Runtime Republic University: Free Courses in AI, GitHub and Discord for Citizens
 
+![Runtime Republic University: a practical learning network for a more accountable Kansas](../Images/press/2026-11-08-runtime-republic-university-launch.jpg)
+
 **FOR IMMEDIATE RELEASE**
 
 **SEDGWICK COUNTY, Kan. — November 8, 2026** — Runtime Republic, a civic-tech project, this weekend opened Runtime Republic University (RRU), a new GitHub organization building free courses in Claude AI, GitHub and Discord. RRU has completed and tested its first course, on Discord. It is not yet open to students.
