@@ -1,10 +1,12 @@
 # The Honest Risks and the Real Test
 
+![The Honest Risks and the Real Test](../../../Images/agentic-runtime-republic/09-the-honest-risks-and-the-real-test.png)
+
 Course: The Agentic Runtime Republic
 Lesson: 09 of 10
 Status: Review
 Runtime: about 5 minutes
-Image: Pending
+Image: 09-the-honest-risks-and-the-real-test.png
 Podcast: Not recorded
 Sources: [AGCL Control Documents](https://github.com/RuntimeRepublic/AGCL-Control-Documents)
 Approved by: —

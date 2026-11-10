@@ -1,10 +1,12 @@
 # Training the Citizens Who Run It
 
+![Training the Citizens Who Run It](../../../Images/agentic-runtime-republic/08-training-the-citizens-who-run-it.png)
+
 Course: The Agentic Runtime Republic
 Lesson: 08 of 10
 Status: Review
 Runtime: about 3 minutes
-Image: Pending
+Image: 08-training-the-citizens-who-run-it.png
 Podcast: Not recorded
 Sources: [AGCL Control Documents](https://github.com/RuntimeRepublic/AGCL-Control-Documents)
 Approved by: —

@@ -1,10 +1,12 @@
 # The Runtime, Where the Work Lives
 
+![The Runtime, Where the Work Lives](../../../Images/agentic-runtime-republic/03-the-runtime-where-the-work-lives.png)
+
 Course: The Agentic Runtime Republic
 Lesson: 03 of 10
 Status: Review
 Runtime: about 4 minutes
-Image: Pending
+Image: 03-the-runtime-where-the-work-lives.png
 Podcast: Not recorded
 Sources: [AGCL Control Documents](https://github.com/RuntimeRepublic/AGCL-Control-Documents)
 Approved by: —

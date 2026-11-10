@@ -1,10 +1,12 @@
 # Why the Movement Speeds Up
 
+![Why the Movement Speeds Up](../../../Images/agentic-runtime-republic/07-why-the-movement-speeds-up.png)
+
 Course: The Agentic Runtime Republic
 Lesson: 07 of 10
 Status: Review
 Runtime: about 3 minutes
-Image: Pending
+Image: 07-why-the-movement-speeds-up.png
 Podcast: Not recorded
 Sources: [AGCL Control Documents](https://github.com/RuntimeRepublic/AGCL-Control-Documents)
 Approved by: —

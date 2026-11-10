@@ -1,10 +1,12 @@
 # The Republic Was Never a Building
 
+![The Republic Was Never a Building](../../../Images/agentic-runtime-republic/10-the-republic-was-never-a-building.png)
+
 Course: The Agentic Runtime Republic
 Lesson: 10 of 10
 Status: Review
 Runtime: about 3 minutes
-Image: Pending
+Image: 10-the-republic-was-never-a-building.png
 Podcast: Not recorded
 Sources: [AGCL Control Documents](https://github.com/RuntimeRepublic/AGCL-Control-Documents)
 Approved by: —
