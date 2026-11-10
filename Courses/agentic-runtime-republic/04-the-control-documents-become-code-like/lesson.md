@@ -1,10 +1,12 @@
 # The Control Documents Become Code-Like
 
+![The Control Documents Become Code-Like](../../../Images/agentic-runtime-republic/04-the-control-documents-become-code-like.png)
+
 Course: The Agentic Runtime Republic
 Lesson: 04 of 10
 Status: Review
 Runtime: about 4 minutes
-Image: Pending
+Image: 04-the-control-documents-become-code-like.png
 Podcast: Not recorded
 Sources: [AGCL Control Documents](https://github.com/RuntimeRepublic/AGCL-Control-Documents)
 Approved by: —

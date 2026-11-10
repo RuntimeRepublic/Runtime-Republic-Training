@@ -1,10 +1,12 @@
 # Legislators Who Move Toward the Runtime
 
+![Legislators Who Move Toward the Runtime](../../../Images/agentic-runtime-republic/06-legislators-who-move-toward-the-runtime.png)
+
 Course: The Agentic Runtime Republic
 Lesson: 06 of 10
 Status: Review
 Runtime: about 3 minutes
-Image: Pending
+Image: 06-legislators-who-move-toward-the-runtime.png
 Podcast: Not recorded
 Sources: [AGCL Control Documents](https://github.com/RuntimeRepublic/AGCL-Control-Documents)
 Approved by: —

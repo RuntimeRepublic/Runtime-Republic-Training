@@ -1,10 +1,12 @@
 # The Old Republic Ran on Meetings
 
+![The Old Republic Ran on Meetings](../../../Images/agentic-runtime-republic/02-the-old-republic-ran-on-meetings.png)
+
 Course: The Agentic Runtime Republic
 Lesson: 02 of 10
 Status: Review
 Runtime: about 2 minutes
-Image: Pending
+Image: 02-the-old-republic-ran-on-meetings.png
 Podcast: Not recorded
 Sources: [AGCL Control Documents](https://github.com/RuntimeRepublic/AGCL-Control-Documents)
 Approved by: —
