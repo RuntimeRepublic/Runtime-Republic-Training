@@ -14,6 +14,7 @@ Choose a series below, then follow its essays in reading order. Each essay ends 
 | [Discord for Everyone](discord-for-everyone/README.md) | 1 lesson in Draft | What Discord is, where it came from, and how Runtime Republic uses it: Discord is for talk, GitHub is the record |
 | [The Agentic Civic Node](the-agentic-civic-node/README.md) | 6 lessons in Draft | How a group of citizens starts, grows and connects an Agentic Civic Node: one cause, one Human Engineer, an open record, AI agents under human control, and lessons that travel |
 | [The Agentic Runtime Republic](agentic-runtime-republic/README.md) | 10 parts in Review | A futuristic essay set on June 1, 2027: how property-rights groups and legislators using GitHub-connected AI and social media move toward the AGCL objectives |
+| [Close Encounters of the Government Kind](close-encounters/README.md) | 1 lesson in Draft | A social media challenge: find out which governments take your money and who gets paid first in your house, using the five Close Encounter levels |
 | [Economic Education — History](economic-education-history/README.md) | 1 lesson in Draft | Economic history: how regimes actually treated property, workers and rivals, starting with the Nazi and Soviet systems (#socialism #political-enemies) |
 | [AGCL — Node-Based Liberty Framework](agcl-nblf/README.md) | Planned | The American Gold Contract for Liberty |
 | [NBBF — Node-Based Budget Framework](nbbf/README.md) | Planned | Node-scoped budgeting, authority boundaries, exit and sunset rules |
