@@ -1,10 +1,12 @@
 # It's Not Aliens: A Confession About My Budget
 
+![It's Not Aliens: A Confession About My Budget](../../../Images/close-encounters/02-its-not-aliens.png)
+
 Course: Close Encounters of the Government Kind
 Lesson: 02 of 02
 Status: Draft
 Runtime: about 4 minutes
-Image: Pending
+Image: 02-its-not-aliens.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
