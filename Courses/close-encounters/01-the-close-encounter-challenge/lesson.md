@@ -1,10 +1,12 @@
 # The Close Encounter Challenge: Who Gets Paid First in Your House?
 
+![The Close Encounter Challenge: Who Gets Paid First in Your House?](../../../Images/close-encounters/01-the-close-encounter-challenge.png)
+
 Course: Close Encounters of the Government Kind
-Lesson: 01 of 01
+Lesson: 01 of 02
 Status: Draft
 Runtime: about 6 minutes
-Image: Pending
+Image: 01-the-close-encounter-challenge.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
@@ -86,7 +88,13 @@ You don't need a mountain made of mashed potatoes. You need a pay stub, a bill, 
 
 Let's sum up. Governments, not aliens, are landing on our paychecks, our bills, and our homes. Campaign promises tell us what they say; our own records tell us what they took. The five encounters run from Sighting to First Contact Initiated, and each one is earned with evidence. The challenge is simple: gather three documents, count the governments, rank your real budget order, post your encounter without dollar amounts, and tag three people. Then decide who comes first in your house. Thanks for listening. This has been Runtime Republic.
 
-[Series index](../README.md)
+<!-- series-navigation: start -->
+
+---
+
+### Continue reading
+
+[Series index](../README.md) · [Next essay →](../02-its-not-aliens/lesson.md)
 
 [All series in this repository](../../README.md) · [Repository home](../../../README.md)
 
