@@ -1,10 +1,12 @@
 # The Close Encounter Challenge: Who Gets Paid First in Your House?
 
+![The Close Encounter Challenge: Who Gets Paid First in Your House?](../../../Images/close-encounters/01-the-close-encounter-challenge.png)
+
 Course: Close Encounters of the Government Kind
 Lesson: 01 of 01
 Status: Draft
 Runtime: about 6 minutes
-Image: Pending
+Image: 01-the-close-encounter-challenge.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
