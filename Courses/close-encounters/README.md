@@ -6,7 +6,7 @@ first in your house, starting with a social media challenge.
 
 | # | Lesson | Status | Image |
 |---|---|---|---|
-| 01 | [The Close Encounter Challenge: Who Gets Paid First in Your House?](01-the-close-encounter-challenge/lesson.md) | Draft | Pending |
+| 01 | [The Close Encounter Challenge: Who Gets Paid First in Your House?](01-the-close-encounter-challenge/lesson.md) | Draft | Done |
 
 Facts behind each lesson: [SOURCES.md](../../SOURCES.md).
 
