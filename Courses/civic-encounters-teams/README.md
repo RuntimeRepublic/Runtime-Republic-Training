@@ -117,6 +117,8 @@ total matches its bank and card statements for the month.
   stay in the member's own Claude or ChatGPT project.
 - The member's AI builds the study dataset and pushes it by itself, but only after the member
   has seen it first.
+- Nothing is pushed to a study without a JSON or CSV file that the member has reviewed first
+  (James, 2026-11-14). The reviewed file is exactly what gets pushed.
 - The study push is always a human command. Members may run scheduled tasks to track their
   budget, but the study push is never scheduled.
 - Open: are category totals sent as dollar amounts, percentages or ranges?
