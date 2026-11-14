@@ -12,6 +12,19 @@ Gold Contract for Liberty (AGCL, the U.S. NBLF) works together with the Node-Bas
 Framework (NBBF). A last group, which handles the Node-Based Educational Framework (NBEF), is
 described but has no meeting in the series.
 
+**Why it matters (James, 2026-11-14):** every team works toward the highest level, CE5. The
+purpose of the whole exercise is to end the class struggle in today's politics, where
+different sides are pitted against each other. Everyone works it out together; no group is
+on an opposing side.
+
+**The dashboard (James, 2026-11-14):** the series teaches the dashboard. As teams work, they
+submit evidence, and that evidence changes the dashboard. Evidence is the only way the
+dashboard changes. Once a member is fully set up with Claude or ChatGPT, they can open and
+read the dashboard.
+
+**Naming:** "team" is a placeholder. James had a better word on 2026-11-13 and doesn't
+remember it yet; a search of this project's chats did not find it.
+
 Planned as two versions, like the main series: Standard (5–7 minutes) and Short (about
 3 minutes), with the Standard text as the master.
 
@@ -24,7 +37,7 @@ Source tags: **James** = remembered from the lost draft; **Guess** = Claude's su
 | # | Episode | What happens | Source |
 |---|---|---|---|
 | 1 | Gary and Mike | Gary can't figure out where his money goes and jokes that aliens are taking it. Mike agrees it feels that way and challenges him to track his budget for one month and find every tax. They agree to meet next week to check progress. | James |
-| 2 | The neighbor | At the next meeting Gary brings a neighbor. She rents. Talk turns to property tax, and they suggest she ask her landlord for an estimate of how much of her rent is property tax, and simply tell him, "We're working on ideas to end property taxes." | James (Gary brings her) |
+| 2 | The neighbor | The second meeting is online, and Gary joins by phone. He brings a neighbor. She rents, has family members, and already knows property taxes are an issue. Talk turns to property tax, and they suggest she ask her landlord for an estimate of how much of her rent is property tax, and simply tell him, "We're working on ideas to end property taxes." | James (Gary brings her) |
 | 3 | The landlord and his bookkeeper | That line draws them in, and they come to the next meeting. She, the bookkeeper, shows how property tax flows into rent. The team now has a renter, a property owner and someone who knows the books. | James: they came. Guess: what happens |
 | 4 | The county insider | The bookkeeper knows someone in the county finance office who feels the pain too: she pays the same taxes and sees the levies, late notices and families falling behind from the inside. People inside government want this fixed as well. | James |
 | 5 | Too big for one table | The team passes 7 members and talks about splitting, then splits to form new teams instead of growing into one big group. The landlord starts a business team of apartment and house rental owners. Every business-team member also stays on a consumer team. AI like Claude, GitHub and Runtime Republic keep all the teams connected: shared evidence, shared records, one registry. | James |
@@ -34,9 +47,9 @@ Source tags: **James** = remembered from the lost draft; **Guess** = Claude's su
 
 | Character | Role | Name |
 |---|---|---|
-| Gary | Can't find where his money goes | Gary (existing) |
+| Gary | Can't find where his money goes; joins by phone and gets bills by mail, then buys a laptop | Gary (existing) |
 | Mike | Tracks his money; challenges Gary | Mike (existing) |
-| The neighbor (she) | Renter; Gary brings her | Linda |
+| The neighbor (she) | Renter with family; knows property taxes are an issue; Gary brings her | Linda |
 | The landlord (he) | Rental owner; starts the business team | Walt |
 | The bookkeeper (she) | Knows the landlord's books | Peggy |
 | The county employee | Works in the county finance office | Sam |
@@ -44,20 +57,22 @@ Source tags: **James** = remembered from the lost draft; **Guess** = Claude's su
 ## Series rules (from the outline)
 
 1. Teams talk about splitting after 7 members (decided by James, 2026-11-14).
-2. Every business-team member also belongs to a consumer team.
+2. Every member of any other kind of team (business, civic or others) must also belong to a consumer team, so everyone works it out together instead of on opposing sides (James, 2026-11-14).
 3. Teams stay connected through AI (such as Claude), GitHub and Runtime Republic.
 4. The county employee takes part as a taxpayer on her own time, shares no inside information, and may stay anonymous in the records.
 5. The first meeting (Gary and Mike) is in person. Every meeting after that is online (James, 2026-11-14).
 6. Red teams and blue teams are not part of this series; they were for the dashboard discussion only (James, 2026-11-14).
-7. One man joins the online meetings by phone because he has no laptop. He gets his bills by mail, while everyone else uses PDFs and AI to set up the budget for the challenge. He later gives in and buys a laptop. This contrast is one of the series goals (James, 2026-11-14).
+7. Gary joins the online meetings by phone because he has no laptop. He gets his bills by mail, while everyone else uses PDFs and AI to set up the budget for the challenge. He later gives in and buys a laptop. This contrast is one of the series goals (James, 2026-11-14).
+8. Gary thinks that once his bills come as PDFs he won't need stamps anymore. Mike points out he will: higher Civic Encounter levels mean writing to government, and that still takes mail (James, 2026-11-14).
 
 ## Open decisions
 
-Next: who is the man with only a phone? Then team types, one question at a time.
+Next, one question at a time: a new name for "team", then team types.
 
 
 1. ~~Team size limit~~ Decided: teams talk about splitting after 7 members.
 2. ~~Who brings the neighbor~~ Decided: Gary.
+2a. ~~The phone-only man~~ Decided: Gary.
 3. ~~Names~~ Decided: Linda (neighbor), Walt (landlord), Peggy (bookkeeper), Sam (county employee).
 4. At the landlord meeting: is the landlord squeezed too and an ally, is the bookkeeper's estimate the key evidence, or both?
 
@@ -75,7 +90,7 @@ What must exist before the first essay is written, and what each essay needs.
 | S2 | Episode outline, approved by James | 1 | Draft (above) |
 | S3 | Length decision (Standard, Short or both) | 1 | Both, Standard is master |
 | S4 | Character list with names | 6 | 6 named |
-| S5 | Series rules | 7 | Drafted (above) |
+| S5 | Series rules | 8 | Drafted (above) |
 | S6 | Open decisions resolved | 4 | 3 of 4 |
 | S7 | Series README for each version | 2 | This file; Short README later |
 | S8 | Catalog row in `Courses/README.md` for each version | 2 | Later |
