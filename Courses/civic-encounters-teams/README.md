@@ -22,8 +22,13 @@ submit evidence, and that evidence changes the dashboard. Evidence is the only w
 dashboard changes. Once a member is fully set up with Claude or ChatGPT, they can open and
 read the dashboard.
 
-**Naming (James, 2026-11-14):** the groups are called **work groups**, not teams. This outline
-still says "team" in places; the essays will use "work group".
+**Naming (James, 2026-11-14):** to AI and the system they are **teams**. To people, each group
+calls itself whatever it wants. In this series Gary's group calls itself a **Study Circle**.
+
+**Every team gets its own series (James, 2026-11-14; name of the record still to find):** as a
+team makes progress with evidence, AI writes scripts like this series, based on that team's
+real work. Like the TV show *Dragnet*, the team members' names are changed. Elected officials'
+names and the county government's replies are not changed.
 
 Planned as two versions, like the main series: Standard (5–7 minutes) and Short (about
 3 minutes), with the Standard text as the master.
@@ -67,13 +72,13 @@ Source tags: **James** = remembered from the lost draft; **Guess** = Claude's su
 
 ## Open decisions
 
-Next: work group types, one question at a time.
+Next, one question at a time: the name of the AI-written team story record (James remembers "log"), then team types.
 
 
 1. ~~Team size limit~~ Decided: teams talk about splitting after 7 members.
 2. ~~Who brings the neighbor~~ Decided: Gary.
 2a. ~~The phone-only man~~ Decided: Gary.
-2b. ~~New name for "team"~~ Decided: work group.
+2b. ~~New name for "team"~~ Decided: "team" for AI and the system; each group picks its own name; Gary's is a Study Circle.
 3. ~~Names~~ Decided: Linda (neighbor), Walt (landlord), Peggy (bookkeeper), Sam (county employee).
 4. At the landlord meeting: is the landlord squeezed too and an ally, is the bookkeeper's estimate the key evidence, or both?
 
