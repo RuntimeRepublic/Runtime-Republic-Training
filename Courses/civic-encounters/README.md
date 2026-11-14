@@ -8,6 +8,10 @@ first in your house, starting with a social media challenge.
 |---|---|---|---|
 | 01 | [The Civic Encounters Challenge: Who Gets Paid First in Your House?](01-the-civic-encounter-challenge/lesson.md) | Draft | Done |
 | 02 | [It's Not Aliens: A Confession About My Budget](02-its-not-aliens/lesson.md) | Draft | Done |
+| 03 | [It's Not Aliens: The Skit](03-its-not-aliens-the-skit/lesson.md) | Draft | Pending |
+| 04 | [Your Saturday Report: What Week Three Looks Like](04-your-saturday-report/lesson.md) | Draft | Pending |
+| 05 | [What If Only H.R. 25 Passed?](05-what-if-only-hr-25-passed/lesson.md) | Draft | Pending |
+| 06 | [The Encounter Report: A Post for Your Friends](06-the-encounter-report/lesson.md) | Draft | Pending |
 
 Facts behind each lesson: [SOURCES.md](../../SOURCES.md).
 

@@ -3,7 +3,7 @@
 ![The Civic Encounters Challenge: Who Gets Paid First in Your House?](../../../Images/civic-encounters/01-the-civic-encounter-challenge.png)
 
 Course: Civic Encounters
-Lesson: 01 of 02
+Lesson: 01 of 06
 Status: Draft
 Runtime: about 6 minutes
 Image: 01-the-civic-encounter-challenge.png
