@@ -16,6 +16,7 @@ Choose a series below, then follow its essays in reading order. Each essay ends 
 | [The Agentic Runtime Republic](agentic-runtime-republic/README.md) | 10 parts in Review | A futuristic essay set on June 1, 2027: how property-rights groups and legislators using GitHub-connected AI and social media move toward the AGCL objectives |
 | [Civic Encounters](civic-encounters/README.md) | 5 lessons in Draft | A social media challenge: find out which governments take your money and who gets paid first in your house, using the five Civic Encounter levels |
 | [Civic Encounters Bonus](civic-encounters-bonus/README.md) | 1 lesson in Draft | A short shareable post for people taking the Civic Encounters Challenge |
+| [Civic Encounters in 3 Minutes](civic-encounters-short/README.md) | 8 lessons in Draft | The short version of Civic Encounters: one idea per three-minute episode, made to share |
 | [Economic Education — History](economic-education-history/README.md) | 1 lesson in Draft | Economic history: how regimes actually treated property, workers and rivals, starting with the Nazi and Soviet systems (#socialism #political-enemies) |
 | [AGCL — Node-Based Liberty Framework](agcl-nblf/README.md) | Planned | The American Gold Contract for Liberty |
 | [NBBF — Node-Based Budget Framework](nbbf/README.md) | Planned | Node-scoped budgeting, authority boundaries, exit and sunset rules |
