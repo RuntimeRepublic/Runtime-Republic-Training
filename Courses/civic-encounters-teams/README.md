@@ -55,6 +55,16 @@ variations. Everything decided here must end up in those control documents.
 Status 2026-11-14: the repository's `main` branch holds only its README. The control documents
 from CWC #002 are on James's PC and not yet committed (pending in Cursor).
 
+### Personal finance is the hook (James, 2026-11-14)
+
+- People come for personal finance management with AI. Joining a study or a team is optional.
+- Anyone who manages their finances this way is already doing the CE1 work, so they meet CE1
+  without extra effort; the studies and teams are the next step for those who choose them.
+- The Personal-Finance-Management repo is completed alongside this essay series.
+- James promotes the repo with an essay on how to harness AI for successful personal finance
+  management. James is the first user.
+- It is also an upsell in the phone app and on the desktop.
+
 ### Consumer study dataset (Claude proposal v2, not approved)
 
 Built from the control documents. It is the household's **current-state value stream map** of
