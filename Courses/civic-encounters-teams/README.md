@@ -161,6 +161,21 @@ then by **share kept**. Today withholding and property tax liens put government 
 family. Under AGCL Point 01 (no income or payroll tax) and Point 02 (no property tax), the
 government is paid only when the family chooses to buy, so the family moves to first.
 
+### What CE5 means (James, 2026-11-14)
+
+CE5 is the ideal of all three frameworks (AGCL/NBLF, NBBF, NBEF) in practice:
+
+- **Blockchain tax-dollar tracing** at every level (AGCL Point 02 requires it for revenue sharing).
+- **Intergenerational wealth on an upward climb** (AGCL Point 05.1, the Sinking Liberty Fund).
+- **National debt has stopped growing** and is on a decline path that reaches zero by **2075**.
+  (AGCL Point 09 requires continuous decline to zero but states no year; 2075 is James's target.)
+- **At CE5 a user can track their tax dollars in $100 groups** and divert them away from
+  non-enumerated spending items they do not support. (New idea; AGCL Point 05.1 already gives
+  priority to eliminating non-enumerated programs, but no AGCL document yet describes this.)
+
+**Dashboard additions (James, 2026-11-14):** debt for every level (federal, state, local), what a
+taxpayer pays toward each, and the sinking fund balance.
+
 ### How a group proves CE5 at all three levels (Claude proposal, not approved)
 
 For each level (federal, state, local), all four must be true:
