@@ -19,8 +19,8 @@ Source tags: **James** = remembered from the lost draft; **Guess** = Claude's su
 | # | Episode | What happens | Source |
 |---|---|---|---|
 | 1 | Gary and Mike | Gary can't figure out where his money goes and jokes that aliens are taking it. Mike agrees it feels that way and challenges him to track his budget for one month and find every tax. They agree to meet next week to check progress. | James |
-| 2 | The neighbor | At the next meeting a neighbor comes along. She rents. Talk turns to property tax, and they suggest she ask her landlord for an estimate of how much of her rent is property tax, and simply tell him, "We're working on ideas to end property taxes." | James (who brings her: Guess, Gary) |
-| 3 | The landlord and his bookkeeper | That line draws them in, and they come to the next meeting. The bookkeeper shows how property tax flows into rent. The team now has a renter, a property owner and someone who knows the books. | James: they came. Guess: what happens |
+| 2 | The neighbor | At the next meeting Gary brings a neighbor. She rents. Talk turns to property tax, and they suggest she ask her landlord for an estimate of how much of her rent is property tax, and simply tell him, "We're working on ideas to end property taxes." | James (Gary brings her) |
+| 3 | The landlord and his bookkeeper | That line draws them in, and they come to the next meeting. She, the bookkeeper, shows how property tax flows into rent. The team now has a renter, a property owner and someone who knows the books. | James: they came. Guess: what happens |
 | 4 | The county insider | The bookkeeper knows someone in the county finance office who feels the pain too: she pays the same taxes and sees the levies, late notices and families falling behind from the inside. People inside government want this fixed as well. | James |
 | 5 | Too big for one table | The team passes 7 members and talks about splitting, then splits to form new teams instead of growing into one big group. The landlord starts a business team of apartment and house rental owners. Every business-team member also stays on a consumer team. AI like Claude, GitHub and Runtime Republic keep all the teams connected: shared evidence, shared records, one registry. | James |
 | 6 | The delegation (CE4) | The consumer and business teams bring one evidence packet to the officials who set the levies: renters, owners, the books, and a view from inside the county. | Guess |
@@ -31,9 +31,9 @@ Source tags: **James** = remembered from the lost draft; **Guess** = Claude's su
 |---|---|---|
 | Gary | Can't find where his money goes | Gary (existing) |
 | Mike | Tracks his money; challenges Gary | Mike (existing) |
-| The neighbor | Renter | TBD |
-| The landlord | Rental owner; starts the business team | TBD |
-| The bookkeeper | Knows the landlord's books | TBD |
+| The neighbor (she) | Renter; Gary brings her | TBD |
+| The landlord (he) | Rental owner; starts the business team | TBD |
+| The bookkeeper (she) | Knows the landlord's books | TBD |
 | The county employee | Works in the county finance office | TBD |
 
 ## Series rules (from the outline)
@@ -45,8 +45,11 @@ Source tags: **James** = remembered from the lost draft; **Guess** = Claude's su
 
 ## Open decisions
 
+Next discussion after names: team types (consumer, business, and any others).
+
+
 1. ~~Team size limit~~ Decided: teams talk about splitting after 7 members.
-2. Who brings the neighbor: Gary or Mike.
+2. ~~Who brings the neighbor~~ Decided: Gary.
 3. Names for the neighbor, landlord, bookkeeper and county employee.
 4. At the landlord meeting: is the landlord squeezed too and an ally, is the bookkeeper's estimate the key evidence, or both?
 
@@ -65,7 +68,7 @@ What must exist before the first essay is written, and what each essay needs.
 | S3 | Length decision (Standard, Short or both) | 1 | Both, Standard is master |
 | S4 | Character list with names | 6 | 2 named, 4 TBD |
 | S5 | Series rules | 4 | Drafted (above) |
-| S6 | Open decisions resolved | 4 | 1 of 4 |
+| S6 | Open decisions resolved | 4 | 2 of 4 |
 | S7 | Series README for each version | 2 | This file; Short README later |
 | S8 | Catalog row in `Courses/README.md` for each version | 2 | Later |
 
