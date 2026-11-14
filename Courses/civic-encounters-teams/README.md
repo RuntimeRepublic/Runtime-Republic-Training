@@ -242,7 +242,10 @@ reforming a tax system. This project is a similar concept, but more comprehensiv
 - "An Open Letter to the President, the Congress, and the American people Concerning Reform of
   the Federal Tax Code," April 2005, written by Prof. David L. Kendall (University of
   Virginia's College at Wise). It urged passage of H.R. 25 and S. 25 and repeal of the 16th
-  Amendment. File: James's copy (PDF, 5 pages).
+  Amendment. James has two copies: the April 8, 2005 version and a June 21, 2005 "new
+  signers" version. The June version keeps every April signer and adds four: Jack A.
+  Chambless, Franklin Lopez (Tulane), Drew Johnson (Davenport Institute, Pepperdine) and
+  John Semmens.
 - Signers: about 80 business and university economists (FairTax.org's own count is 80),
   including one Nobel laureate, Vernon L. Smith, and Laurence J. Kotlikoff.
 - James remembers a list of over 200 economists endorsing the FairTax. UNVERIFIED: not found
