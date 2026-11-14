@@ -181,6 +181,8 @@ Civic Encounters in 3 Minutes, episodes 07 and 08, use the same facts as lesson 
 
 ### Economist quotations used in the Civic Encounters series
 
+All quotations, with verification status, are tracked in [QUOTE-LOG.md](QUOTE-LOG.md) (CONTROL 09, rule 14).
+
 Each supports a principle in the [AGCL Doctrinal Foundations and Economic Lineage](https://github.com/RuntimeRepublic/AGCL-Control-Documents/blob/main/AGCL_Doctrinal_Foundations_and_Economic_Lineage.txt).
 
 | Quote | Speaker | Source |
