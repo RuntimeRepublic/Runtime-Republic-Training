@@ -1,7 +1,8 @@
 CONTROL 09 — Doctrinal Foundations Standard
 
-Version: 1.0
-Date: 2026-11-04
+Version: 1.1
+Date: 2026-11-14
+Change: Added rule 14, the Quote Log.
 Status: Draft — pending Human Engineer approval
 Project: Runtime-Republic Training
 
@@ -87,6 +88,10 @@ citizen, defended to an engineer, and grounded for a believer without changing i
 13. **Rulings.** Where a reading is disputed, the lesson cites the Human Engineer's Ruling,
     issued by the documented hermeneutical method (AGCL Control 000, Rule S3 and §VI). Until a
     Ruling exists, the lesson marks the reading as pending.
+14. **Quote Log.** Every quotation a lesson uses (economist, historian, theologian, statesman)
+    is recorded first in [QUOTE-LOG.md](../QUOTE-LOG.md) with its exact wording, its primary
+    source and a verification status. A lesson uses only quotes marked Verified, and the log
+    records where each quote is used.
 
 ## 3.5 Foundations Register
 
@@ -134,6 +139,7 @@ Starting entries (2026-11-04). New entries are added only with Human Engineer ap
 | An AGCL rule appears to conflict with Scripture | Flagged in writing; the Human Engineer rules; any change goes through AGCL Control 00J (§2) |
 | A Scripture practice is cited without its conditions | Returned in review (rule 11) |
 | A witness is cited as an authority | Returned in review (rule 12) |
+| A quote is not in the Quote Log, or is not marked Verified | Returned in review (rule 14) |
 | A reading of a passage is disputed | The lesson cites the Ruling, or marks the reading pending (rule 13) |
 | A rule has no scriptural basis | Classified Modern design (rule 10) |
 | A lesson says "Scripture commands" for an Analogy | Returned in review (rule 7) |
