@@ -31,10 +31,10 @@ Source tags: **James** = remembered from the lost draft; **Guess** = Claude's su
 |---|---|---|
 | Gary | Can't find where his money goes | Gary (existing) |
 | Mike | Tracks his money; challenges Gary | Mike (existing) |
-| The neighbor (she) | Renter; Gary brings her | TBD |
-| The landlord (he) | Rental owner; starts the business team | TBD |
-| The bookkeeper (she) | Knows the landlord's books | TBD |
-| The county employee | Works in the county finance office | TBD |
+| The neighbor (she) | Renter; Gary brings her | Linda |
+| The landlord (he) | Rental owner; starts the business team | Walt |
+| The bookkeeper (she) | Knows the landlord's books | Peggy |
+| The county employee | Works in the county finance office | Sam |
 
 ## Series rules (from the outline)
 
@@ -50,7 +50,7 @@ Next discussion after names: team types (consumer, business, and any others).
 
 1. ~~Team size limit~~ Decided: teams talk about splitting after 7 members.
 2. ~~Who brings the neighbor~~ Decided: Gary.
-3. Names for the neighbor, landlord, bookkeeper and county employee.
+3. ~~Names~~ Decided: Linda (neighbor), Walt (landlord), Peggy (bookkeeper), Sam (county employee).
 4. At the landlord meeting: is the landlord squeezed too and an ally, is the bookkeeper's estimate the key evidence, or both?
 
 ---
@@ -66,9 +66,9 @@ What must exist before the first essay is written, and what each essay needs.
 | S1 | Series goal in one sentence | 1 | Done (above) |
 | S2 | Episode outline, approved by James | 1 | Draft (above) |
 | S3 | Length decision (Standard, Short or both) | 1 | Both, Standard is master |
-| S4 | Character list with names | 6 | 2 named, 4 TBD |
+| S4 | Character list with names | 6 | 6 named |
 | S5 | Series rules | 4 | Drafted (above) |
-| S6 | Open decisions resolved | 4 | 2 of 4 |
+| S6 | Open decisions resolved | 4 | 3 of 4 |
 | S7 | Series README for each version | 2 | This file; Short README later |
 | S8 | Catalog row in `Courses/README.md` for each version | 2 | Later |
 
