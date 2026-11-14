@@ -176,3 +176,15 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 | AGCL calls H.R. 25 the first operational step | [AGCL plan 01 — End the Tax Trap](https://github.com/RuntimeRepublic/AGCL-Control-Documents/blob/main/plan/01_tax_trap.md) |
 | IRS projected gross tax gap of $696 billion for tax year 2022 | [Accounting Today](https://www.accountingtoday.com/news/irs-sees-tax-gap-growing) |
 | About 6.9 billion hours a year spent complying with federal tax rules | [Tax Foundation, 2025](https://taxfoundation.org/data/all/federal/irs-tax-complexity-costs-us-economy-over-544-billion-annually/) |
+
+### Economist quotations used in the Civic Encounters series
+
+Each supports a principle in the [AGCL Doctrinal Foundations and Economic Lineage](https://github.com/RuntimeRepublic/AGCL-Control-Documents/blob/main/AGCL_Doctrinal_Foundations_and_Economic_Lineage.txt).
+
+| Quote | Speaker | Source |
+|---|---|---|
+| "The tax which each individual is bound to pay ought to be certain, and not arbitrary." | Adam Smith | The Wealth of Nations (1776), Book V, Ch. 2 |
+| "...to judge policies and programs by their intentions rather than their results." | Milton Friedman | [Quote Investigator: The Open Mind, 1975](https://quoteinvestigator.com/2024/03/22/intentions-results/) |
+| "Nothing is so permanent as a temporary government program." | Milton Friedman | [Tyranny of the Status Quo (1984), via EconomicsHelp](https://www.economicshelp.org/blog/147600/economics/nothing-is-so-permanent/) |
+| "There's no such thing as a free lunch." | Milton Friedman | Title of his 1975 book |
+| "There are no solutions. There are only trade-offs." | Thomas Sowell | A Conflict of Visions |
