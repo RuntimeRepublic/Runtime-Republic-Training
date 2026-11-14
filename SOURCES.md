@@ -162,3 +162,17 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 | Fact | Source |
 |---|---|
 | Settings → Apps → GitHub; choose repositories; syncing is separate from access; repos may take minutes to appear; search by repository name only; plan availability varies; the app is read-only; use Codex to edit code or open PRs (checked 2026-10-30) | [OpenAI Help Center: Connecting GitHub to ChatGPT](https://help.openai.com/en/articles/11145903) |
+
+---
+
+## Civic Encounters
+
+### 05 — What If Only H.R. 25 Passed?
+
+| Fact | Source |
+|---|---|
+| H.R. 25 (FairTax Act of 2025): repeals income, payroll, estate and gift taxes; 23% sales tax from 2027; IRS abolished; states administer for a fee; monthly family consumption allowance | [H.R. 25 introduced text (govinfo)](https://www.govinfo.gov/content/pkg/BILLS-119hr25ih/xhtml/BILLS-119hr25ih.html) |
+| H.R. 25 introduced Jan 3, 2025; referred to House Ways and Means (as of 2026-11-13) | [LegiScan HB25](https://legiscan.com/US/bill/HB25/2025) |
+| AGCL calls H.R. 25 the first operational step | [AGCL plan 01 — End the Tax Trap](https://github.com/RuntimeRepublic/AGCL-Control-Documents/blob/main/plan/01_tax_trap.md) |
+| IRS projected gross tax gap of $696 billion for tax year 2022 | [Accounting Today](https://www.accountingtoday.com/news/irs-sees-tax-gap-growing) |
+| About 6.9 billion hours a year spent complying with federal tax rules | [Tax Foundation, 2025](https://taxfoundation.org/data/all/federal/irs-tax-complexity-costs-us-economy-over-544-billion-annually/) |
