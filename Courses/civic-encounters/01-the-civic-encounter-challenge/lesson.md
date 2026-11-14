@@ -1,12 +1,12 @@
-# The Close Encounter Challenge: Who Gets Paid First in Your House?
+# The Civic Encounters Challenge: Who Gets Paid First in Your House?
 
-![The Close Encounter Challenge: Who Gets Paid First in Your House?](../../../Images/close-encounters/01-the-close-encounter-challenge.png)
+![The Civic Encounters Challenge: Who Gets Paid First in Your House?](../../../Images/civic-encounters/01-the-civic-encounter-challenge.png)
 
-Course: Close Encounters of the Government Kind
+Course: Civic Encounters
 Lesson: 01 of 02
 Status: Draft
 Runtime: about 6 minutes
-Image: 01-the-close-encounter-challenge.png
+Image: 01-the-civic-encounter-challenge.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
@@ -64,7 +64,7 @@ Step two. Count the governments. Write down every government named on those thre
 
 Step three. Rank your budget order. List your top five spending categories by what you actually pay, and mark where government lands.
 
-Step four. Post your encounter. Share your encounter level, your government count, and where government ranked, with the hashtag Close Encounter Challenge.
+Step four. Post your encounter. Share your encounter level, your government count, and where government ranked, with the hashtag Civic Encounters Challenge.
 
 Step five. Tag three people, and challenge them to find out who's landing on their house.
 

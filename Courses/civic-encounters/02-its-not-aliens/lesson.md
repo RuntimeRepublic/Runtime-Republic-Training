@@ -1,8 +1,8 @@
 # It's Not Aliens: A Confession About My Budget
 
-![It's Not Aliens: A Confession About My Budget](../../../Images/close-encounters/02-its-not-aliens.png)
+![It's Not Aliens: A Confession About My Budget](../../../Images/civic-encounters/02-its-not-aliens.png)
 
-Course: Close Encounters of the Government Kind
+Course: Civic Encounters
 Lesson: 02 of 02
 Status: Draft
 Runtime: about 4 minutes
@@ -40,7 +40,7 @@ They've been here the whole time.
 
 No, Gary. You're a CE1.
 
-That's Close Encounter, Level One: the Sighting. You know something is taking your money, but you've never tracked it. Most people live here. There's no shame in it. But there's a way out, and it goes up.
+That's Civic Encounter, Level One: the Sighting. You know something is taking your money, but you've never tracked it. Most people live here. There's no shame in it. But there's a way out, and it goes up.
 
 Level Two is Physical Evidence. You run a real budget for one full month and close it out. Every dollar gets a place. Every charge gets a receipt. No more guessing.
 
@@ -64,7 +64,7 @@ Gary's not going back there. Are you?
 
 ## Recap
 
-Let's sum up. Gary thought aliens were taking his money. It was government: seven of them on one house, plus taxes on his paycheck and fees on his bills. The five Close Encounter levels run from Sighting to First Contact Initiated, and every level is earned with evidence. Start with three documents, count the governments, and share your level, never your dollar amounts. Thanks for listening. This has been Runtime Republic.
+Let's sum up. Gary thought aliens were taking his money. It was government: seven of them on one house, plus taxes on his paycheck and fees on his bills. The five Civic Encounter levels run from Sighting to First Contact Initiated, and every level is earned with evidence. Start with three documents, count the governments, and share your level, never your dollar amounts. Thanks for listening. This has been Runtime Republic.
 
 <!-- series-navigation: start -->
 
@@ -72,7 +72,7 @@ Let's sum up. Gary thought aliens were taking his money. It was government: seve
 
 ### Continue reading
 
-[← Previous essay](../01-the-close-encounter-challenge/lesson.md) · [Series index](../README.md)
+[← Previous essay](../01-the-civic-encounter-challenge/lesson.md) · [Series index](../README.md)
 
 [All series in this repository](../../README.md) · [Repository home](../../../README.md)
 
