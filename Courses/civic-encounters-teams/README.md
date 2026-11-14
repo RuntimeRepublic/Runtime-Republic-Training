@@ -65,6 +65,15 @@ from CWC #002 are on James's PC and not yet committed (pending in Cursor).
   management. James is the first user.
 - It is also an upsell in the phone app and on the desktop.
 
+### Onboarding test log (James as the first member, 2026-11-14)
+
+A ChatGPT project was set up as a new member would set one up, and run through an 8-part
+onboarding test prompt. Findings are kept generic here; no account details.
+
+| Part | Result | Lesson for the series and setup steps |
+|---|---|---|
+| 1. What the AI can reach | Partial pass | Bank and card links worked for some institutions; one bank's sync failed, so its transactions and subscriptions are missing. No email or cloud drive connected, so emailed bills can't be collected. The GitHub connector had write and admin permission, more than a member needs. Scheduled tasks available. |
+
 ### Consumer study dataset (Claude proposal v2, not approved)
 
 Built from the control documents. It is the household's **current-state value stream map** of
