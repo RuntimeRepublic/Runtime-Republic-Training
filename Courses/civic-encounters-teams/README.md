@@ -205,9 +205,48 @@ For each level (federal, state, local), all four must be true:
 Gaps: NBEF has no adopted education doctrine yet, so the NBEF part of CE5 can't be tested; the
 10-point rating stays parked.
 
-### Walt's first business study dataset
+### Study ideas source (James, 2026-11-14)
 
-Next decision.
+[Florida FairTax Educational Association white papers](https://flfairtax.org/fairtax-white-papers/)
+list six papers. Each makes claims a study can test with members' own data. That is the PDCA
+point of the series: today claims are made with no way to test them; the studies test them.
+
+| White paper | Study it suggests |
+|---|---|
+| Families' income | Consumer study (core) |
+| Low to medium incomes / young families | Consumer study, shown as shares, not incomes |
+| Home ownership | Consumer study: homeowner and renter modules |
+| Small business | Walt's business study (below) |
+| Retailers | Business study: retailer module |
+| Agriculture and farming | Future business study |
+
+Caveats from reading two of the papers (home ownership, small business), 2026-11-14: they are
+advocacy papers from Americans for Fair Taxation (home ownership paper dated 2006, updated
+2013); much of the data is 1996–2013; several key figures have no source. The studies treat
+their claims as claims to test, and record evidence that challenges them as well as supports
+them.
+
+Testable claims, for example:
+- Home ownership: the paper's worked example says a $230,000 new home costs about 10.6% less in
+  total under the FairTax (taxes on principal and interest removed, lower rate assumed). The
+  rate (2.82%) is a projection, and the paper's $69,000 tax figure needs its rate basis
+  clarified.
+- Small business: tax compliance cost per employee is far higher for the smallest firms (the
+  paper cites $7,274 per employee for firms with 1–5 employees, DeLuca et al., 2007).
+
+### Walt's first business study dataset (Claude proposal, not approved)
+
+Built from the small-business paper's measures, for a rental owner. Broad categories and
+shares only; pushed only as a reviewed JSON or CSV file.
+
+| Field | Why |
+|---|---|
+| Entity type (sole owner, LLC, S-corp, other) and number of rental units | Most small businesses are pass-through entities, taxed on the owner's return |
+| Hours per year on tax compliance, and outside preparer fees | The paper's main claim: compliance is the biggest burden |
+| Taxes by type: income, self-employment, payroll, property, sales, fees | Current-state map, same as the consumer study |
+| Property tax per unit, as a share of rent | Ties to Linda's question: how much of her rent is property tax |
+| Who receives each tax, and does it ever end | Same control tests as the consumer study (AGCL, NBBF) |
+| Future state: which rows end under H.R. 25 plus Point 02 | The PDCA comparison |
 
 **Every team gets its own series (James, 2026-11-14; name of the record still to find):** as a
 team makes progress with evidence, AI writes scripts like this series, based on that team's
