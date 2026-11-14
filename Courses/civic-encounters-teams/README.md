@@ -45,19 +45,46 @@ calls itself whatever it wants. In this series Gary's group calls itself a **Stu
 - **Design rule:** the study datasets are designed from the control documents (AGCL, NBBF, NBEF), not from scratch.
 - **Still to define:** the "Aha factors", the simple, really big idea this series promotes.
 
-### Consumer study dataset (Claude proposal, not approved; to be redesigned from the control documents)
+### Consumer study dataset (Claude proposal v2, not approved)
 
-Kept in each member's own Claude or ChatGPT project. Only counts and anonymous totals leave it; no names, addresses or account numbers.
+Built from the control documents. It is the household's **current-state value stream map** of
+taxes: one row per tax or fee the household pays, directly or hidden in a price or rent.
 
-| Field | Example |
-|---|---|
-| Housing | Own or rent; county; people in household |
-| Housing cost | Mortgage or rent payment per month |
-| Property tax | Owners: from the tax bill. Renters: the landlord's estimate of the share in rent |
-| Every other tax and fee, by type | Federal and state income, payroll, sales, vehicle, fuel, utility taxes and franchise fees, government fees |
-| Who receives it | Federal, state, county, city, school district, special district |
-| Evidence | PDF, paper mail, or estimate (with its source) |
-| Lost-track items | Subscriptions and charges found, and cancelled or kept |
+**Sources used:** AGCL Master Framework (governing principle: authority must be defined,
+limited, transparent, measurable and reversible; six execution elements); AGCL Point 01
+(H.R. 25) and Point 02 (state and local revenue sharing); AGCL 00C Rule C8 (no recurring tax on
+owned property without title); NBBF CONTROL 01 §5 (required Node fields: Human Owner, authority,
+cost, outputs, performance metrics, signaling, exit); NBBF CONTROL 06 §06.2 (cost is a claim, not
+a fact). Files read from the local clones on 2026-11-14.
+
+**Household (once):** own or rent; county; people in household; time spent on the study (Lean).
+
+**Each tax or fee row (current state):**
+
+| # | Field | Control source | Example |
+|---|---|---|---|
+| 1 | Tax or fee name and type | AGCL 01, 02 | County property tax; sales tax; payroll tax; utility franchise fee |
+| 2 | How it reaches you | AGCL 00B signal visibility | PDF bill, paper mail, withheld from pay, at the register, hidden in rent or prices |
+| 3 | Amount, how often, evidence date | NBBF 01 §5.4 | From the bill, statement or the landlord's estimate |
+| 4 | Who receives it | AGCL 02 federal/state/local split | Federal, state, county, city, school district, special district (no double counting) |
+| 5 | Who set it (the Human Owner) | NBBF 01 §5.2 | The body that voted, the year, and an official contact |
+| 6 | What it promised to do | NBBF 01 §5.6 | Stated purpose of the levy or law |
+| 7 | Is there a pass/fail test? | NBBF 01 §5.7; NBBF 06 §06.2 | Yes, no, or can't find one |
+| 8 | Does it ever end? | AGCL 00A expiration | Sunset date, or perpetual |
+| 9 | Can you exit it? | AGCL 00D exit | By choice (buy less), only by moving, or never |
+| 10 | Property: does the taxing body hold title? What happens if unpaid? | AGCL 00C Rule C8 | No title; tax lien and possible foreclosure |
+| 11 | Lost-track flag | Mike's story | Found by the AI review; cancelled, kept or disputed |
+
+**Future state (one column per row):** under H.R. 25 plus Point 02 revenue sharing, is this row
+eliminated, replaced by a visible point-of-sale tax, or kept as a fixed exception (motor fuel
+excise, legacy activity fees)?
+
+**PDCA smoke test (proposal):** a row passes when fields 1–5 are filled from evidence. The study
+passes its first smoke test when every row has a receiver and evidence, and the household's
+total matches its bank and card statements for the month.
+
+**Privacy:** everything stays in the member's own Claude or ChatGPT project. Only counts and
+anonymous totals leave it. No names, addresses or account numbers.
 
 ### Walt's first business study dataset
 
