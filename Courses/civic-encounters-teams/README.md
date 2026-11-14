@@ -234,6 +234,25 @@ Testable claims, for example:
 - Small business: tax compliance cost per employee is far higher for the smallest firms (the
   paper cites $7,274 per employee for firms with 1–5 employees, DeLuca et al., 2007).
 
+**Why James shared the white papers (2026-11-14):** to see what others have done when
+reforming a tax system. This project is a similar concept, but more comprehensive.
+
+### Economists' open letter (precedent)
+
+- "An Open Letter to the President, the Congress, and the American people Concerning Reform of
+  the Federal Tax Code," April 2005, written by Prof. David L. Kendall (University of
+  Virginia's College at Wise). It urged passage of H.R. 25 and S. 25 and repeal of the 16th
+  Amendment. File: James's copy (PDF, 5 pages).
+- Signers: about 80 business and university economists (FairTax.org's own count is 80),
+  including one Nobel laureate, Vernon L. Smith, and Laurence J. Kotlikoff.
+- James remembers a list of over 200 economists endorsing the FairTax. UNVERIFIED: not found
+  yet; the 2005 letter has about 80.
+- Lesson for the series: in a 2021 FairTax.org piece, Kendall said the letter did not change
+  the outcome; the 2005 tax reform panel did not endorse the plan. A letter alone is CE4.
+  The series argues that teams, evidence and a public dashboard are what a letter lacked.
+- Opposing evidence to record: Americans for Tax Reform wrote to members of Congress in
+  August 2023 urging them to reconsider co-sponsoring the FairTax Act of 2023.
+
 ### Walt's first business study dataset (Claude proposal, not approved)
 
 Built from the small-business paper's measures, for a rental owner. Broad categories and
