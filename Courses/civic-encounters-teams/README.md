@@ -112,6 +112,73 @@ total matches its bank and card statements for the month.
   budget, but the study push is never scheduled.
 - Open: are category totals sent as dollar amounts, percentages or ranges?
 
+### Consumer group dataset v3 (Claude proposal, not approved)
+
+Modeled on AGCL, NBBF, NBEF and the dashboard brainstorm. This is what a group pushes, by human
+command, after members see it. Broad categories and percentages only; no personal data.
+
+**Group header (per month):** team ID, county, state, member count (above a minimum), owners and
+renters (counts), members at each CE level.
+
+**Four-budget split:** the group's average share of household money going to each budget, in
+percent, each graded verified or estimated:
+
+| Budget | Broken out by |
+|---|---|
+| Federal | income, payroll, excise, tariffs hidden in prices |
+| State | income, sales, vehicle, fees |
+| Local | county, city, school district, special districts (property tax, sales, franchise fees) |
+| Family or individual | what the household keeps and decides on |
+
+**Who gets paid first:** for each tax category, a count of how it is taken: before the family
+sees the money (withholding, mortgage escrow), billed after, at the register, or hidden in
+price or rent.
+
+**Control tests, per government level (counts of categories that pass):**
+
+| Test | Source |
+|---|---|
+| Defined: authority cited | AGCL governing principle; NBBF 01 §5.3 |
+| Limited: ceiling or cap | AGCL governing principle; NBBF 01 §5.4 |
+| Transparent: shown where paid | AGCL 00B, 00G |
+| Measurable: a pass/fail test exists | AGCL governing principle; NBBF 01 §5.7 |
+| Reversible: ends or can be exited | AGCL 00A, 00D; NBBF 01 §5.9 |
+| Human Owner named | NBBF 01 §5.2 |
+| No recurring tax on owned property without title | AGCL 00C Rule C8 |
+| Education spending mapped as current state, proposed state, transition | NBEF CONTROL 00 §14 (NBEF has only its root control today; education doctrine is not yet adopted) |
+
+**Civic contact counts per level:** contacts made, replies received, each with a public source.
+Elected officials' names and government replies stay real.
+
+### Four-budget priority rank on the dashboard (James, 2026-11-14)
+
+The dashboard shows the priority rank of four budgets: Federal, State, Local, and Family or
+individual. The goal is to push the family and individual budget to the top, as the nation's
+top priority.
+
+Claude proposal for how the rank is computed: first by **who gets paid first** (claim order),
+then by **share kept**. Today withholding and property tax liens put government ahead of the
+family. Under AGCL Point 01 (no income or payroll tax) and Point 02 (no property tax), the
+government is paid only when the family chooses to buy, so the family moves to first.
+
+### How a group proves CE5 at all three levels (Claude proposal, not approved)
+
+For each level (federal, state, local), all four must be true:
+
+1. **CE1–CE4 evidence is complete** for that level's taxes: every category traced, every receiver
+   named, every Human Owner found, dated contacts on record.
+2. **The government changed, shown by its own public record:** federal, H.R. 25 enacted plus the
+   AGCL completion layer; state, Point 02 certification filed and passing; local, property tax
+   eliminated and every local budget item meeting the NBBF Node fields.
+3. **The group's own data shows it (the PDCA smoke test):** the next month's current-state map
+   shows the old rows gone, or every remaining row passing all the control tests, and the
+   Family budget ranked first.
+4. **Reviewed:** AI review, then human review by another team, citing each control section and
+   version.
+
+Gaps: NBEF has no adopted education doctrine yet, so the NBEF part of CE5 can't be tested; the
+10-point rating stays parked.
+
 ### Walt's first business study dataset
 
 Next decision.
