@@ -45,6 +45,16 @@ calls itself whatever it wants. In this series Gary's group calls itself a **Stu
 - **Design rule:** the study datasets are designed from the control documents (AGCL, NBBF, NBEF), not from scratch.
 - **Still to define:** the "Aha factors", the simple, really big idea this series promotes.
 
+### Series acceptance test (James, 2026-11-14)
+
+The control documents in [Personal-Finance-Management](https://github.com/jhodges07/Personal-Finance-Management)
+must cover everything this series does, so that a one-paragraph request to an AI ("create a
+6-part series based on this repo") produces a similar series, with only slight story
+variations. Everything decided here must end up in those control documents.
+
+Status 2026-11-14: the repository's `main` branch holds only its README. The control documents
+from CWC #002 are on James's PC and not yet committed (pending in Cursor).
+
 ### Consumer study dataset (Claude proposal v2, not approved)
 
 Built from the control documents. It is the household's **current-state value stream map** of
