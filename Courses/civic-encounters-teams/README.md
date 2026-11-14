@@ -25,6 +25,13 @@ read the dashboard.
 **Naming (James, 2026-11-14):** to AI and the system they are **teams**. To people, each group
 calls itself whatever it wants. In this series Gary's group calls itself a **Study Circle**.
 
+**Member setup and the studies (James's memory of the lost draft, 2026-11-14):**
+- Each member sets up their own project in Claude or ChatGPT. The series explains how, including security.
+- That project supports an online **consumer study**: home ownership or renting, and how consumers are affected, meaning every tax they pay.
+- When business teams come into play, the AI prompts their members to submit to a **business study** as well.
+- Why the studies matter: people can't picture how a new system would work until they see it with their own numbers.
+- The problem the series names: property tax systems are easy for government officials to apply but brutal on homeowners.
+
 **Every team gets its own series (James, 2026-11-14; name of the record still to find):** as a
 team makes progress with evidence, AI writes scripts like this series, based on that team's
 real work. Like the TV show *Dragnet*, the team members' names are changed. Elected officials'
