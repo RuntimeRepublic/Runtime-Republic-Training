@@ -256,6 +256,23 @@ reforming a tax system. This project is a similar concept, but more comprehensiv
 - Opposing evidence to record: Americans for Tax Reform wrote to members of Congress in
   August 2023 urging them to reconsider co-sponsoring the FairTax Act of 2023.
 
+### Karen Walby testimony (precedent)
+
+- Written testimony of Karen Walby, Ph.D., Chief Economist, Americans for Fair Taxation, to
+  the House Ways and Means Committee hearing on fundamental tax reform, January 20, 2011.
+  File: James's copy (PDF, 10 pages).
+- Main measure: the cost of complying with the income tax. Figures it cites, with its sources:
+  6.1 billion hours a year (Taxpayer Advocate Service, 2010 report); over $265 billion, a
+  22.2-cent surcharge per dollar collected (Tax Foundation, 2005); small firms spend 3 to 4
+  dollars complying for every dollar of tax (National Commission on Economic Growth and Tax
+  Reform); state sales tax administration about 0.7% of revenue (Due and Mikesell, 1994); a
+  Minnesota sales tax gap of 9.9% (2000 study) against an income tax noncompliance rate of
+  15–16.6% (IRS).
+- Caveats: advocacy testimony; most data is from 1994–2010.
+- Study idea (Claude proposal): add **hours spent on taxes and preparer fees** to the consumer
+  study too, not just Walt's. It is the Lean "waste" measure, and members already log time
+  in the PFM friction log.
+
 ### Walt's first business study dataset (Claude proposal, not approved)
 
 Built from the small-business paper's measures, for a rental owner. Broad categories and
