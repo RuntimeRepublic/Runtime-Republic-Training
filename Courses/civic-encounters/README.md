@@ -11,7 +11,8 @@ first in your house, starting with a social media challenge.
 | 03 | [It's Not Aliens: The Skit](03-its-not-aliens-the-skit/lesson.md) | Draft | Pending |
 | 04 | [Your Saturday Report: What Week Three Looks Like](04-your-saturday-report/lesson.md) | Draft | Pending |
 | 05 | [What If Only H.R. 25 Passed?](05-what-if-only-hr-25-passed/lesson.md) | Draft | Pending |
-| 06 | [The Encounter Report: A Post for Your Friends](06-the-encounter-report/lesson.md) | Draft | Pending |
+
+Bonus: [The Encounter Report](../civic-encounters-bonus/README.md), a short post for your friends.
 
 Facts behind each lesson: [SOURCES.md](../../SOURCES.md).
 

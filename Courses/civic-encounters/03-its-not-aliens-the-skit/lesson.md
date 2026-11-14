@@ -1,9 +1,9 @@
 # It's Not Aliens: The Skit
 
 Course: Civic Encounters
-Lesson: 03 of 06
+Lesson: 03 of 05
 Status: Draft
-Runtime: about 4 minutes
+Runtime: about 6 minutes
 Image: Pending
 Podcast: Not recorded
 Sources: None
@@ -58,6 +58,14 @@ Gary: State. County. City. School district. And three districts I've never heard
 
 Mike: And they've been here the whole time.
 
+Gary: But every one of them promised me something. Better roads. Better schools. One of them even promised lower taxes.
+
+Mike: Milton Friedman said it's a great mistake "to judge policies and programs by their intentions rather than their results."
+
+Gary: So I stop listening to the promises?
+
+Mike: You listen. Then you check the receipts.
+
 Gary: So I'm not crazy.
 
 Mike: You're not crazy. You're a CE1.
@@ -70,6 +78,10 @@ Gary: How do I get out of here?
 
 Mike: You go up. Next is CE2, Physical Evidence. You run a real budget for one full month and close it out. Every dollar has a place, and every charge has a receipt.
 
+Gary: A whole month? That sounds like work.
+
+Mike: It is. But it's your money. Nobody else is going to count it for you.
+
 Gary: Evidence. I like evidence. Then what?
 
 Mike: Then CE3, the big one. Contact. That's where I want you. You identify every government that takes your money, including the ones hiding on your bills. You stop guessing who's out there. You know their names.
@@ -81,6 +93,10 @@ Mike: You make contact. And here's the payoff. You can finally rank who gets pai
 Gary: That's the cold feeling.
 
 Mike: That's the cold feeling.
+
+Gary: So what do I do about it? Cut everything?
+
+Mike: Thomas Sowell put it best: "There are no solutions. There are only trade-offs." Once you can see the trade-offs, you can choose them on purpose.
 
 Gary: Is there anything past three?
 
@@ -114,7 +130,7 @@ Gary: I'm not going back there.
 
 ## Recap
 
-Let's sum up. Gary thought aliens were taking his money. Mike showed him it was government: taxes on his paycheck, fees on his phone bill, and seven governments on his property tax notice. Gary starts at CE1, the Sighting, and aims for CE2 and then CE3, Contact, where he can finally rank who gets paid first in his house. Every level is earned with evidence. Find out who's landing on your house. Take the Civic Encounters Challenge. Thanks for listening. This has been Runtime Republic.
+Let's sum up. Gary thought aliens were taking his money. Mike showed him it was government: taxes on his paycheck, fees on his phone bill, and seven governments on his property tax notice. Milton Friedman warned us to judge programs by their results, not their intentions, and Thomas Sowell reminded us there are only trade-offs. Gary starts at CE1, the Sighting, and aims for CE2 and then CE3, Contact, where he can finally rank who gets paid first in his house. Find out who's landing on your house. Take the Civic Encounters Challenge. Thanks for listening. This has been Runtime Republic.
 
 <!-- series-navigation: start -->
 

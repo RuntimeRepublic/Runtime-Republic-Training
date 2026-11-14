@@ -3,9 +3,9 @@
 ![The Civic Encounters Challenge: Who Gets Paid First in Your House?](../../../Images/civic-encounters/01-the-civic-encounter-challenge.png)
 
 Course: Civic Encounters
-Lesson: 01 of 06
+Lesson: 01 of 05
 Status: Draft
-Runtime: about 6 minutes
+Runtime: about 7 minutes
 Image: 01-the-civic-encounter-challenge.png
 Podcast: Not recorded
 Sources: None
@@ -28,7 +28,7 @@ The jokes are fun, but the money is real. Taxes come out of your paycheck before
 
 Most families can tell you what they spend on groceries. Very few can tell you how many governments take money from their household, or how much all of them take together.
 
-That's a problem, because the only information most of us get about government spending comes from campaign promises. Promises tell you what politicians say they'll do with your money. An encounter tells you what was actually taken. One is a sales pitch. The other is evidence.
+That's a problem, because the only information most of us get about government spending comes from campaign promises. Promises tell you what politicians say they'll do with your money. An encounter tells you what was actually taken. One is a sales pitch. The other is evidence. Milton Friedman warned that it's a great mistake "to judge policies and programs by their intentions rather than their results."
 
 ## The five encounters
 
@@ -74,7 +74,7 @@ Here's an example post. "Encounter one, working on encounter two. Counted seven 
 
 Never post dollar amounts, addresses, account numbers, or photos of your bills. Share counts and rankings only.
 
-Be fair. Taxes pay for roads, schools, courts, and first responders. This challenge isn't about having no government. It's about knowing exactly what you pay, who receives it, and judging them by evidence.
+Be fair. Taxes pay for roads, schools, courts, and first responders. This challenge isn't about having no government. As Thomas Sowell said, "There are no solutions. There are only trade-offs." It's about knowing exactly what you pay, who receives it, and judging the trade-offs by evidence.
 
 Be specific when you contact officials. Contact the bodies that actually set your taxes. A property tax question goes to your county, city, or school board, not to Congress.
 

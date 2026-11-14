@@ -1,7 +1,7 @@
 # The Encounter Report: A Post for Your Friends
 
-Course: Civic Encounters
-Lesson: 06 of 06
+Course: Civic Encounters Bonus
+Lesson: 01 of 01
 Status: Draft
 Runtime: about 2 minutes
 Image: Pending
@@ -32,9 +32,11 @@ That's the whole post. When you share yours, swap in your own level, your own we
 
 And one rule matters more than any other. Never post dollar amounts, your address, account numbers, or photos of your bills. Share your level and your count. That's enough to make your friends curious, and it keeps you safe.
 
+Your post also does something bigger. Milton Friedman warned that it's a great mistake "to judge policies and programs by their intentions rather than their results." Every encounter report is a small vote for judging government by results.
+
 ## Recap
 
-Let's sum up. The Encounter Report is a short post that tells friends your level, how many governments landed on your house, and your next step, with a little fun from the movie. Change the level, the week and the count to match your own. Use the hashtag Civic Encounters Challenge. Never post dollar amounts, addresses, account numbers or photos of bills. Thanks for listening. This has been Runtime Republic.
+Let's sum up. The Encounter Report is a short post that tells friends your level, how many governments landed on your house, and your next step, with a little fun from the movie. Change the level, the week and the count to match your own. Use the hashtag Civic Encounters Challenge. Never post dollar amounts, addresses, account numbers or photos of bills. Each report helps judge government by its results, not its intentions. Thanks for listening. This has been Runtime Republic.
 
 <!-- series-navigation: start -->
 
@@ -42,7 +44,7 @@ Let's sum up. The Encounter Report is a short post that tells friends your level
 
 ### Continue reading
 
-[← Previous essay](../05-what-if-only-hr-25-passed/lesson.md) · [Series index](../README.md)
+[Series index](../README.md) · [Civic Encounters series](../../civic-encounters/README.md)
 
 [All series in this repository](../../README.md) · [Repository home](../../../README.md)
 

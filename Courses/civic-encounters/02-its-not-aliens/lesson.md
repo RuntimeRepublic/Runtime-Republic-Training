@@ -3,9 +3,9 @@
 ![It's Not Aliens: A Confession About My Budget](../../../Images/civic-encounters/02-its-not-aliens.png)
 
 Course: Civic Encounters
-Lesson: 02 of 06
+Lesson: 02 of 05
 Status: Draft
-Runtime: about 4 minutes
+Runtime: about 6 minutes
 Image: 02-its-not-aliens.png
 Podcast: Not recorded
 Sources: None
@@ -24,17 +24,27 @@ He wasn't joking. Every time Gary opens his bank app, he gets a cold, empty feel
 
 The bright lights are his phone at two in the morning. The rest is real. Something is taking Gary's money. It just isn't coming from outer space.
 
-So we sat down with three pieces of evidence: a pay stub, a phone bill and a property tax notice.
+So we sat down at his kitchen table with three pieces of evidence: a pay stub, a phone bill and a property tax notice.
 
-The pay stub was covered in strange markings. Federal income tax. Social Security and Medicare. State income tax. All of it was taken before Gary ever saw a dime. They get him every payday, before he even lands.
+The pay stub came first. It was covered in strange markings. Federal income tax. Social Security and Medicare. State income tax. All of it was taken before Gary ever saw a dime. They get him every payday, before he even lands.
 
-The phone bill had small lines at the bottom: taxes, fees and surcharges. Some go to governments. Some are just the phone company calling its own charges "fees." You have to check which is which. They hide in the small print, because where else would they hide?
+Gary stared at it. "I've been getting these for twenty years," he said, "and I've never read one."
+
+He isn't alone. Most of us look at the bottom line and nothing else. But the bottom line is what's left after the visitors have already taken their share.
+
+There's an old rule about this. Adam Smith wrote it down in 1776: "The tax which each individual is bound to pay ought to be certain, and not arbitrary." Certain means you know what you pay, when you pay it, and who gets it. Gary knew none of that.
+
+Next came the phone bill. Seventy dollars a month, he said. But at the bottom were small lines: taxes, fees and surcharges. Some go to governments. Some are just the phone company calling its own charges "fees." You have to check which is which. They hide in the small print, because where else would they hide? Gary had paid that bill every month for years without ever reading past the total.
 
 Then came the property tax notice. Gary admitted he never opens that one. "It glows," he said.
 
-We opened it anyway and counted the names. State. County. City. School district. And three special districts Gary had never heard of. Seven governments, all landing on one house.
+We opened it anyway and counted the names. State. County. City. School district. And three special districts Gary had never heard of. Seven governments, all landing on one house. Seven different offices, seven different budgets, and one homeowner paying all of them.
 
 They've been here the whole time.
+
+Gary went quiet for a minute. Then he said something I won't forget. "Every one of them promised me something. Better roads. Better schools. Lower taxes. Nobody ever told me what it would cost."
+
+Milton Friedman had a short answer for that: "There's no such thing as a free lunch." Every promise gets paid for. The only question is whether you can see the bill.
 
 "So I'm not crazy?" Gary asked.
 
@@ -64,7 +74,7 @@ Gary's not going back there. Are you?
 
 ## Recap
 
-Let's sum up. Gary thought aliens were taking his money. It was government: seven of them on one house, plus taxes on his paycheck and fees on his bills. The five Civic Encounter levels run from Sighting to First Contact Initiated, and every level is earned with evidence. Start with three documents, count the governments, and share your level, never your dollar amounts. Thanks for listening. This has been Runtime Republic.
+Let's sum up. Gary thought aliens were taking his money. It was government: seven of them on one house, plus taxes on his paycheck and fees on his bills. Adam Smith said a tax should be certain, not arbitrary, and Milton Friedman reminded us there's no such thing as a free lunch. The five Civic Encounter levels run from Sighting to First Contact Initiated, and every level is earned with evidence. Start with three documents, count the governments, and share your level, never your dollar amounts. Thanks for listening. This has been Runtime Republic.
 
 <!-- series-navigation: start -->
 
