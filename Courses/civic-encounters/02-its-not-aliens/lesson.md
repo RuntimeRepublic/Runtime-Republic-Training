@@ -3,7 +3,7 @@
 ![It's Not Aliens: A Confession About My Budget](../../../Images/civic-encounters/02-its-not-aliens.png)
 
 Course: Civic Encounters
-Lesson: 02 of 02
+Lesson: 02 of 06
 Status: Draft
 Runtime: about 4 minutes
 Image: 02-its-not-aliens.png
@@ -72,7 +72,7 @@ Let's sum up. Gary thought aliens were taking his money. It was government: seve
 
 ### Continue reading
 
-[← Previous essay](../01-the-civic-encounter-challenge/lesson.md) · [Series index](../README.md)
+[← Previous essay](../01-the-civic-encounter-challenge/lesson.md) · [Series index](../README.md) · [Next essay →](../03-its-not-aliens-the-skit/lesson.md)
 
 [All series in this repository](../../README.md) · [Repository home](../../../README.md)
 
