@@ -22,7 +22,7 @@ Source tags: **James** = remembered from the lost draft; **Guess** = Claude's su
 | 2 | The neighbor | At the next meeting a neighbor comes along. She rents. Talk turns to property tax, and they suggest she ask her landlord for an estimate of how much of her rent is property tax, and simply tell him, "We're working on ideas to end property taxes." | James (who brings her: Guess, Gary) |
 | 3 | The landlord and his bookkeeper | That line draws them in, and they come to the next meeting. The bookkeeper shows how property tax flows into rent. The team now has a renter, a property owner and someone who knows the books. | James: they came. Guess: what happens |
 | 4 | The county insider | The bookkeeper knows someone in the county finance office who feels the pain too: she pays the same taxes and sees the levies, late notices and families falling behind from the inside. People inside government want this fixed as well. | James |
-| 5 | Too big for one table | The team hits its size limit and splits to form new teams instead of growing into one big group. The landlord starts a business team of apartment and house rental owners. Every business-team member also stays on a consumer team. AI like Claude, GitHub and Runtime Republic keep all the teams connected: shared evidence, shared records, one registry. | James |
+| 5 | Too big for one table | The team passes 7 members and talks about splitting, then splits to form new teams instead of growing into one big group. The landlord starts a business team of apartment and house rental owners. Every business-team member also stays on a consumer team. AI like Claude, GitHub and Runtime Republic keep all the teams connected: shared evidence, shared records, one registry. | James |
 | 6 | The delegation (CE4) | The consumer and business teams bring one evidence packet to the officials who set the levies: renters, owners, the books, and a view from inside the county. | Guess |
 
 ## Characters
@@ -38,14 +38,14 @@ Source tags: **James** = remembered from the lost draft; **Guess** = Claude's su
 
 ## Series rules (from the outline)
 
-1. A team splits when it reaches its size limit (limit TBD).
+1. Teams talk about splitting after 7 members (decided by James, 2026-11-14).
 2. Every business-team member also belongs to a consumer team.
 3. Teams stay connected through AI (such as Claude), GitHub and Runtime Republic.
 4. The county employee takes part as a taxpayer on her own time, shares no inside information, and may stay anonymous in the records.
 
 ## Open decisions
 
-1. Team size limit that triggers a split.
+1. ~~Team size limit~~ Decided: teams talk about splitting after 7 members.
 2. Who brings the neighbor: Gary or Mike.
 3. Names for the neighbor, landlord, bookkeeper and county employee.
 4. At the landlord meeting: is the landlord squeezed too and an ally, is the bookkeeper's estimate the key evidence, or both?
@@ -65,7 +65,7 @@ What must exist before the first essay is written, and what each essay needs.
 | S3 | Length decision (Standard, Short or both) | 1 | Both, Standard is master |
 | S4 | Character list with names | 6 | 2 named, 4 TBD |
 | S5 | Series rules | 4 | Drafted (above) |
-| S6 | Open decisions resolved | 4 | 0 of 4 |
+| S6 | Open decisions resolved | 4 | 1 of 4 |
 | S7 | Series README for each version | 2 | This file; Short README later |
 | S8 | Catalog row in `Courses/README.md` for each version | 2 | Later |
 
