@@ -22,8 +22,8 @@ submit evidence, and that evidence changes the dashboard. Evidence is the only w
 dashboard changes. Once a member is fully set up with Claude or ChatGPT, they can open and
 read the dashboard.
 
-**Naming:** "team" is a placeholder. James had a better word on 2026-11-13 and doesn't
-remember it yet; a search of this project's chats did not find it.
+**Naming (James, 2026-11-14):** the groups are called **work groups**, not teams. This outline
+still says "team" in places; the essays will use "work group".
 
 Planned as two versions, like the main series: Standard (5–7 minutes) and Short (about
 3 minutes), with the Standard text as the master.
@@ -67,12 +67,13 @@ Source tags: **James** = remembered from the lost draft; **Guess** = Claude's su
 
 ## Open decisions
 
-Next, one question at a time: a new name for "team", then team types.
+Next: work group types, one question at a time.
 
 
 1. ~~Team size limit~~ Decided: teams talk about splitting after 7 members.
 2. ~~Who brings the neighbor~~ Decided: Gary.
 2a. ~~The phone-only man~~ Decided: Gary.
+2b. ~~New name for "team"~~ Decided: work group.
 3. ~~Names~~ Decided: Linda (neighbor), Walt (landlord), Peggy (bookkeeper), Sam (county employee).
 4. At the landlord meeting: is the landlord squeezed too and an ally, is the bookkeeper's estimate the key evidence, or both?
 
