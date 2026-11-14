@@ -32,6 +32,31 @@ calls itself whatever it wants. In this series Gary's group calls itself a **Stu
 - Why the studies matter: people can't picture how a new system would work until they see it with their own numbers.
 - The problem the series names: property tax systems are easy for government officials to apply but brutal on homeowners.
 
+**More from James (2026-11-14):**
+- Each study's dataset must be decided before writing: at least the consumer dataset and Walt's first business dataset.
+- **Mike champions the power of AI.** He already runs his budget with AI and found and cancelled services and subscriptions he had lost track of. The point: today's tax system is one that people at CE1 have lost track of, the same way.
+- One essay answers the question "What happens if we fail?" The answer: the AGCL documents and PDCE.
+- This is a **Lean Civics workshop**: ongoing, growing and never-ending.
+- Think of it as a system, with smoke tests like those used in software development.
+
+### Consumer study dataset (Claude proposal, not approved)
+
+Kept in each member's own Claude or ChatGPT project. Only counts and anonymous totals leave it; no names, addresses or account numbers.
+
+| Field | Example |
+|---|---|
+| Housing | Own or rent; county; people in household |
+| Housing cost | Mortgage or rent payment per month |
+| Property tax | Owners: from the tax bill. Renters: the landlord's estimate of the share in rent |
+| Every other tax and fee, by type | Federal and state income, payroll, sales, vehicle, fuel, utility taxes and franchise fees, government fees |
+| Who receives it | Federal, state, county, city, school district, special district |
+| Evidence | PDF, paper mail, or estimate (with its source) |
+| Lost-track items | Subscriptions and charges found, and cancelled or kept |
+
+### Walt's first business study dataset
+
+Next decision.
+
 **Every team gets its own series (James, 2026-11-14; name of the record still to find):** as a
 team makes progress with evidence, AI writes scripts like this series, based on that team's
 real work. Like the TV show *Dragnet*, the team members' names are changed. Elected officials'
@@ -79,7 +104,7 @@ Source tags: **James** = remembered from the lost draft; **Guess** = Claude's su
 
 ## Open decisions
 
-Next, one question at a time: the name of the AI-written team story record (James remembers "log"), then team types.
+Next, one question at a time: approve the consumer dataset, then Walt's business dataset, then the name of the AI-written team story record (James remembers "log"), then team types.
 
 
 1. ~~Team size limit~~ Decided: teams talk about splitting after 7 members.
