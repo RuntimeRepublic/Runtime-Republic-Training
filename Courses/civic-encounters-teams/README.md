@@ -35,11 +35,17 @@ calls itself whatever it wants. In this series Gary's group calls itself a **Stu
 **More from James (2026-11-14):**
 - Each study's dataset must be decided before writing: at least the consumer dataset and Walt's first business dataset.
 - **Mike champions the power of AI.** He already runs his budget with AI and found and cancelled services and subscriptions he had lost track of. The point: today's tax system is one that people at CE1 have lost track of, the same way.
-- One essay answers the question "What happens if we fail?" The answer: the AGCL documents and PDCE.
+- One essay answers the question "What happens if we fail?" The answer: the AGCL documents and PDCA (Plan-Do-Check-Act).
 - This is a **Lean Civics workshop**: ongoing, growing and never-ending.
 - Think of it as a system, with smoke tests like those used in software development.
 
-### Consumer study dataset (Claude proposal, not approved)
+- **Why the studies exist (James, 2026-11-14):** like a Lean manufacturing team, first map the current state (a current-state Value Stream Map), then brainstorm a future-state map, then run PDCA with a smoke test to see if it works.
+- **The problem today:** a bill claims it will do A, and there is no way to test it. Only outside outrage changes anything, and the people who passed it are long gone. Thomas Sowell writes whole books about this.
+- **Overarching question:** why can't we get rid of property tax? We do know something about the answer, and the series has to show it.
+- **Design rule:** the study datasets are designed from the control documents (AGCL, NBBF, NBEF), not from scratch.
+- **Still to define:** the "Aha factors", the simple, really big idea this series promotes.
+
+### Consumer study dataset (Claude proposal, not approved; to be redesigned from the control documents)
 
 Kept in each member's own Claude or ChatGPT project. Only counts and anonymous totals leave it; no names, addresses or account numbers.
 
