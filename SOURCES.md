@@ -177,6 +177,8 @@ the same commit. Lesson headings below match the GitHub for Everyone course
 | IRS projected gross tax gap of $696 billion for tax year 2022 | [Accounting Today](https://www.accountingtoday.com/news/irs-sees-tax-gap-growing) |
 | About 6.9 billion hours a year spent complying with federal tax rules | [Tax Foundation, 2025](https://taxfoundation.org/data/all/federal/irs-tax-complexity-costs-us-economy-over-544-billion-annually/) |
 
+Civic Encounters in 3 Minutes, episodes 07 and 08, use the same facts as lesson 05 above.
+
 ### Economist quotations used in the Civic Encounters series
 
 Each supports a principle in the [AGCL Doctrinal Foundations and Economic Lineage](https://github.com/RuntimeRepublic/AGCL-Control-Documents/blob/main/AGCL_Doctrinal_Foundations_and_Economic_Lineage.txt).
