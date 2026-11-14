@@ -7,6 +7,11 @@ The goal of the Civic Encounters Challenge is to get people to start civic teams
 follows one team from two friends at a kitchen table to a joint delegation, adding one new
 kind of person in each episode, each for a concrete reason.
 
+**Teaching purpose (James, 2026-11-14):** show how the overall system works: how the American
+Gold Contract for Liberty (AGCL, the U.S. NBLF) works together with the Node-Based Budgeting
+Framework (NBBF). A last group, which handles the Node-Based Educational Framework (NBEF), is
+described but has no meeting in the series.
+
 Planned as two versions, like the main series: Standard (5–7 minutes) and Short (about
 3 minutes), with the Standard text as the master.
 
@@ -42,10 +47,13 @@ Source tags: **James** = remembered from the lost draft; **Guess** = Claude's su
 2. Every business-team member also belongs to a consumer team.
 3. Teams stay connected through AI (such as Claude), GitHub and Runtime Republic.
 4. The county employee takes part as a taxpayer on her own time, shares no inside information, and may stay anonymous in the records.
+5. The first meeting (Gary and Mike) is in person. Every meeting after that is online (James, 2026-11-14).
+6. Red teams and blue teams are not part of this series; they were for the dashboard discussion only (James, 2026-11-14).
+7. One man joins the online meetings by phone because he has no laptop. He gets his bills by mail, while everyone else uses PDFs and AI to set up the budget for the challenge. He later gives in and buys a laptop. This contrast is one of the series goals (James, 2026-11-14).
 
 ## Open decisions
 
-Next discussion after names: team types (consumer, business, and any others).
+Next: who is the man with only a phone? Then team types, one question at a time.
 
 
 1. ~~Team size limit~~ Decided: teams talk about splitting after 7 members.
@@ -67,7 +75,7 @@ What must exist before the first essay is written, and what each essay needs.
 | S2 | Episode outline, approved by James | 1 | Draft (above) |
 | S3 | Length decision (Standard, Short or both) | 1 | Both, Standard is master |
 | S4 | Character list with names | 6 | 6 named |
-| S5 | Series rules | 4 | Drafted (above) |
+| S5 | Series rules | 7 | Drafted (above) |
 | S6 | Open decisions resolved | 4 | 3 of 4 |
 | S7 | Series README for each version | 2 | This file; Short README later |
 | S8 | Catalog row in `Courses/README.md` for each version | 2 | Later |
@@ -79,7 +87,7 @@ What must exist before the first essay is written, and what each essay needs.
 | E1 | Beat sheet: the episode's scenes in order, approved | 6 |
 | E2 | Facts the essay states, each with a source in `SOURCES.md` | as needed per episode |
 | E3 | At least one economist quote, by name only, where AGCL supports the point (none in episode 1's lead-in) | 12 (6 Standard + 6 Short) |
-| E4 | Red team / blue team notes for each policy claim, kept outside the narration | 6 |
+| E4 | ~~Red team / blue team notes~~ Not used in this series (James, 2026-11-14) | 0 |
 | E5 | Standard essay text, 850–1,000 words | 6 |
 | E6 | Short episode text, 400–550 words, pointing back to its Standard essay | 6 |
 | E7 | Header, recap and navigation per CONTROL 05 | 12 |
