@@ -103,8 +103,14 @@ excise, legacy activity fees)?
 passes its first smoke test when every row has a receiver and evidence, and the household's
 total matches its bank and card statements for the month.
 
-**Privacy:** everything stays in the member's own Claude or ChatGPT project. Only counts and
-anonymous totals leave it. No names, addresses or account numbers.
+**Study submission rules (James, 2026-11-14):**
+- The study dataset collects broad categories only. No personal data. The detailed rows above
+  stay in the member's own Claude or ChatGPT project.
+- The member's AI builds the study dataset and pushes it by itself, but only after the member
+  has seen it first.
+- The study push is always a human command. Members may run scheduled tasks to track their
+  budget, but the study push is never scheduled.
+- Open: are category totals sent as dollar amounts, percentages or ranges?
 
 ### Walt's first business study dataset
 
