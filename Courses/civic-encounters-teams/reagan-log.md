@@ -16,7 +16,7 @@ permanent and never reused. James picks the quotes; suggestions here are only su
 ## Keys
 
 **Check:** ✅ Confirmed word for word against a primary source · 🟡 Partly confirmed ·
-⬜ Not yet checked · ❌ Problem found (see notes).
+⬜ Not yet checked · ❌ Problem found (see notes) · **✅G** Checked by Grok (X) on Nov 16, 2026 against primary sources; Grok gave no links, so Claude or James spot-checks before final approval.
 
 **Rights:** **PD** = spoken as President (1981–1989), a U.S. government work with no copyright
 (17 U.S.C. § 105); quote at any length. **RC** = spoken as a private citizen or candidate;
@@ -28,33 +28,33 @@ rights check before quoting long passages.
 
 | ID | Short name | Speech (corrected) | Check | Rights | Themes | Fit | Suggested use |
 |---|---|---|---|---|---|---|---|
-| R01 | "Make America great again" | Labor Day, Liberty State Park, Sep 1, 1980 | ⬜ | RC | campaign | ✗ | Reads as today's campaign slogan; the series avoids sides |
-| R02 | "Bold action" | Labor Day, Sep 1, 1980 | ⬜ | RC | campaign | ✗ | Too thin on its own |
+| R01 | "Make America great again" | Labor Day, Liberty State Park, Sep 1, 1980 | ✅ | RC | campaign | ✗ | Reads as today's campaign slogan; the series avoids sides |
+| R02 | "Bold action" | Labor Day, Sep 1, 1980 | ✅ | RC | campaign | ✗ | Too thin on its own |
 | R03 | "Best days are yet to come" | **RNC, Houston, Aug 17, 1992** (not Labor Day 1980) | ❌ | RC | optimism | ✗ | Wrong source on both lists; private citizen in 1992 |
-| R04 | "A living, breathing presence" | Candidacy announcement, Nov 13, 1979 | ⬜ | RC | America, fairness | ○ | Possible close for a later essay |
+| R04 | "A living, breathing presence" | Candidacy announcement, Nov 13, 1979 | ✅G | RC | America, fairness | ○ | Possible close for a later essay |
 | R05 | "Heroic dreams" | Inaugural, Jan 20, 1981 | ✅ | PD | ordinary people, taxpayers | ⭐ | **Used: Ep 1, time-lapse quote 2** |
 | R06 | "Work with us, not over us" | Inaugural, Jan 20, 1981 | ✅ | PD | working with government | ⭐ | **Used: Ep 1, opening quote** |
 | R07 | "Intervention and intrusion" | Inaugural, Jan 20, 1981 | ✅ | PD | growth of government | ⭐ | Ep 4, Who Gets Paid First? |
-| R08 | "Capacity for self-government" | A Time for Choosing, Oct 27, 1964 | 🟡 | RC | self-government | ⭐ | **Used: Ep 1, time-lapse quote 3** |
-| R09 | "Path toward greater freedom or bigger government" | CPAC dinner, Mar 2, 1984 | ⬜ | PD | freedom vs. dependence | ○ | Alternate for Ep 10 |
-| R10 | "Unleashed the energy and individual genius" | Inaugural, Jan 20, 1981 | ⬜ | PD | individual initiative | ⭐ | Ep 7, Too big for one table |
-| R11 | "Business is not a taxpayer, it is a tax collector" | Candidacy announcement, Nov 13, 1979 | ❌ | RC | hidden taxes in prices and rent | ⭐ | Ep 3, the landlord (use corrected wording) |
-| R12 | "A punitive tax system must be replaced" | Candidacy announcement, Nov 13, 1979 | ⬜ | RC | tax reform | ○ | FairTax letters |
+| R08 | "Capacity for self-government" | A Time for Choosing, Oct 27, 1964 | ✅G | RC | self-government | ⭐ | **Used: Ep 1, time-lapse quote 3** |
+| R09 | "Path toward greater freedom or bigger government" | CPAC dinner, Mar 2, 1984 | ✅G | PD | freedom vs. dependence | ○ | Alternate for Ep 10 |
+| R10 | "Unleashed the energy and individual genius" | Inaugural, Jan 20, 1981 | ✅G | PD | individual initiative | ⭐ | Ep 7, Too big for one table |
+| R11 | "Business is not a taxpayer, it is a tax collector" | Candidacy announcement, Nov 13, 1979 | 🟡 | RC | hidden taxes in prices and rent | ⭐ | Ep 3, the landlord (choose a version; see Full text) |
+| R12 | "A punitive tax system must be replaced" | Candidacy announcement, Nov 13, 1979 | ✅G | RC | tax reform | ○ | FairTax letters |
 | R13 | "More of every added dollar… yours to keep" | White House luncheon, July 22, 1981 | ✅ | PD | take-home pay | ⭐ | **Used: Ep 1, time-lapse quote 1** |
 | R14 | "We cut the people's tax rates" | Farewell Address, Jan 11, 1989 | 🟡 | PD | results claim | ○ | Contested results claim; use only with context |
-| R15 | "Simplify the tax code" | State of the Union, Jan 25, 1983 | ⬜ | PD | tax forms, simplicity | ⭐ | Ep 5, the county insider (alternate) |
-| R16 | "No security… without fiscal and economic stability" | **Source unknown** (not the Libya address) | ❌ | ? | debt, security | ✗ | Do not use until the speech is found |
-| R17 | "Enemies of freedom… peace" | Inaugural, Jan 20, 1981 | ⬜ | PD | foreign policy | ✗ | Off topic for this series |
-| R18 | "Prayer meetings… a nation under God" | Inaugural, Jan 20, 1981 | 🟡 | PD | faith | ✗ | Off topic for this series |
-| R19 | Joseph Warren, "Act worthy of yourselves" | Inaugural, Jan 20, 1981 | 🟡 | PD | duty to future generations | ⭐ | Ep 9, The delegation (CE4) |
+| R15 | "Simplify the tax code" | State of the Union, Jan 25, 1983 | ✅G | PD | tax forms, simplicity | ⭐ | Ep 5, the county insider (alternate) |
+| R16 | "No security… without fiscal and economic stability" | **A Time for Choosing, Oct 27, 1964** (corrected; not the Libya address) | ✅ | RC | debt, security | ○ | Usable; "no" vs "not" differs between transcripts |
+| R17 | "Enemies of freedom… peace" | Inaugural, Jan 20, 1981 | ✅G | PD | foreign policy | ✗ | Off topic for this series |
+| R18 | "Prayer meetings… a nation under God" | Inaugural, Jan 20, 1981 | ✅G | PD | faith | ✗ | Off topic for this series |
+| R19 | Joseph Warren, "Act worthy of yourselves" | Inaugural, Jan 20, 1981 | ✅G | PD | duty to future generations | ⭐ | Ep 9, The delegation (CE4) |
 | R20 | "Put Americans back to work" | RNC acceptance, July 17, 1980 | ⬜ | RC | jobs, paychecks | ○ | Possible for a pay-stub scene |
-| R21 | "Rig the tax code" | White House luncheon, July 22, 1981 | ⬜ | PD | tax politics | ⭐ | **Planned: Ep 4, second quote inside the story** (verify wording first) |
+| R21 | "Rig the tax code" | White House luncheon, July 22, 1981 | ✅G | PD | tax politics | ⭐ | **Planned: Ep 4, second quote inside the story** (verify wording first) |
 | R22 | "A sure thing" | House Republican Conference, July 24, 1981 | ✅ | PD | planning, certainty | ○ | Ep 4 or PDCA lesson |
-| R23 | "Trust yourselves" | Address to the Nation on Tax Reduction, July 27, 1981 | 🟡 | PD | self-reliance | ⭐ | Ep 2, The neighbor |
+| R23 | "Trust yourselves" | Address to the Nation on Tax Reduction, July 27, 1981 | ✅G | PD | self-reliance | ⭐ | Ep 2, The neighbor |
 | R24 | "Bracket creep takes over" | House Republican Conference, July 24, 1981 | ✅ | PD | hidden tax increases | ⭐ | Ep 8, Talking Back |
-| R25 | "Constant reevaluation" | State of the Union, Jan 25, 1983 | ⬜ | PD | review, PDCA | ⭐ | Ep 5, The county insider |
-| R26 | "Act worthy of ourselves" | Inaugural, Jan 20, 1981 | ⬜ | PD | renewal | ⭐ | Ep 10, The pile on the desk (callback to R19) |
-| R27 | "Lighten our punitive tax burden" | Inaugural, Jan 20, 1981 | 🟡 | PD | balance between levels of government | ⭐ | Ep 6, How the Rules Fit Together |
+| R25 | "Constant reevaluation" | State of the Union, Jan 25, 1983 | ✅G | PD | review, PDCA | ⭐ | Ep 5, The county insider |
+| R26 | "Act worthy of ourselves" | Inaugural, Jan 20, 1981 | ✅G | PD | renewal | ⭐ | Ep 10, The pile on the desk (callback to R19) |
+| R27 | "Lighten our punitive tax burden" | Inaugural, Jan 20, 1981 | ✅G | PD | balance between levels of government | ⭐ | Ep 6, How the Rules Fit Together |
 
 **Suggested opening quote for every episode** (James decides): Ep 1 R06 (chosen), Ep 2 R23,
 Ep 3 R11, Ep 4 R07, Ep 5 R25, Ep 6 R27, Ep 7 R10, Ep 8 R24, Ep 9 R19, Ep 10 R26.
@@ -109,8 +109,11 @@ us renew our faith and our hope." Inaugural Address, Jan 20, 1981.
 **R08** — "Whether we believe in our capacity for self-government or whether we abandon the
 American Revolution and confess that a little intellectual elite in a far-distant capital can
 plan our lives for us better than we can plan them ourselves." A Time for Choosing, Oct 27, 1964.
-Note: the sentence begins earlier ("This is the issue of this election:"). Copy the exact text
-from the Reagan Library.
+Full sentence (Grok, Nov 16): "This is the issue of this election: whether we believe in our
+capacity for self-government or whether we abandon the American revolution and confess that a
+little intellectual elite in a far-distant capitol can plan our lives for us better than we can
+plan them ourselves." Transcripts differ on "capitol"/"capital" and capitals. Essay One uses
+"capital"; match the Reagan Library text before narration.
 
 **R09** — "The difference between the path toward greater freedom or bigger government is the
 difference between success and failure; between opportunity and coercion; between faith in a
@@ -136,6 +139,9 @@ transcripts do not say that. Two versions of the speech exist:
   part of the cost of doing business. You and I pay taxes imposed on business every time we go
   to the store."
 Announcement for Presidential Candidacy, Nov 13, 1979. Pick one version and quote it exactly.
+Grok (Nov 16) gives one combined passage holding both endings. Claude could not confirm that
+both appear together in one primary transcript, so R11 stays 🟡 until James or Claude reads the
+full Reagan Library text.
 
 **R12** — "In short, a punitive tax system must be replaced by one that restores incentive for
 the worker and for industry; a system that rewards initiative and effort and encourages thrift."
@@ -158,10 +164,11 @@ of erecting them at home." Farewell Address to the Nation, Jan 11, 1989.
 more fair for all Americans. This is a goal that every American who's ever struggled with a tax
 form can understand." State of the Union, Jan 25, 1983.
 
-**R16** — "There can be no security anywhere in the free world if there is not fiscal and
-economic stability within the United States." Both lists say Libya air strike address, Apr 14,
-1986; it is not in that address. Quote sites give "if there is no fiscal…" and cite a 2004
-collection, not a speech. **Do not use until the original speech is found.**
+**R16 (source corrected)** — "There can be no security anywhere in the free world if there is no
+fiscal and economic stability within the United States." **A Time for Choosing, Oct 27, 1964**,
+not the 1986 Libya address. Found by Grok (Nov 16) and confirmed by Claude in several
+transcripts (Fordham Modern History Sourcebook, PBS American Experience). Most transcripts read
+"no fiscal"; the Hillsdale reprint reads "not fiscal." Private citizen in 1964: rights check.
 
 **R17** — "As for the enemies of freedom, those who are potential adversaries, they will be
 reminded that peace is the highest aspiration of the American people. We will negotiate for it,
@@ -241,10 +248,20 @@ principles there will be no compromise." Inaugural Address, Jan 20, 1981.
 | 2026-11-16 | R21 | 4 | Standard | Second quote, inside the story (James placed it on the mind map) | Planned |
 
 ## Still to check
-R01, R02, R04, R09, R10, R12, R15, R17, R20, R21, R25, R26 (full text); the rest of R14, R18, R19,
-R23, R27; the original source of R16; the exact 1964 wording of R08.
+- R20: not verified (Grok: "likely," with no source).
+- R11: choose a version; confirm whether one transcript holds both endings.
+- R14: words confirmed by Grok; the economic results are Reagan's claims (Rule 5).
+- Every ✅G: spot-check against a primary link before James approves an essay that uses it.
+
+## Verification history
+- 2026-11-16, Claude: R05, R06, R07, R13, R22, R24 confirmed; R16 source confirmed as 1964;
+  R01 and R02 confirmed against the American Presidency Project.
+- 2026-11-16, Grok (X), report supplied by James: R04, R08, R09, R10, R12, R15, R17, R18, R19,
+  R21, R23, R25, R26, R27 marked ✅G; R16 source found; R20 left unconfirmed.
 
 ## Sources
+- 1980 Labor Day speech: https://www.presidency.ucsb.edu/documents/remarks-liberty-state-park-jersey-city-new-jersey
+- 1964 A Time for Choosing (Fordham Sourcebook): https://sourcebooks.fordham.edu/mod/1964reagan1.asp
 - Reagan Library speech archive (formerly reagan.utexas.edu): https://reaganlibrary.archives.gov/archives/public-papers-president-ronald-reagan
 - 1979 announcement, Reagan Library: https://reaganlibrary.archives.gov/archives/speech/ronald-reagans-announcement-presidential-candidacy-1979
 - 1979 announcement, American Presidency Project: https://www.presidency.ucsb.edu/node/255827
