@@ -101,3 +101,4 @@ Written by Claude (Opus 5.5), Nov 16, 2026, from `episode-01-beat-sheet-alt-01.m
 - Facts: Kansas state sales tax on food 0% since Jan 1, 2025 (K.S.A. 79-3603d; KDOR Notice 24-21);
   Kansas gasoline excise 24¢ (K.S.A. 79-34,141); federal 18.4¢; FICA 6.2% and 1.45%.
 - The UFO line is the series' only alien reference.
+- James, Nov 16, 2026: "Keep it." Text kept as written, including its length (about 1,100 words, over the 850–1,000 target).
