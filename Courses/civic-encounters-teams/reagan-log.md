@@ -48,7 +48,7 @@ rights check before quoting long passages.
 | R18 | "Prayer meetings… a nation under God" | Inaugural, Jan 20, 1981 | 🟡 | PD | faith | ✗ | Off topic for this series |
 | R19 | Joseph Warren, "Act worthy of yourselves" | Inaugural, Jan 20, 1981 | 🟡 | PD | duty to future generations | ⭐ | Ep 9, The delegation (CE4) |
 | R20 | "Put Americans back to work" | RNC acceptance, July 17, 1980 | ⬜ | RC | jobs, paychecks | ○ | Possible for a pay-stub scene |
-| R21 | "Rig the tax code" | White House luncheon, July 22, 1981 | ⬜ | PD | tax politics | ○ | Not found in transcript excerpts yet; check before use |
+| R21 | "Rig the tax code" | White House luncheon, July 22, 1981 | ⬜ | PD | tax politics | ⭐ | **Planned: Ep 4, second quote inside the story** (verify wording first) |
 | R22 | "A sure thing" | House Republican Conference, July 24, 1981 | ✅ | PD | planning, certainty | ○ | Ep 4 or PDCA lesson |
 | R23 | "Trust yourselves" | Address to the Nation on Tax Reduction, July 27, 1981 | 🟡 | PD | self-reliance | ⭐ | Ep 2, The neighbor |
 | R24 | "Bracket creep takes over" | House Republican Conference, July 24, 1981 | ✅ | PD | hidden tax increases | ⭐ | Ep 8, Talking Back |
@@ -238,6 +238,7 @@ principles there will be no compromise." Inaugural Address, Jan 20, 1981.
 | 2026-11-16 | R13 | 1 | Standard | Part A, time-lapse quote 1 (beat 4) | In beat sheet |
 | 2026-11-16 | R05 | 1 | Standard | Part A, time-lapse quote 2 (beat 5) | In beat sheet |
 | 2026-11-16 | R08 | 1 | Standard | Part A, time-lapse quote 3 (beat 6) | In beat sheet |
+| 2026-11-16 | R21 | 4 | Standard | Second quote, inside the story (James placed it on the mind map) | Planned |
 
 ## Still to check
 R01, R02, R04, R09, R10, R12, R15, R17, R20, R21, R25, R26 (full text); the rest of R14, R18, R19,
