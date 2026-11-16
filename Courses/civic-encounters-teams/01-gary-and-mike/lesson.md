@@ -1,10 +1,12 @@
 # Gary and Mike: A Time for Choosing
 
+![Gary and Mike: A Time for Choosing](../../../Images/civic-encounters-teams/01-gary-and-mike.png)
+
 Course: Civic Encounters: Teams
 Lesson: 01 of 10
 Status: Draft
 Runtime: about 7 minutes
-Image: Pending
+Image: 01-gary-and-mike.png
 Podcast: Not recorded
 Sources: None
 Approved by: —
