@@ -4,7 +4,9 @@ Supports the whole series (Standard and Short versions). Every quote has a perma
 (R01, R02 …) that never changes or gets reused. Every time a quote goes into a beat sheet or
 essay, add a row to the usage log at the bottom.
 
-Source list supplied by James, Nov 16, 2026. James found these on the Reagan Library's website,
+Source list supplied by James, Nov 16, 2026, as a text file (R01–R18). The full original is
+James's own 8-page compilation "Reagan Fairtax Quotes" (ksFairtax.org, Jan 1, 2015), which holds
+all 18 plus 9 more (R19–R27). James found these on the Reagan Library's website,
 which was hosted for years at the University of Texas (reagan.utexas.edu). The speeches were
 not given at the University; they come from many occasions, and five are from before or after
 his presidency (see the Rights column). Checked by Claude (Opus 5.5) the same day against
@@ -35,6 +37,15 @@ only after a rights check.
 | R16 | "There can be no security anywhere in the free world if there is not fiscal and economic stability…" | Libya air strike address, Apr 14, 1986 | **UNVERIFIED.** Not found in that address; the source may be a 1981 economic speech. Find it before use. | Public domain if presidential | — |
 | R17 | "As for the enemies of freedom…" | Inaugural, Jan 20, 1981 | Not yet checked | Public domain | — |
 | R18 | "I'm told that tens of thousands of prayer meetings are being held on this day…" | Inaugural, Jan 20, 1981 | Confirmed (closing passage) | Public domain | — |
+| R19 | "On the eve of our struggle for independence a man who might have been one of the greatest among the Founding Fathers, Dr. Joseph Warren…" | Inaugural, Jan 20, 1981 | Closing words confirmed ("Act worthy of yourselves."); check the rest | Public domain | — |
+| R20 | "It is time to put Americans back to work…" | Republican National Convention acceptance, July 17, 1980 | Not yet checked | Check | — |
+| R21 | "They want to rig the tax code to take back their tax cut as quickly as possible…" | White House luncheon, July 22, 1981 | Not yet checked | Public domain | — |
+| R22 | "What we need is for people to look ahead 3 years and be able to plan on the knowledge of a sure thing." | House Republican Conference, July 24, 1981 (2015 PDF shows "198") | Not yet checked | Public domain | — |
+| R23 | "I've not taken your time this evening merely to ask you to trust me. Instead, I ask you to trust yourselves…" | Address to the Nation on Federal Tax Reduction Legislation, July 27, 1981 | Not yet checked | Public domain | — |
+| R24 | "Now, I said the choice before us is a tax cut or a tax increase… bracket creep takes over…" | House Republican Conference, July 24, 1981 | Not yet checked. The 2015 PDF adds James's own note after it; that note is commentary, not part of the quote. | Public domain | — |
+| R25 | "Tax policy, regulatory practices, and government programs all need constant reevaluation…" | State of the Union, Jan 25, 1983 | Not yet checked | Public domain | — |
+| R26 | "Well, I believe we, the Americans of today, are ready to act worthy of ourselves…" | Inaugural, Jan 20, 1981 | Not yet checked | Public domain | — |
+| R27 | "In the days ahead I will propose removing the roadblocks that have slowed our economy…" | Inaugural, Jan 20, 1981 | "It is time to reawaken this industrial giant… lighten our punitive tax burden" confirmed; check the rest | Public domain | — |
 
 ## Rules
 1. A quote is used word for word from a primary source, or not at all.
