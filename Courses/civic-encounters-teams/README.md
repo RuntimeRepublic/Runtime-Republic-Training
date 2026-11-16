@@ -297,18 +297,23 @@ Planned as two versions, like the main series: Standard (5–7 minutes) and Shor
 
 ---
 
-## Outline
+## Outline (updated Nov 15, 2026)
 
-Source tags: **James** = remembered from the lost draft; **Guess** = Claude's suggestion, not yet confirmed.
+James decided on Nov 15, 2026: keep the Nov 14 outline and add three episodes, spread through the story.
+James decided the episode 3 turning point: both. Walt is squeezed by property tax too and becomes an ally,
+and Peggy's estimate of the tax inside the rent is the key evidence.
 
 | # | Episode | What happens | Source |
 |---|---|---|---|
-| 1 | Gary and Mike | Gary can't figure out where his money goes and jokes that aliens are taking it. Mike agrees it feels that way and challenges him to track his budget for one month and find every tax. They agree to meet next week to check progress. | James |
-| 2 | The neighbor | The second meeting is online, and Gary joins by phone. He brings a neighbor. She rents, has family members, and already knows property taxes are an issue. Talk turns to property tax, and they suggest she ask her landlord for an estimate of how much of her rent is property tax, and simply tell him, "We're working on ideas to end property taxes." | James (Gary brings her) |
-| 3 | The landlord and his bookkeeper | That line draws them in, and they come to the next meeting. She, the bookkeeper, shows how property tax flows into rent. The team now has a renter, a property owner and someone who knows the books. | James: they came. Guess: what happens |
-| 4 | The county insider | The bookkeeper knows someone in the county finance office who feels the pain too: she pays the same taxes and sees the levies, late notices and families falling behind from the inside. People inside government want this fixed as well. | James |
-| 5 | Too big for one table | The team passes 7 members and talks about splitting, then splits to form new teams instead of growing into one big group. The landlord starts a business team of apartment and house rental owners. Every business-team member also stays on a consumer team. AI like Claude, GitHub and Runtime Republic keep all the teams connected: shared evidence, shared records, one registry. | James |
-| 6 | The delegation (CE4) | The consumer and business teams bring one evidence packet to the officials who set the levies: renters, owners, the books, and a view from inside the county. | Guess |
+| 1 | Gary and Mike | Gary jokes aliens take his money; Mike challenges him to track one month and find every tax. | James |
+| 2 | The neighbor | Linda, a renter, is told to ask her landlord how much of her rent is property tax. | James |
+| 3 | The landlord and his bookkeeper | Walt is squeezed too and becomes an ally; Peggy's estimate is the key evidence. | James |
+| 4 | Who Gets Paid First? | The team lines up each household's real budget order; government is paid before family. | Added Nov 15 |
+| 5 | The county insider | Sam, in county finance, feels the pain too. | James |
+| 6 | How the Rules Fit Together | How AGCL (NBLF) works with NBBF; an NBEF group is described but does not meet. | Added Nov 15 (James's teaching purpose) |
+| 7 | Too big for one table | Past 7 members, the team splits; Walt starts a business team; everyone stays on a consumer team. | James |
+| 8 | Talking Back | Gary writes his Representative about the gas tax, with a stamped reply card (pays off the stamps line). | Added Nov 15 |
+| 9 | The delegation (CE4) | Consumer and business teams bring one evidence packet to the officials who set the levies. | Guess |
 
 ## Characters
 
@@ -342,7 +347,7 @@ Next, one question at a time: approve the consumer dataset, then Walt's business
 2a. ~~The phone-only man~~ Decided: Gary.
 2b. ~~New name for "team"~~ Decided: "team" for AI and the system; each group picks its own name; Gary's is a Study Circle.
 3. ~~Names~~ Decided: Linda (neighbor), Walt (landlord), Peggy (bookkeeper), Sam (county employee).
-4. At the landlord meeting: is the landlord squeezed too and an ally, is the bookkeeper's estimate the key evidence, or both?
+4. ~~At the landlord meeting~~ Decided (James, 2026-11-15): both. Walt is squeezed too and becomes an ally; Peggy's estimate is the key evidence.
 
 ---
 
