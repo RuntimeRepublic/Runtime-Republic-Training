@@ -1,6 +1,6 @@
-[ID: James to assign] — Reagan Log verification — Return to Claude
+RRT-CWC-001 — Reagan Log verification — Return to Claude
 
-Agent: [James to name]
+Agent: Civics Dashboard 01 (named by James)
 Review owner: Claude (CLD). Return destination: Claude.
 Originating service: Claude (Opus 5.5), Nov 16, 2026, session https://claude.ai/code/session_01MDF1RNN4TxA99cYqDL51WS
 Repository: RuntimeRepublic/Runtime-Republic-Training
@@ -64,7 +64,7 @@ STOP AND REPORT IF
 
 FINAL REPLY
 List each ID checked with its result (✅, 🟡, ❌, ⬜), the commit hash, and any stop conditions hit.
-End with this line exactly (with the real ID and agent):
-[ID] - [Agent] - Return to Claude
+End with this line exactly:
+RRT-CWC-001 - Civics Dashboard 01 - Return to Claude
 
-[ID: James to assign] — Reagan Log verification — Return to Claude
+RRT-CWC-001 — Reagan Log verification — Return to Claude
