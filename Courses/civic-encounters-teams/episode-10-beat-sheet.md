@@ -1,6 +1,6 @@
 # Episode 10 — The Pile on the Desk: beat sheet (DRAFT)
 
-Series: Civic Encounters: Teams (`Courses/civic-encounters-teams`). Status: Draft for James's approval.
+Series: Civic Encounters: Teams (`Courses/civic-encounters-teams`). Status: Draft for James's approval. James decided (Nov 15): from episode 5 on, each episode opens with an exciting dashboard talk; especially here.
 Written by Claude (Opus 5.5), Nov 15, 2026.
 
 ## James decided (Nov 15, 2026)
@@ -14,11 +14,16 @@ Written by Claude (Opus 5.5), Nov 15, 2026.
 - The click: every letter cites the same standard.
 - The ending: the staffer fills out the reply card.
 
+## Story notes (James, Nov 15)
+- Groups can form without the app, stay independent, and associate with Runtime Republic; the dashboard counts them as associated groups.
+- Mass migration: an existing national group joins all at once. It must be fictional: the Plain Price Coalition (working name; not a real organization).
+
 ## Characters (fictional; names are placeholders for James to change)
 - Nora, a legislative correspondent who sorts constituent mail.
 - Representative Hale, the Member.
 
 ## Beats
+0. **Opening: the dashboard (from the office).** A letter's QR code sends Nora, the staffer, to the public response board. She expects a protest site. Instead: flags lit across five countries, state tiles across dozens of states, a news bar of teams forming and letters mailed, and a list of offices with statuses: Asked, Responded, Committed, Delivered. Her own office is on it: "Asked." Counts only, no names, no dollar amounts. Then the news bar flashes, bigger than the rest: "BREAKING: The Plain Price Coalition joins Runtime Republic, all chapters, all 50 states." A national group that existed long before any app, now adopting the same standard in one vote. The counts jump while she watches. She leans back. "How long has this been going on?"
 1. **Monday mail.** Nora sorts the week's letters into the usual bins: taxes, roads, housing,
    small business. Most mail is a single issue. These look like it too.
 2. **The odd details.** A gas-tax letter asks where the federal fuel tax goes after the pump,
