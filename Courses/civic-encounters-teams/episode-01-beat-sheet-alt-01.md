@@ -18,12 +18,12 @@ Standard essay target: 850–1,000 words. Short version: 400–550 words, pointi
 
 ### Part A — Opening quote, then the time-lapse
 
-**How Part A works (James, Nov 16, 2026).** The essay opens with James's major quote (see
+**How Part A works (James, Nov 16, 2026).** Quote IDs refer to `reagan-quote-bank.md`; log any change there. The essay opens with James's major quote (see
 `opening-quotes.md`), then the story. In the time-lapse, Reagan speaks only 2 or 3 times, each a
 longer passage chosen by James, so the scene flows instead of cutting back and forth every few
 seconds. Mike logs several receipts between quotes. The speaker is called only "Reagan."
 
-1. **Opening quote (James's pick, Nov 16).** Reagan, Inaugural Address, January 20, 1981:
+1. **Opening quote, R06 (James's pick, Nov 16).** Reagan, Inaugural Address, January 20, 1981:
    "Now, so there will be no misunderstanding, it's not my intention to do away with government.
    It is rather to make it work—work with us, not over us; to stand by our side, not ride on our
    back. Government can and must provide opportunity, not smother it; foster productivity, not
@@ -36,7 +36,7 @@ seconds. Mike logs several receipts between quotes. The speaker is called only "
 3. **Cut to Mike.** Saturday morning, kitchen table: coffee, a shoebox of receipts, his iPhone
    propped against the sugar bowl, his laptop open to his AI budget, the screen door open to the
    porch. He plays the speech from a podcast on Spotify. Time-lapse begins.
-4. **Reagan quote 1.** Remarks on tax reduction, White House luncheon, July 22, 1981:
+4. **Reagan quote 1, R13.** Remarks on tax reduction, White House luncheon, July 22, 1981:
    "We must make the people a commitment, the kind of commitment that says if you work or save
    more tomorrow than you did today, then your reward will be higher. More of every added dollar
    that you earn will be yours to keep." Then Mike, in one stretch:
@@ -44,7 +44,7 @@ seconds. Mike logs several receipts between quotes. The speaker is called only "
      Medicare 1.45%). The government was paid before Mike was.
    - **Grocery receipt:** Kansas dropped its state sales tax on groceries, but local sales tax
      is still on the line. One government moved; the others didn't. (Verify in SOURCES.md.)
-5. **Reagan quote 2.** Inaugural Address, January 20, 1981 (the "heroes" passage, from "We have
+5. **Reagan quote 2, R05.** Inaugural Address, January 20, 1981 (the "heroes" passage, from "We have
    every right to dream heroic dreams" through "Their values sustain our national life"). The
    line that lands on Mike: "They're individuals and families whose taxes support the government."
    Then Mike, in one stretch:
@@ -55,7 +55,7 @@ seconds. Mike logs several receipts between quotes. The speaker is called only "
    - **Phone bill:** a 911 fee, sales tax and a federal Universal Service charge the carrier
      passes through. (UNVERIFIED story to check before use: the federal telephone excise tax
      started in 1898 for the Spanish-American War and was collected on long distance until 2006.)
-6. **Reagan quote 3.** "A Time for Choosing," October 27, 1964: "Whether we believe in our
+6. **Reagan quote 3, R08.** "A Time for Choosing," October 27, 1964: "Whether we believe in our
    capacity for self-government or whether we abandon the American Revolution and confess that
    a little intellectual elite in a far-distant capital can plan our lives for us better than we
    can plan them ourselves." (Copy exact wording from the Reagan Library text; 1964 rights check.)
