@@ -314,6 +314,7 @@ and Peggy's estimate of the tax inside the rent is the key evidence.
 | 7 | Too big for one table | Past 7 members, the team splits; Walt starts a business team; everyone stays on a consumer team. | James |
 | 8 | Talking Back | Gary writes his Representative about the gas tax, with a stamped reply card (pays off the stamps line). | Added Nov 15 |
 | 9 | The delegation (CE4) | Consumer and business teams bring one evidence packet to the officials who set the levies. | Guess |
+| 10 | The pile on the desk | Inside a congressional office (fictional Member and staffer), letters that look single-issue all cite the same standard; pieced together they are one plan. The staffer checks "Our office will participate." Property tax enters only through AGCL Point 02. | James (Nov 15) |
 
 ## Characters
 
