@@ -1,10 +1,11 @@
 # Episode 6 — How the Rules Fit Together: beat sheet (ROUGH DRAFT)
 
-Series: Civic Encounters: Teams (`Courses/civic-encounters-teams`). Status: ROUGH DRAFT for James's approval.
+Series: Civic Encounters: Teams (`Courses/civic-encounters-teams`). Status: ROUGH DRAFT for James's approval. James decided (Nov 15): from episode 5 on, each episode opens with an exciting dashboard talk.
 Written by Claude (Opus 5.5), Nov 15, 2026, from the series README (outline, characters, rules, datasets).
 Teaching purpose (James): show how AGCL (the U.S. NBLF) works together with NBBF. An NBEF group is described but does not meet.
 
 ## Beats
+0. **Opening: the dashboard (Mike).** Mike points to the amber "Toward CE5" bar on their team card. It barely moved. Walt: "What fills that thing?" Mike: "Proof that the system changed, not just that we're mad." That's the doorway into tonight's question: what would the new system even be?
 1. **The question.** Walt: "Fine, end property tax. Then what pays for the roads and schools?" Fair question. Mike pulls up the frameworks.
 2. **AGCL, the what.** The American Gold Contract for Liberty sets limits: authority must be defined, limited, transparent, measurable and reversible (AGCL Master Framework).
 3. **Point 01 and Point 02.** H.R. 25 replaces income and payroll taxes with a visible national sales tax; Point 02 splits that pool 33⅓% federal, 33⅓% state, 33⅓% local, if a state ends income and property taxes (plan/02_revenue_sharing.md).

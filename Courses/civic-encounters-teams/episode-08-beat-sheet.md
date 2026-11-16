@@ -1,10 +1,11 @@
 # Episode 8 — Talking Back: beat sheet (ROUGH DRAFT)
 
-Series: Civic Encounters: Teams (`Courses/civic-encounters-teams`). Status: ROUGH DRAFT for James's approval.
+Series: Civic Encounters: Teams (`Courses/civic-encounters-teams`). Status: ROUGH DRAFT for James's approval. James decided (Nov 15): from episode 5 on, each episode opens with an exciting dashboard talk.
 Written by Claude (Opus 5.5), Nov 15, 2026, from the series README (outline, characters, rules, datasets).
 Added Nov 15, 2026 (James). Pays off series rule 8 (Gary still needs stamps). Ties to the Stewardship Standard letter plan.
 
 ## Beats
+0. **Opening: the dashboard (Mike).** Gary, on his new laptop, sees the dashboard full-size for the first time. He swipes through My groups: two consumer teams and Walt's business team, each with its own card. The streak flame shows 6 weeks. Mike shows him a new line: "Taxes traced to step 6: 0." "Why zero?" "Because step 6 needs an official answer. Let's go get one."
 1. **The stamps.** Gary, now on PDFs, jokes he'll never buy stamps again. Mike hands him a book of stamps. "Remember episode one?"
 2. **Tracing one tax.** Gary picks the gas tax. Step by step: pump, fuel terminal, IRS, Treasury, Highway Trust Fund, state transportation department, projects. Where does the trail go dark? (Facts verified before the essay is written.)
 3. **The trace ladder.** Found, collector, law, fund, spending, confirmed. Gary gets to step 5 on his own. Step 6 needs an official answer.
