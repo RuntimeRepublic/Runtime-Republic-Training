@@ -18,7 +18,7 @@ Standard essay target: 850–1,000 words. Short version: 400–550 words, pointi
 
 ### Part A — Opening quote, then the time-lapse
 
-**How Part A works (James, Nov 16, 2026).** Quote IDs refer to `reagan-quote-bank.md`; log any change there. The essay opens with James's major quote (see
+**How Part A works (James, Nov 16, 2026).** Quote IDs refer to `reagan-log.md`; log any change there. The essay opens with James's major quote (see
 `opening-quotes.md`), then the story. In the time-lapse, Reagan speaks only 2 or 3 times, each a
 longer passage chosen by James, so the scene flows instead of cutting back and forth every few
 seconds. Mike logs several receipts between quotes. The speaker is called only "Reagan."
