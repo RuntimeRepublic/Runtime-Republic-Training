@@ -16,6 +16,7 @@ Written by Claude (Opus 5.5), Nov 15, 2026.
 
 ## Story notes (James, Nov 15)
 - Groups can form without the app, stay independent, and associate with Runtime Republic; the dashboard counts them as associated groups.
+- Exploratory candidates for 2028: members open to either state or national office, already in online debates (James, Nov 15). No party named.
 - Mass migration: an existing national group joins all at once. It must be fictional: the Plain Price Coalition (working name; not a real organization).
 
 ## Characters (fictional; names are placeholders for James to change)
@@ -37,15 +38,16 @@ Written by Claude (Opus 5.5), Nov 15, 2026.
 4. **Laying it out.** Nora spreads the letters across a conference table in the order of the
    plan: the trace, revenue sharing, telemetry, clawback, bill standards, House rules.
    Seen together, it reads like a blueprint, written by kitchen-table teams, not lobbyists.
-5. **What's different.** There's no march and no outrage campaign. It's evidence, a standard
+5. **The candidates.** Lower on the board, a new section: members declaring exploratory candidacies for 2028. They say they are open to either state or national office, whichever the evidence points to, and they are already taking part in online debates, held in the open, built on the same standard. Nora clicks one: a renter, a rental owner and a retired county clerk, debating property tax under Point 02, every claim cited. This isn't mail anymore; it's the next election.
+6. **What's different.** There's no march and no outrage campaign. It's evidence, a standard
    and a steady stream from teams that keep splitting and growing. Nora realizes the mail
    won't stop after one news cycle; it is designed to keep coming, week after week.
-6. **One economist, by name, where AGCL supports the point** (series checklist E3), chosen
+7. **One economist, by name, where AGCL supports the point** (series checklist E3), chosen
    from QUOTE-LOG.md, on testing whether laws do what they promise.
-7. **The Member.** Nora brings the pile to Representative Hale and explains what she sees.
+8. **The Member.** Nora brings the pile to Representative Hale and explains what she sees.
    Hale asks the honest question: "What happens if we say yes?" Nora: "Then we work in the open.
    Same as them."
-8. **Close.** Nora picks up one reply card and checks the box: "Our office will participate."
+9. **Close.** Nora picks up one reply card and checks the box: "Our office will participate."
    She signs it, puts it in the outgoing mail and the story ends: politics won't be the same.
 
 ## Fairness notes
