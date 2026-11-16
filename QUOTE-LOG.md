@@ -32,10 +32,10 @@ Copied from SOURCES.md, which keeps its own table for the Civic Encounters lesso
 
 | ID | Quote | Speaker | Source | Status | Used in |
 |---|---|---|---|---|---|
-| E-01 | "The tax which each individual is bound to pay ought to be certain, and not arbitrary." | Adam Smith | The Wealth of Nations (1776), Book V, Ch. 2 | Located | Civic Encounters |
+| E-01 | "The tax which each individual is bound to pay ought to be certain, and not arbitrary." | Adam Smith | The Wealth of Nations (1776), Book V, Ch. 2 | Verified 2026-11-16 against the full text of Book V, Ch. 2, Part II | Civic Encounters; Civic Encounters: Teams 01 |
 | E-02 | "…to judge policies and programs by their intentions rather than their results." | Milton Friedman | [Quote Investigator: The Open Mind, 1975](https://quoteinvestigator.com/2024/03/22/intentions-results/) | Located | Civic Encounters |
 | E-03 | "Nothing is so permanent as a temporary government program." | Milton Friedman | Tyranny of the Status Quo (1984) | Located | Civic Encounters |
-| E-04 | "There's no such thing as a free lunch." | Milton Friedman | Title of his 1975 book | Located | Civic Encounters |
+| E-04 | "There's no such thing as a free lunch." | Milton Friedman | Title of his 1975 book | Verified 2026-11-16: the title of Friedman's 1975 book (Open Court), a phrase he used as a favorite saying | Civic Encounters; Civic Encounters: Teams 01 |
 | E-05 | "There are no solutions. There are only trade-offs." | Thomas Sowell | A Conflict of Visions | Located | Civic Encounters |
 
 ---

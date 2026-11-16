@@ -4,7 +4,7 @@
 
 Course: Civic Encounters: Teams
 Lesson: 01 of 10
-Status: Draft
+Status: Review
 Runtime: about 7 minutes
 Image: 01-gary-and-mike.png
 Podcast: Not recorded
@@ -34,7 +34,7 @@ Mike smiled and opened his mortgage escrow statement. Part of every payment went
 
 The electric bill came apart into four pieces: energy, a franchise fee, sales tax, and a surcharge his AI marked "not government unless proven." The phone bill had a 911 fee, sales tax and a federal Universal Service charge the carrier passed along.
 
-Then the playlist reached 1964. Reagan's voice was younger now: "Whether we believe in our capacity for self-government or whether we abandon the American Revolution and confess that a little intellectual elite in a far-distant capital can plan our lives for us better than we can plan them ourselves."
+Then the playlist reached 1964. Reagan's voice was younger now: "Whether we believe in our capacity for self-government or whether we abandon the American revolution and confess that a little intellectual elite in a far-distant capitol can plan our lives for us better than we can plan them ourselves."
 
 Last receipt: gasoline. Eighteen point four cents a gallon to Washington. Twenty-four cents a gallon to Topeka. Not one penny of it printed on the receipt.
 
@@ -90,17 +90,3 @@ They shook on it. Next week, same time, Gary would bring his first three documen
 
 Let's sum up. Most of us lost track of our taxes the same way we lose track of subscriptions. One ordinary week of receipts holds taxes from several governments, most of them hidden. CE1 is the Sighting. CE2 is Physical Evidence. The challenge is one month: find every tax. Thanks for listening. This has been Runtime Republic.
 
----
-
-## Draft notes (remove before Review)
-
-Written by Claude (Opus 5.5), Nov 16, 2026, from `episode-01-beat-sheet-alt-01.md`.
-
-- Quotes used: Reagan R06 (opening), R13, R05 (shortened with ellipses), R08 — see `reagan-log.md`.
-  Economists: Adam Smith (E-01) and Milton Friedman (E-04) — see `QUOTE-LOG.md`.
-- Verify before Review: R08's exact 1964 wording and rights; R05's full wording; E-01 and E-04
-  are "Located," not "Verified" (QUOTE-LOG rule: lessons use only Verified quotes).
-- Facts: Kansas state sales tax on food 0% since Jan 1, 2025 (K.S.A. 79-3603d; KDOR Notice 24-21);
-  Kansas gasoline excise 24¢ (K.S.A. 79-34,141); federal 18.4¢; FICA 6.2% and 1.45%.
-- The UFO line is the series' only alien reference.
-- James, Nov 16, 2026: "Keep it." Text kept as written, including its length (about 1,100 words, over the 850–1,000 target).
