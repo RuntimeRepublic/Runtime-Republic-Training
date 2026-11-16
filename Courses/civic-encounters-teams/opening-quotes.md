@@ -19,7 +19,7 @@ Rule (James, Nov 16, 2026): every essay opens with one major quote, then the sto
 
 | # | Episode | Quote | Speaker | Source and date | Verified |
 |---|---|---|---|---|---|
-| 1 | Gary and Mike | (James to supply) | | | |
+| 1 | Gary and Mike | "Now, so there will be no misunderstanding, it's not my intention to do away with government. It is rather to make it work—work with us, not over us; to stand by our side, not ride on our back. Government can and must provide opportunity, not smother it; foster productivity, not stifle it." | Reagan | Inaugural Address, Jan 20, 1981 | Yes (public domain) |
 | 2 | The neighbor | (James to supply) | | | |
 | 3 | The landlord and his bookkeeper | (James to supply) | | | |
 | 4 | Who Gets Paid First? | (James to supply) | | | |

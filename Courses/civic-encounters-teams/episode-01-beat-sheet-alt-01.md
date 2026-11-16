@@ -23,22 +23,31 @@ Standard essay target: 850–1,000 words. Short version: 400–550 words, pointi
 longer passage chosen by James, so the scene flows instead of cutting back and forth every few
 seconds. Mike logs several receipts between quotes. The speaker is called only "Reagan."
 
-1. **Opening quote.** James's episode 1 quote, read by the narrator with the speaker's name.
-   (Slot open in `opening-quotes.md`.)
-2. **Narrator introduces Reagan's speech (when and why).** One or two sentences: the date, the
-   occasion and why he gave it. If James picks "A Time for Choosing": October 27, 1964, one week
-   before the presidential election, a televised speech for Barry Goldwater, the Republican
-   candidate; the program was called *Rendezvous with Destiny*, and the speech launched Reagan's
-   political career. If James picks other speeches, this beat names those instead.
+1. **Opening quote (James's pick, Nov 16).** Reagan, Inaugural Address, January 20, 1981:
+   "Now, so there will be no misunderstanding, it's not my intention to do away with government.
+   It is rather to make it work—work with us, not over us; to stand by our side, not ride on our
+   back. Government can and must provide opportunity, not smother it; foster productivity, not
+   stifle it." (Sets the series tone: teams work with government to fix it, not against it.)
+2. **Narrator introduces the playlist (when and why).** Mike's podcast is a Reagan playlist:
+   his first Inaugural Address (January 20, 1981, the day he took office during a recession),
+   a White House talk on tax cuts (July 22, 1981), and, last, the 1964 televised speech for
+   Barry Goldwater, "A Time for Choosing," given one week before that election, which launched
+   his political career.
 3. **Cut to Mike.** Saturday morning, kitchen table: coffee, a shoebox of receipts, his iPhone
    propped against the sugar bowl, his laptop open to his AI budget, the screen door open to the
    porch. He plays the speech from a podcast on Spotify. Time-lapse begins.
-4. **Reagan quote 1 (James to supply).** Then Mike, in one stretch:
+4. **Reagan quote 1.** Remarks on tax reduction, White House luncheon, July 22, 1981:
+   "We must make the people a commitment, the kind of commitment that says if you work or save
+   more tomorrow than you did today, then your reward will be higher. More of every added dollar
+   that you earn will be yours to keep." Then Mike, in one stretch:
    - **Pay stub:** federal and Kansas withholding, plus the FICA lines (Social Security 6.2%,
      Medicare 1.45%). The government was paid before Mike was.
    - **Grocery receipt:** Kansas dropped its state sales tax on groceries, but local sales tax
      is still on the line. One government moved; the others didn't. (Verify in SOURCES.md.)
-5. **Reagan quote 2 (James to supply).** Then Mike, in one stretch:
+5. **Reagan quote 2.** Inaugural Address, January 20, 1981 (the "heroes" passage, from "We have
+   every right to dream heroic dreams" through "Their values sustain our national life"). The
+   line that lands on Mike: "They're individuals and families whose taxes support the government."
+   Then Mike, in one stretch:
    - **Mortgage escrow statement:** part of every payment goes to property tax, split among the
      county, the city, the school district and others. In the margin: "Who are all of these?"
    - **Electric bill:** energy, a franchise fee, sales tax, and a provider surcharge marked "not
@@ -46,11 +55,15 @@ seconds. Mike logs several receipts between quotes. The speaker is called only "
    - **Phone bill:** a 911 fee, sales tax and a federal Universal Service charge the carrier
      passes through. (UNVERIFIED story to check before use: the federal telephone excise tax
      started in 1898 for the Spanish-American War and was collected on long distance until 2006.)
-6. **Reagan quote 3 (optional, James to supply).** Then Mike logs a **gas receipt**: 18.4 cents a
+6. **Reagan quote 3.** "A Time for Choosing," October 27, 1964: "Whether we believe in our
+   capacity for self-government or whether we abandon the American Revolution and confess that
+   a little intellectual elite in a far-distant capital can plan our lives for us better than we
+   can plan them ourselves." (Copy exact wording from the Reagan Library text; 1964 rights check.)
+   Mike logs a **gas receipt**: 18.4 cents a
    gallon federal, 24 cents a gallon Kansas (K.S.A. 79-34,141), plus a small state fee, all
    hidden inside the pump price. (Plants episode 8, the gas tax letter.)
 7. **The time-lapse slows to normal speed.** Mike's AI shows the week's tax lines in one column.
-   He circles the total. The speech is still playing when the knock comes.
+   He circles the total. The 1964 speech is still playing when the knock comes.
 
 ### Part B — Gary at the screen door
 
@@ -73,9 +86,9 @@ seconds. Mike logs several receipts between quotes. The speaker is called only "
     its levels from UFO sightings. CE1 is the Sighting: you know something is taking your money,
     but you can't prove it. CE2 is Physical Evidence: one month, every receipt, every tax."
     Gary: "So I'm a Sighting." Mike: "So was I." No more aliens after this beat, in any episode.
-15. **Up, not left or right** (keep only if James uses "A Time for Choosing"). Gary asks if this is a Republican thing, because of the speech.
-    Mike: "Reagan said it himself: not left or right, up or down. The levels go up. Anybody can
-    climb them." (Ties to the series purpose: no opposing sides, everyone works it out together.)
+15. **Self-government, not sides.** Gary asks if this is a Republican thing, because of the speech.
+    Mike: "You heard him: it's about whether we can run our own lives. That's not a party.
+    The levels go up, and anybody can climb them." (Ties to the series purpose: no opposing sides, everyone works it out together.)
 16. **The challenge.** Track your money for one month and find every tax. Not just income tax:
     every line on every bill, receipt and pay stub.
 17. **Gary's objection.** No laptop. His bills come by mail (rule 7). Mike: "Start with what
@@ -83,7 +96,7 @@ seconds. Mike logs several receipts between quotes. The speaker is called only "
 18. **One economist, by name, where AGCL supports the point** (series checklist E3): a tax you
     can't see is a tax you can't judge. Quote chosen from QUOTE-LOG.md, by name only, and only
     if the AGCL documents support it (CONTROL 09 rule 14).
-19. **Close** (the "time for choosing" callback works only with the 1964 speech). Gary: "So what's my time for choosing?" Mike: "Tonight. One month." They shake on
+19. **Close.** Gary: "So what's my time for choosing?" Mike: "Tonight. One month." They shake on
     it: next week, same time, Gary brings his first three documents (a pay stub, a utility bill,
     a receipt). Mike: "Bring stamps too." Gary: "Why?" Mike: "You'll see." (Plants rule 8; paid
     off in episode 8, Talking Back.)
