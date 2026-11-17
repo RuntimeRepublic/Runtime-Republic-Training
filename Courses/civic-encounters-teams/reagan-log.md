@@ -35,7 +35,7 @@ rights check before quoting long passages.
 | R05 | "Heroic dreams" | Inaugural, Jan 20, 1981 | ✅ | PD | ordinary people, taxpayers | ⭐ | **Used: Ep 1, time-lapse quote 2** |
 | R06 | "Work with us, not over us" | Inaugural, Jan 20, 1981 | ✅ | PD | working with government | ⭐ | **Used: Ep 1, opening quote** |
 | R07 | "Intervention and intrusion" | Inaugural, Jan 20, 1981 | ✅ | PD | growth of government | ⭐ | Ep 4, Who Gets Paid First? |
-| R08 | "Capacity for self-government" | A Time for Choosing, Oct 27, 1964 | ✅G | RC | self-government | ⭐ | **Used: Ep 1, time-lapse quote 3** |
+| R08 | "Capacity for self-government" | A Time for Choosing, Oct 27, 1964 | ✅ | RC | self-government | ⭐ | **Used: Ep 1, time-lapse quote 3** |
 | R09 | "Path toward greater freedom or bigger government" | CPAC dinner, Mar 2, 1984 | ✅G | PD | freedom vs. dependence | ○ | Alternate for Ep 10 |
 | R10 | "Unleashed the energy and individual genius" | Inaugural, Jan 20, 1981 | ✅G | PD | individual initiative | ⭐ | Ep 7, Too big for one table |
 | R11 | "Business is not a taxpayer, it is a tax collector" | Candidacy announcement, Nov 13, 1979 | 🟡 | RC | hidden taxes in prices and rent | ⭐ | Ep 3, the landlord (choose a version; see Full text) |
@@ -112,8 +112,9 @@ plan our lives for us better than we can plan them ourselves." A Time for Choosi
 Full sentence (Grok, Nov 16): "This is the issue of this election: whether we believe in our
 capacity for self-government or whether we abandon the American revolution and confess that a
 little intellectual elite in a far-distant capitol can plan our lives for us better than we can
-plan them ourselves." Transcripts differ on "capitol"/"capital" and capitals. Essay One uses
-"capital"; match the Reagan Library text before narration.
+plan them ourselves." Confirmed by Claude, Nov 16, 2026: the Reagan Library transcript and the
+American Rhetoric audio transcription both read "American revolution" and "far-distant capitol."
+Essay One now matches.
 
 **R09** — "The difference between the path toward greater freedom or bigger government is the
 difference between success and failure; between opportunity and coercion; between faith in a
