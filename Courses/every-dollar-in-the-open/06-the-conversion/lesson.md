@@ -23,13 +23,13 @@ Longbow had the AGCL open on the screen. Point 04, the Social Security Gold Lock
 
 Under Point 04, every month with actual payroll contributions is evaluated by itself. Both halves count, the part taken from the worker and the part paid by the employer. Medicare contributions count too. Each month's dollars are converted into gold weight using that month's gold price. Then that weight is credited permanently.
 
+Harvest's assistant had already pulled a table of monthly gold prices, ready to run the conversion.
+
 "Why gold?" Mesa asked.
 
-"Because the Framers already chose it," Longbow said. "Article One, Section Ten. No state shall make any thing but gold and silver coin a tender in payment of debts. A dollar from 1978 isn't a dollar today. Gold weight doesn't shrink when government prints more money. Point 04 says no averaging across years, and no revaluing at today's prices. What you paid in a month becomes what that month's money could buy in gold. Then it's locked."
+"Because the Framers already chose it. Article One, Section Ten: no state shall make any thing but gold and silver coin a tender in payment of debts. A dollar from 1978 isn't a dollar today. Gold weight doesn't shrink when the government prints more money. The AGCL says no averaging across years, and no revaluing at today's prices. What you paid in a month becomes what that month's money could buy in gold. Then it's locked."
 
-Harvest's assistant had already pulled a table of monthly gold prices. It was ready to run the conversion.
-
-Then Harvest opened his folder. "Here's the problem."
+Harvest opened his folder. "Here's the problem."
 
 He turned it around so everyone could see. His record listed earnings by year. One number for 1978. One for 1979. One for every year after.
 
@@ -69,7 +69,7 @@ Under H.R. 25, the FairTax, payroll taxes go away. Point 04 says future Social S
 
 "And Medicare?" Harvest asked. "I'm on it now."
 
-Longbow scrolled to Point 10, the American Health Freedom Plan. Medicare becomes a personal account measured in gold. Fully owned. Inheritable. Benefits tied to what you put in. And care for people who are disabled or can't pay is funded separately, so nobody's personal account gets pooled to cover it.
+Longbow scrolled to Point 10, the American Health Freedom Plan. Medicare becomes a personal account measured in gold. Fully owned. Inheritable. Benefits tied to what you put in. And care for people who are disabled or can't pay is handled through its own funding, so nobody's personal account gets pooled or redistributed to cover it.
 
 Then the admin asked for the hard questions, the ones the plan hadn't answered yet.
 
@@ -91,17 +91,17 @@ The admin wrote all three under Open questions and put them in the team's packet
 
 Harvest closed his folder.
 
-"For forty-six years, money came out of my check, and I never once saw where it went. Tonight, I learned more about my own retirement in two hours than in my whole working life."
+"You know what's strange," he said. "For forty-six years, money came out of my check, and I never once saw where it went. Tonight, I found out more about my own retirement in two hours than I did in my whole working life."
 
 He looked around the room. A team that had started with a white envelope in a truck. A sixty-dollar question. A fight over a keg.
 
-"You people track ten-dollar blocks," he said. "I want somebody tracking mine."
+"You people track ten dollar blocks," he said. "I want somebody tracking mine."
 
 "My father laid block for forty years," he added. "He used to say you can paint a house all you want. If it sits on sand, it's coming down."
 
 "Then we build on rock," Longbow said, and handed him a receipt code card. "Start with the small book. We'll work on the big one together."
 
-Recap. Point 04 converts every month of payroll contributions into gold weight, the measure the Framers chose, credited to a personal, inheritable ledger that is first in line for repayment. Point 10 does the same for Medicare. The team found one gap, yearly records against a monthly rule, and three open questions. The foundation is being laid, one tested stone at a time.
+Recap. Point 04 converts every month of payroll contributions into gold weight, the measure the Framers chose, credited to a personal, inheritable ledger that is first in line for repayment. Point 10 does the same for Medicare. The team found one gap, yearly records against a monthly rule, and three open questions, and built on rock instead of sand.
 
 <!-- series-navigation: start -->
 
