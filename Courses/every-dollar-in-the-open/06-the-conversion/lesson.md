@@ -69,7 +69,7 @@ Under H.R. 25, the FairTax, payroll taxes go away. Point 04 says future Social S
 
 "And Medicare?" Harvest asked. "I'm on it now."
 
-Longbow scrolled to Point 10, the American Health Freedom Plan. Medicare becomes a personal account measured in gold. Fully owned. Inheritable. Benefits tied to what you put in. And care for people who are disabled or can't pay is handled through its own funding, so nobody's personal account gets pooled or redistributed to cover it.
+Longbow scrolled to Point 10, the American Health Freedom Plan. Medicare becomes a personal account measured in gold. Fully owned. Inheritable. Benefits tied to what you put in. And care for people who are disabled or can't pay is handled through its own funding, so nobody's personal account gets pooled to cover it.
 
 Then the admin asked for the hard questions, the ones the plan hadn't answered yet.
 
@@ -91,7 +91,7 @@ The admin wrote all three under Open questions and put them in the team's packet
 
 Harvest closed his folder.
 
-"You know what's strange," he said. "For forty-six years, money came out of my check, and I never once saw where it went. Tonight, I found out more about my own retirement in two hours than I did in my whole working life."
+"For forty-six years, money came out of my check, and I never once saw where it went. Tonight, I found out more about my own retirement in two hours than I did in my whole working life."
 
 He looked around the room. A team that had started with a white envelope in a truck. A sixty-dollar question. A fight over a keg.
 
