@@ -13,11 +13,11 @@ Audience: Team treasurers, admins and members
 
 ---
 
-Harvest arrived early. He had a folder under his arm, the first paper folder anyone had brought to a meeting in months.
+Harvest arrived early with a paper folder under his arm.
 
 "My earnings record," he said. "Printed it from my Social Security account online. Every year since 1978."
 
-Longbow had the AGCL open on the screen. Point 04, the Social Security Gold Lockbox. He didn't summarize it. He read it step by step, the way the team read everything, and they tested each step against Harvest's folder.
+Longbow had the AGCL open on the screen. Point 04, the Social Security Gold Lockbox. He read it step by step, and the team tested each step against Harvest's folder.
 
 "Step one. Every month counts on its own."
 
@@ -55,7 +55,7 @@ Harvest asked the question everyone was waiting for. "And my kids?"
 
 "Step four. First in line."
 
-Point 04 classifies every converted obligation as Priority-One Federal Debt. First to be repaid, ahead of everything else the government owes. No deferral, no dilution, no reclassification. And it's tied into the same Rule of 72 structure as everyone's Sinking Liberty Fund.
+Point 04 classifies every converted obligation as Priority-One Federal Debt. First to be repaid, ahead of everything else the government owes. And it's tied into the same Rule of 72 structure as everyone's Sinking Liberty Fund.
 
 "Step five. Nobody touches it without your permission."
 
@@ -81,7 +81,7 @@ The point doesn't lay out the transition for people already drawing benefits.
 
 Mesa added the last one. "And the people who paid in for years before they became citizens?"
 
-Point 04 excludes them. That would be a hard conversation in a lot of families.
+Point 04 excludes them.
 
 The admin wrote all three on the board under a heading she'd started using for anything the team couldn't answer yet. Open questions. Then she typed them into the team's packet, with the monthly-data finding at the top.
 
@@ -95,9 +95,9 @@ He looked around the room. A team that had started with a white envelope in a tr
 
 "You people track ten dollar blocks," he said. "I want somebody tracking mine."
 
-Longbow handed him a receipt code card.
+"My father laid block for forty years," he added. "He used to say you can paint a house all you want. If it sits on sand, it's coming down."
 
-"Start with the small book," he said. "We'll work on the big one together."
+"Then we build on rock," Longbow said, and handed him a receipt code card. "Start with the small book. We'll work on the big one together."
 
 Recap. Point 04 converts every month of payroll contributions into gold weight, credited to a personal, inheritable ledger that is first in line for repayment and closed to government without permission. Point 10 does the same for Medicare. The team found one gap, yearly records against a monthly rule, and three open questions.
 

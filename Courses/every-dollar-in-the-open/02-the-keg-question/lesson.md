@@ -15,15 +15,15 @@ Audience: Team treasurers, admins and members
 
 The Sedgwick County team started the way most groups start: with an envelope.
 
-It was a plain white envelope kept in the treasurer's truck. Members dropped in five or ten dollars at meetings. When the team needed stamps or printer paper, the treasurer paid with his own card and took cash back out of the envelope. When someone ordered pizza, the treasurer paid through his phone, and people paid him back, mostly.
+It was a plain white envelope kept in the treasurer's truck. Members dropped in five or ten dollars at meetings. When the team needed stamps or printer paper, the treasurer paid with his own card and took cash back out of the envelope.
 
 It worked for about four months.
 
 Then a member, call sign Ridgeline, asked a simple question at a Saturday meeting. "What did the sixty dollars from October go to?"
 
-The treasurer thought about it. Flyers, probably. Maybe part of the pizza. The receipt was somewhere in the truck. His own grocery money had moved through the same phone app that week. Nobody in the room thought he had done anything wrong. But nobody in the room could prove he hadn't, including him.
+The treasurer thought about it. Flyers, probably. The receipt was somewhere in the truck. His own grocery money had gone through the same card that week. Nobody in the room thought he had done anything wrong. But nobody in the room could prove he hadn't, including him.
 
-That was the night the team decided to stop running on trust that nobody could check.
+That was the night the team decided to stop running on trust that nobody could check. Ridgeline said one more thing on the way out. "If all we do is sweep out the envelope and leave the place empty, something worse moves in. We'd better build something to put there."
 
 They didn't just open a bank account. They registered the group with the Kansas Secretary of State, and they wrote down why: to test, for real, whether a small group could run every dollar in the open. Donations stamped on the blockchain. Spending approved in public. Every member able to trace their own money without anyone learning who gave what.
 
@@ -43,13 +43,13 @@ Nobody had ever said.
 
 So the team did what the AGCL asks of every government. They tried to enumerate. If a spending category isn't on the list, the money can't be spent on it. Write down what the money can do, and limit it to that.
 
-The first items were easy. Almost everyone agreed the cost of running the group should be covered. The state filing. Bank fees. The website. Postage for letters to officials. That was the price of existing. You can't trace dollars in the open if the group doesn't exist to hold them.
+The first items were easy. Almost everyone agreed the cost of running the group should be covered. The state filing. Bank fees. The website. Postage for letters to officials. That was the price of existing.
 
 The second category took longer. Gatherings.
 
 Everybody agreed the team should get together. A team that only meets online forgets it's a team. But should donated money pay for that? The answer they landed on was yes, as long as the gathering built the team. A function with a purpose: welcome new members, close out a project, celebrate reaching CE2.
 
-So they ran a survey. Simple, anonymous, one question. What kind of team-building functions would you support with your donations?
+So they ran an anonymous survey. What kind of team-building functions would you support with your donations?
 
 The results came back on a Saturday.
 
