@@ -15,13 +15,13 @@ Audience: Team treasurers, admins and members
 
 The column of numbers took a month to fill.
 
-Every member's assistant went back to their household tax map and added the new column. For each year of federal taxes, how much would have been credited to their own Sinking Liberty Fund under AGCL Point 05.1, and what would it be worth by retirement? Each member checked their assistant's math before anything was shared.
+Every member's assistant went back to their household tax map, the one they'd built back when the team still kept its money in an envelope, and added one column. For each year of federal taxes, how much would have been credited to their own Sinking Liberty Fund under AGCL Point 05.1, and what would it be worth by retirement?
 
 The answers came in at the next Saturday meeting. The treasurer put them on the screen by call sign, no names, no incomes, just the growth. Some members were in their twenties and had decades of doublings ahead of them. Longbow was older and had fewer. Everyone had a number, and every number was bigger than what they had today, which was nothing.
 
 That's when the new member raised his hand.
 
-His call sign was Harvest. He was sixty-seven, a retired machinist, and he'd joined two weeks earlier after his neighbor told him about the keg fight.
+His call sign was Harvest. He was sixty-seven, a retired machinist, and he'd joined two weeks earlier after his neighbor told him about the keg fight. He'd listened with his arms folded.
 
 "I've been paying into something like this my whole life," he said. "It's called Social Security. And Medicare. Forty-six years of it came out of my check before I ever saw the money. So tell me. What's the difference?"
 
@@ -31,17 +31,19 @@ Longbow didn't answer with a speech. He went to the whiteboard and drew two colu
 
 He wrote on the left: Not you.
 
-"The Supreme Court settled that in 1960, in a case called Flemming v. Nestor. Paying the tax doesn't give you a contract. Congress can change your benefit whenever it wants. You have an expectation. You don't have property."
+"The Supreme Court settled that in 1960, in a case called Flemming v. Nestor. Paying the tax doesn't give you a contract. Congress can change your benefit any time it wants. You have an expectation. You don't have property."
 
 On the right he wrote: You.
 
 "The Founders built this country on property. Point 05.1 says it plainly. The fund is private property. The government has no ownership claim."
 
+Harvest unfolded his arms.
+
 "Second line. How is it funded?"
 
 Left: Payroll tax, taken before you're paid.
 
-"Social Security and Medicare come out of every paycheck, with a matching amount from your employer. Government gets paid first."
+"Social Security and Medicare come out of every paycheck, with a matching amount from your employer. Withholding. Government gets paid first."
 
 Right: A share of federal taxes, credited to your account.
 
@@ -57,8 +59,6 @@ Right: Fully inheritable. Beneficiaries required.
 
 Harvest said quietly, "My brother paid in for forty years and died at sixty-four. His kids got nothing from it."
 
-The room didn't say anything for a moment.
-
 "Fourth line," Longbow said. "Who borrows the money?"
 
 Left: Government spends the surplus and leaves IOUs.
@@ -66,6 +66,8 @@ Left: Government spends the surplus and leaves IOUs.
 "For decades, Social Security took in more than it paid out. The extra was lent to the rest of the government and spent. What's left in the trust fund is a stack of government bonds. Promises from one part of government to another."
 
 Right: Treasury borrows from you first, at half the market rate. The interest is yours.
+
+"Under 05.1, if the Treasury needs to borrow, it borrows from citizen funds before anyone else. The interest gets credited to your account. You become the creditor."
 
 "Fifth line. Where's the record?"
 
@@ -79,11 +81,11 @@ Then Longbow wrote one more line at the bottom of the left column and turned aro
 
 He read from his phone. The Social Security trustees' 2026 report projects the main retirement trust fund will run out of reserves in 2032. After that, incoming taxes would cover only about seventy-eight percent of scheduled benefits. Medicare's hospital insurance trust fund is projected to run out in 2033.
 
-"That's not a talking point," he said. "That's the trustees. Their own report."
+"That's the trustees," he said. "Their own report."
 
 Harvest did the math out loud. "Twenty thirty-two. I'll be seventy-three."
 
-"And once those trust funds run out, the law says they can only pay what comes in."
+"And the law says that once those trust funds run out, they can only pay what comes in."
 
 Harvest leaned back. "So the promise has an expiration date. And I don't own any of it."
 
@@ -95,13 +97,13 @@ That was the question everyone was afraid of. Every reform anyone had ever propo
 
 "I've watched reformers sweep out one mess after another," Harvest said. "They never put anything in its place. What came back was always worse."
 
-Longbow shook his head. "That's the difference. This isn't a sweep. The AGCL doesn't leave you behind. It has a whole point for what you've already paid. Point 04. The Social Security Gold Lockbox."
+Longbow shook his head. "This isn't a sweep. That's the part people miss. The AGCL doesn't leave him behind. It has a whole point for what he's already paid. Point 04. It's called the Social Security Gold Lockbox."
 
 "What does it do?" Harvest asked.
 
 "It takes every month you paid in, and turns it into something you own."
 
-Harvest looked at him for a long moment. Then he took out his phone and typed something.
+Harvest looked at him for a long moment. Then he took out his phone, opened his notes, and typed something.
 
 "Next Saturday," he said. "Show me. Month by month."
 
@@ -109,11 +111,11 @@ The admin wrote it on the board under the two columns.
 
 Next week: how to convert what Harvest already paid.
 
-On the way out, Harvest looked at the left column one more time.
+Harvest stayed to stack the chairs. On the way out, he looked at the left column one more time.
 
 "Forty-six years," he said to nobody in particular. "And they never once asked me if I wanted to own it."
 
-Recap. Harvest asked how a Rule of 72 account differs from Social Security and Medicare. Ownership, funding, inheritance, who borrows the money, and where the record lives all differ. The trustees project the retirement trust fund runs short in 2032 and Medicare's hospital fund in 2033. Instead of another sweep, AGCL Point 04 builds on what people have already paid.
+Recap. Harvest asked how a Rule of 72 account differs from Social Security and Medicare. Ownership, funding, inheritance, who borrows the money, and where the record lives all differ. The trustees project the retirement trust fund runs short in 2032 and Medicare's hospital fund in 2033. Instead of another sweep, AGCL Point 04 builds on what people already paid.
 
 <!-- series-navigation: start -->
 
