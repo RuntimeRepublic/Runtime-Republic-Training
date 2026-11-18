@@ -1,4 +1,4 @@
-# Every Dollar in the Open: Laying a New Foundation
+# Every Dollar in the Open
 
 Course: Every Dollar in the Open
 Lesson: 01 of 06
@@ -6,7 +6,7 @@ Status: Draft
 Runtime: about 6 minutes
 Image: Pending
 Podcast: Not recorded
-Sources: Article I, Section 9, Clause 7, U.S. Constitution; The Federalist No. 45; AGCL plan/02_revenue_sharing.md
+Sources: Article I, Section 9, Clause 7, U.S. Constitution; AGCL plan/02_revenue_sharing.md
 Approved by: —
 License: CC BY 4.0
 Audience: Team treasurers, admins and members
@@ -15,41 +15,53 @@ Audience: Team treasurers, admins and members
 
 Every group that takes money faces the same quiet question. Where did it go?
 
-Most groups answer with trust. Most reform answers the same way. Find the bad actor, sweep him out, promise to do better. For a while, the house looks clean. Then the old habits move back in, often worse than before, because nothing new was ever built in their place.
+Most groups answer that question with trust. The treasurer is a good person. The books are kept in a spreadsheet on somebody's laptop. Once a year, maybe, someone reads a summary at a meeting. And most of the time, that's fine. Until it isn't. A treasurer moves away. A file gets lost. A member asks a hard question and nobody can answer it. Trust that can't be checked turns into suspicion that can't be cleared.
 
-This series takes a different path. It doesn't patch the current system. It lays a new foundation, built from stones the Founders and Framers already cut, and runs it with tools they never imagined.
+Most reform tries to fix that by sweeping out the bad actor and promising to do better. But a house swept clean and left empty doesn't stay clean for long.
 
-The Framers wrote the first stone into the Constitution itself. Article One, Section Nine requires that "a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time." Madison wrote that the powers of the federal government are "few and defined." Hamilton built a sinking fund to pay the nation's debts down. Open accounts. Enumerated powers. Debt that ends.
+Runtime Republic runs on a different idea. Liberty is the art of elite capture avoidance. Money is the easiest thing in any group to capture, so it should be the easiest thing to check. That isn't a new idea. The Framers wrote it into the Constitution: Article One, Section Nine requires a regular statement and account of all public money, published from time to time. Open accounts are one of the oldest stones in the Republic. What's new is the tools.
 
-What's new is the runtime. Today, a team can run those principles every week, with AI assistants doing the checking and people making every decision. Here's how it works with a team's own money, starting January 1, 2027.
+Here's the plan, starting January 1, 2027.
 
-Keep the bank account. Nobody needs crypto or a wallet. What changes is the record.
+Start with what the group already has: a bank account. Nobody needs to switch to crypto, and members don't need wallets. Donations come in the way they always have, by check, by card, by transfer. The bank stays the bank.
 
-Start with the donor. Every time someone gives, the treasurer hands them a private receipt code, a string of letters and numbers. Only the donor keeps it. The public file shows only a scrambled version of the code, called a hash. Nobody can work backward from the hash to the code, or from the code to the person. No names. No call signs. Dates are shown by week, so in a small group nobody can guess who gave from the timing.
+What changes is the record.
 
-Every gift is cut into ten-dollar blocks. A thirty-dollar gift becomes three blocks. A twenty-five-dollar gift becomes two ten-dollar blocks and a five. Each block is tied to its donor's code.
+Each month, the treasurer exports the deposits from the bank. Every donation becomes one row in a simple file kept in the team's GitHub repository. Date. Amount. The bank's reference number. And a receipt code, never a name. Anyone can read that a twenty-five-dollar gift came in that week. Nobody learns who gave it.
 
-Before any money moves, an admin opens an issue on GitHub titled SPEND. How much, who gets paid, what for, and which team goal it serves. The second admin approves it, in writing, in public. One person can't spend the group's money alone.
+Then comes the step that makes it a blockchain record. The treasurer runs the file through a free tool called OpenTimestamps. It takes a fingerprint of the file, a short code called a hash, and stamps that fingerprint onto the Bitcoin blockchain. The file itself doesn't go on the chain, only its fingerprint. But that fingerprint is permanent and public, and it matches only that exact file.
 
-When a spend is approved, blocks are drawn from the pool at random. The seed is the newest Bitcoin block at the moment of approval, plus the issue number. Anyone can rerun the draw and get the same blocks. Nobody can steer whose money pays for what.
+So if anyone changes a single row later, the fingerprint won't match anymore. Anyone can check it. The record can't be quietly rewritten.
 
-Most spends aren't round numbers. Spend forty-three dollars, and four blocks cover forty. The fifth block splits. Three dollars is spent. The other seven becomes a change block that goes back into the pool, still tied to the same donor.
+That's the donation side. The spending side is where groups usually get into trouble, so it needs a little more structure.
 
-Each payment becomes a row in the spending file. The amount, the week, who got paid, what for, the approval, the blocks that paid for it, and a receipt with personal details blacked out.
+It starts before any money moves. When the team wants to spend, an admin opens an issue on GitHub titled SPEND, and says how much, who gets paid, what it's for, and which team goal it serves. Then the second admin approves it, right there in the issue, in writing, with a date.
 
-At the end of the month, one check. Starting balance, plus donations, minus spending, equals the ending bank balance. If it matches, both files are stamped with a free tool called OpenTimestamps, which puts each file's fingerprint on the Bitcoin blockchain. Change one row later, and the fingerprint won't match.
+That's a two-signature rule. Every Runtime Republic team already has two admins, so it costs nothing extra. One person can't spend the group's money alone, and the approval is public before the check is written, not explained after.
 
-Here's where the agents come in. Every member keeps an AI project connected to the team's repository. Their assistant can rerun the random draw, check the monthly balance, and confirm the stamps. If something doesn't match, it says so. The assistant checks. The admins decide.
+Then the treasurer pays from the bank and keeps the receipt.
 
-Then the part donors like best. On a lookup page, a donor types in their receipt code. Their own phone scrambles it, finds their blocks, and shows where each one went. Ten dollars to flyers. Ten to postage. Five split, three to the meeting room and two still waiting. The code never leaves the phone.
+Each payment becomes a row in a second file, the spending file. Date, amount, bank reference. Who got paid: a business by its name, a person by role or call sign, like "Longbow, reimbursement for printing." What it was for. A link back to the approval. And a copy of the receipt with personal details blacked out.
 
-One more stone. Every spend is tested like a node in the Node-Based Budgeting Framework: an owner, a cost, a stated output, and a pass or fail check. "Forty dollars for two hundred flyers. It passes if they're handed out by Saturday."
+At the end of the month, the treasurer runs one check. Starting balance, plus donations, minus spending, equals the ending bank balance.
 
-AGCL Point 02 calls for tracing tax dollars by blockchain at every level of government. A team that runs its own money this way for a year can show, with evidence, that the foundation holds. When the storms come, an audit, a hard question, a treasurer who moves away, a house built on rock doesn't fall.
+If the numbers match the bank statement, both files get stamped together on the blockchain, and the month is closed. If they don't match, the gap sits right there in public, and the team finds it and fixes it. That's not a failure of the system. That's the system working.
 
-A few guardrails. Never put names, addresses or account numbers in a public file, and never on the chain. A 501(c)(3) still owes a written thank-you for any single gift of two hundred fifty dollars or more, and can't spend for or against candidates. Spending on Kansas candidates or ballot questions may need to be reported, so check with the Governmental Ethics Commission first.
+And members don't have to take the treasurer's word for it. Each member keeps an AI assistant connected to the team's repository. It can rerun the math and check the stamps. The assistant checks. People decide.
 
-Recap. Reform that only sweeps the house fails. This series lays a new foundation from the Founders' own stones: open accounts, enumerated powers, debt that ends. For a team's money, that means private receipt codes, ten-dollar blocks, public approval by two admins, random draws with change, monthly balances stamped on the blockchain, and AI assistants that check while people decide.
+There's one more step, and it's what turns bookkeeping into Lean Civics.
+
+Every spend is tested like a node in the Node-Based Budgeting Framework. It has an owner, a cost, a stated output, and a pass or fail check. "We spent forty dollars on two hundred flyers. It passes if they're handed out by Saturday." At the weekly close, the team looks back. If nobody can say, it gets flagged.
+
+That's the same thing the Lean Civics Challenge asks of government. A team that runs its own money this way isn't just tidying its books. It's laying, in its own small way, the foundation it wants government built on.
+
+It also lines up with AGCL Point 02, which calls for tracing tax dollars by blockchain at every level of government. A team that has traced its own dollars for a year can say, with evidence, that it works. When the storms come, a record built on rock doesn't fall.
+
+A few guardrails. Never put names, home addresses, or account numbers in a public file, and never on the chain. A 501(c)(3) still owes a written thank-you for any single gift of two hundred fifty dollars or more, and can't spend for or against candidates. If a group spends on Kansas candidates or ballot questions, check with the Governmental Ethics Commission first.
+
+None of this takes a programmer. It takes a bank export, a spreadsheet, a free stamping tool, and two admins who sign their names.
+
+Recap. Keep the bank. Write every dollar in and out where everyone can see it, with receipt codes instead of names. Approve every spend in public with two admins. Balance the books each month and stamp them on the blockchain. Let members' assistants check the math. Money comes in the open and goes out in the open, on a foundation as old as the Republic.
 
 <!-- series-navigation: start -->
 
