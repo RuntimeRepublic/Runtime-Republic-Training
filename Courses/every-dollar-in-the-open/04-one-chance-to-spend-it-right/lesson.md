@@ -93,7 +93,7 @@ Plan, do, check, act. One month of real numbers, in the open.
 
 Longbow drove home that night thinking about how it had all started. A white envelope in a truck. A sixty-dollar question nobody could answer.
 
-Now it was learning the hardest lesson of all. A group can let people choose. A government has to be made to choose right, once, and pay for it when it doesn't.
+Now the team was learning the hardest lesson of all. A group can let people choose. A government has to be made to choose right, once, and pay for it when it doesn't.
 
 And the best way to make that case wasn't a speech.
 
