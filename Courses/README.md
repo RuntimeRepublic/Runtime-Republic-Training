@@ -19,7 +19,7 @@ Choose a series below, then follow its essays in reading order. Each essay ends 
 | [Civic Encounters in 3 Minutes](civic-encounters-short/README.md) | 8 lessons in Draft | The short version of Civic Encounters: one idea per three-minute episode, made to share |
 | [Economic Education — History](economic-education-history/README.md) | 1 lesson in Draft | Economic history: how regimes actually treated property, workers and rivals, starting with the Nazi and Soviet systems (#socialism #political-enemies) |
 | [Lean Civics Challenge](lean-civics-challenge/README.md) | 2 lessons: 1 in Review, 1 in Draft | Why an existing group should join the Lean Civics Challenge as an org-level team, and how a group joins Runtime Republic: two doors, six gates |
-| [Every Dollar in the Open](every-dollar-in-the-open/README.md) | 6 lessons in Draft | How a team runs its money in the open with blockchain-stamped ledgers, then one county team's story from a cash envelope to the AGCL Power of 72 fund and the Social Security Gold Lockbox |
+| [Every Dollar in the Open](every-dollar-in-the-open/README.md) | 6 lessons in Draft | Replacing the foundations of the current system with an agentic system built on the Founders and Framers, starting with a team's own money in blockchain-stamped ledgers, then one county team's story from a cash envelope to the AGCL Power of 72 fund and the Social Security Gold Lockbox |
 | [AGCL — Node-Based Liberty Framework](agcl-nblf/README.md) | Planned | The American Gold Contract for Liberty |
 | [NBBF — Node-Based Budget Framework](nbbf/README.md) | Planned | Node-scoped budgeting, authority boundaries, exit and sunset rules |
 | [NBEF — Node-Based Education Framework](nbef/README.md) | Planned | The Node-Based Education Framework |

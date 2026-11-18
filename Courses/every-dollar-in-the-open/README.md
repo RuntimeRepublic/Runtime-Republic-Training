@@ -2,8 +2,9 @@
 
 **Status:** Draft. Six lessons; series complete. Nothing here is approved.
 
-How a Runtime Republic team runs its money in the open, starting with a plain explainer and
-then following one Sedgwick County team from a cash envelope to a registered group testing the
+This series is not about cleaning up the current system. It lays a new foundation: an agentic
+system built on the Founders and Framers of the Republic, starting with a team's own money. It
+opens with a plain explainer, then follows one Sedgwick County team from a cash envelope to a registered group testing the
 plan. Planned for teams starting **2027-01-01** (Master-Plan T20, T20a, T20b).
 
 **The method:** a bank account; monthly deposit and spending files in GitHub; each file's

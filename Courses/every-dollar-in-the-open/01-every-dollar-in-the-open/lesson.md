@@ -43,7 +43,7 @@ Then comes the part donors like best. On a lookup page, a donor types in their r
 
 One more step turns bookkeeping into Lean Civics. Every spend is tested like a node in the Node-Based Budgeting Framework. It has an owner, a cost, a stated output, and a pass or fail check. "Forty dollars for two hundred flyers. It passes if they're handed out by Saturday." If nobody can say, it gets flagged at the weekly close.
 
-That's what the Lean Civics Challenge asks of government. A team that runs its own money this way is cleaning its own house first. It also lines up with AGCL Point 02, which calls for tracing tax dollars by blockchain. A team that has traced its own dollars for a year can say, with evidence, that it works.
+This isn't tidying up the old system. It's a new foundation: an agentic system built on what the Founders and Framers designed. Enumerated powers. Open accounts. Hamilton's sinking fund. AGCL Point 02 calls for tracing tax dollars by blockchain at every level of government. A team that runs its own money this way for a year can show, with evidence, that the foundation holds.
 
 A few guardrails. Never put names, addresses or account numbers in a public file, and never on the chain. If the group is a 501(c)(3), the law still requires a written thank-you for any single gift of two hundred fifty dollars or more, and the group can't spend for or against candidates. If a group spends on Kansas candidates or ballot questions, check with the Governmental Ethics Commission first.
 
