@@ -6,7 +6,7 @@ Status: Draft
 Runtime: about 6 minutes
 Image: Pending
 Podcast: Not recorded
-Sources: AGCL plan/05_1_power_72.md
+Sources: Hamilton, Report on Public Credit (1790); AGCL plan/05_1_power_72.md
 Approved by: —
 License: CC BY 4.0
 Audience: Team treasurers, admins and members
@@ -25,7 +25,7 @@ The second answer was the interesting one. Nobody felt their money had been misu
 
 The room laughed, but she had a point. The second pool had solved the keg problem and created a smaller version of the same problem inside itself.
 
-The treasurer had been waiting for this. "What if we stop using a pool for functions and use pledges instead?"
+The treasurer had been waiting for this. "Nobody starts building a tower without first sitting down to count the cost. What if we count it before we build? Pledges instead of a pool."
 
 He sketched it on the whiteboard. Before any function, an admin posts the plan and the cost. A cookout, forty dollars. Bowling, sixty. Members pledge blocks to that function, and only that function. If the pledges reach the cost, the function happens, and the pledged blocks are drawn. If they don't, the function doesn't happen, and the blocks go back to their owners.
 
@@ -35,9 +35,9 @@ Mesa liked it immediately. "So I pledge to the keg, and my money can't wander of
 
 "Right. And nobody who didn't pledge pays a cent."
 
-They tested it that month. Four functions were proposed. Three filled their pledges in a week. The fourth, a trip to a minor-league game, sat at half funded for three weeks and quietly expired. No vote. No argument. No hurt feelings. The blocks just went home.
+They tested it that month. Every member's assistant tracked the pledges and posted the totals each night. Four functions were proposed. Three filled their pledges in a week. The fourth, a trip to a minor-league game, sat at half funded for three weeks and quietly expired. No vote. No argument. The blocks just went home.
 
-The general pool stayed as it was. The price of existing still came out of everyone's money, because everyone had agreed it should.
+The general pool stayed exactly as it was. The price of existing still came out of everyone's money, because everyone had agreed it should.
 
 For a group, it was close to perfect.
 
@@ -53,27 +53,23 @@ He was right. Government can't run on pledges. The duties the Constitution lists
 
 "So government keeps taking the money," Ridgeline said. "And we're back where we started."
 
-"Not quite," Longbow said.
+"Not quite," Longbow said. "Hamilton laid this stone in 1790. His Report on Public Credit set up a sinking fund to pay the nation's debt down. The AGCL carries it forward in Point 05.1, named for him."
 
 He walked to the whiteboard and wrote one sentence.
 
 Government gets one chance to spend it right.
 
-"Taxes come in. Under AGCL Point 05.1, every federal program has to be classified, enumerated or non-enumerated. Enumerated is what the Constitution actually lists. Non-enumerated spending can't be paid for with debt, and it expires automatically unless it's reauthorized. If Congress fails to pass a lawful budget, the non-enumerated programs are the first to go."
+"Under Point 05.1, every federal program is classified, enumerated or non-enumerated. Non-enumerated spending can't be paid for with debt, and it expires automatically unless it's reauthorized. And money government doesn't spend right doesn't stay with government."
 
-"And the money that doesn't get spent right?" Mesa asked.
+"Where does it go?" Mesa asked.
 
-"Point 05.1 calls it surplus reversion. Unspent federal money doesn't stay with the government. It goes back to the citizen's own account."
+"Into your own sinking fund."
 
-"What account?"
+He drew a second box on the board.
 
-He drew a second box on the board. "Your Sinking Liberty Fund. Hamilton's Power of 72. Every citizen gets one. Up to a quarter of the federal taxes you pay is credited to it, never less than five percent. It's yours. It's inheritable. Nobody can seize it. And it's recorded on a public blockchain: the government's side is traceable, your side is anonymous."
+"Up to a quarter of the federal taxes you pay is credited to it, never less than five percent. Unspent federal money goes back into it. It's yours, it's inheritable, and the Treasury has to borrow from it first, at half the market rate, with the interest paid to you. Government doesn't get a second try at that dollar. It's working for you now."
 
-The treasurer frowned. "And then what? It sits there?"
-
-"It works. The Treasury has to borrow from citizen funds first, at half the market rate, and every dollar of interest is credited to you. Right now, the people who hold the national debt are somebody else. Under 05.1, it's you."
-
-"How much is that worth to one person?"
+The treasurer frowned. "How much is that worth to one person?"
 
 Longbow wrote 72 on the board.
 
@@ -81,29 +77,29 @@ Longbow wrote 72 on the board.
 
 Mesa said it first. "Government would get real careful real fast."
 
-"That's the point," Longbow said. "Right now, bad spending costs government nothing. The money's already gone. Under 05.1, government gets one chance to spend it right. Non-enumerated spending runs out on its own, and unspent money comes home. The incentive flips."
+"That's the point," Longbow said. "Right now, bad spending costs government nothing. Under this, it costs government the dollar, and a citizen gains it. The incentive flips."
 
-The admin looked up. "Is all of this in the AGCL?"
+The admin looked up. "Is this in the AGCL?"
 
-"It's Point 05.1. Written down," Longbow said. "What isn't written yet is the proof that ordinary households come out ahead. That part's our job."
+"It's Point 05.1. Written down," Longbow said. "What isn't written yet is the proof that ordinary households come out ahead."
 
 "Then let's prove it," the admin said. "With evidence."
 
 That was how the team found its next project. Not a function. A test.
 
-Every member already had their household tax map: every tax they paid, who received it, and whether it passed the control tests. Now they would add one column. How much of their federal taxes would have been credited to their own Sinking Liberty Fund, and what would it grow to by retirement?
+Every member already had their household tax map: every tax they paid, who received it, and whether it passed the control tests. Now each member's assistant would add one column: how much of their federal taxes would have gone into their own Sinking Liberty Fund, and what it would grow to by retirement. The assistants would run the math. The members would check it.
 
 Plan, do, check, act. One month of real numbers, in the open.
 
 Longbow drove home that night thinking about how it had all started. A white envelope in a truck. A sixty-dollar question nobody could answer.
 
-Now it was learning the hardest lesson of all. A group can let people choose. A government has to be made to choose right, once, and pay for it when it doesn't.
+Now the team was learning the hardest lesson of all. A group can let people choose. A government has to be made to choose right, once, and pay for it when it doesn't.
 
 And the best way to make that case wasn't a speech.
 
 It was a column of numbers, growing.
 
-Recap. Pledge blocks fixed the function pool: not enough blocks, no party. Government can't run on pledges, but AGCL Point 05.1 gives it one chance to spend right. Non-enumerated spending expires, unspent money returns to each citizen's Sinking Liberty Fund, and the Treasury borrows from citizens first.
+Recap. Pledge blocks fixed the function pool: count the cost first, and not enough blocks means no party. Government can't run on pledges, but Hamilton's sinking fund, carried forward in AGCL Point 05.1, gives it one chance to spend right. Non-enumerated spending expires, unspent money returns to each citizen's fund, and the Treasury borrows from citizens first.
 
 <!-- series-navigation: start -->
 

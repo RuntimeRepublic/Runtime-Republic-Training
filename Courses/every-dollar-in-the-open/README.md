@@ -7,6 +7,12 @@ system built on the Founders and Framers of the Republic, starting with a team's
 opens with a plain explainer, then follows one Sedgwick County team from a cash envelope to a registered group testing the
 plan. Planned for teams starting **2027-01-01** (Master-Plan T20, T20a, T20b).
 
+**The Founders' stones, one per lesson:** open accounts, Article I §9 (01); few and defined
+powers, Federalist No. 45 (02); money follows consent, Virginia Statute for Religious Freedom
+(03); Hamilton's sinking fund, Report on Public Credit (04); property, not promises (05); gold
+and silver as the measure, Article I §10 (06). Each member's AI assistant checks the record;
+people decide.
+
 **The method:** a bank account; monthly deposit and spending files in GitHub; each file's
 fingerprint stamped on the Bitcoin blockchain with OpenTimestamps; private receipt codes
 (only their hash is public); $10 blocks drawn at random, seeded by a Bitcoin block hash;

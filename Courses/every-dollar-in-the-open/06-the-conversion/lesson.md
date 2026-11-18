@@ -6,7 +6,7 @@ Status: Draft
 Runtime: about 6 minutes
 Image: Pending
 Podcast: Not recorded
-Sources: AGCL plan/04_social_security_gold.md, plan/10_health_plan.md; H.R. 25 (FairTax Act)
+Sources: Article I, Section 10, U.S. Constitution; AGCL plan/04_social_security_gold.md, plan/10_health_plan.md; H.R. 25 (FairTax Act)
 Approved by: —
 License: CC BY 4.0
 Audience: Team treasurers, admins and members
@@ -23,9 +23,11 @@ Longbow had the AGCL open on the screen. Point 04, the Social Security Gold Lock
 
 Under Point 04, every month with actual payroll contributions is evaluated by itself. Both halves count, the part taken from the worker and the part paid by the employer. Medicare contributions count too. Each month's dollars are converted into gold weight using that month's gold price. Then that weight is credited permanently.
 
+Harvest's assistant had already pulled a table of monthly gold prices, ready to run the conversion.
+
 "Why gold?" Mesa asked.
 
-"Because a dollar from 1978 isn't a dollar today. Gold weight doesn't shrink when the government prints more money. The AGCL says no averaging across years, and no revaluing at today's prices. What you paid in a month becomes what that month's money could buy in gold. Then it's locked."
+"Because the Framers already chose it. Article One, Section Ten: no state shall make any thing but gold and silver coin a tender in payment of debts. A dollar from 1978 isn't a dollar today. Gold weight doesn't shrink when the government prints more money. The AGCL says no averaging across years, and no revaluing at today's prices. What you paid in a month becomes what that month's money could buy in gold. Then it's locked."
 
 Harvest opened his folder. "Here's the problem."
 
@@ -41,7 +43,7 @@ The admin wrote it down the way the team had learned to: as evidence, not as a c
 
 "Step two," Longbow said. "Only real contributions count."
 
-Point 04 limits the conversion to months with actual payroll payments. No contribution, no credit. And only people who were citizens when they paid qualify. No retroactive adjustments, no political exemptions, no administrative overrides.
+Point 04 limits the conversion to months with actual payroll payments. No contribution, no credit. And only people who were citizens when they paid qualify.
 
 "It's not a new benefit," Longbow said. "It's a receipt for what you already paid."
 
@@ -67,9 +69,9 @@ Under H.R. 25, the FairTax, payroll taxes go away. Point 04 says future Social S
 
 "And Medicare?" Harvest asked. "I'm on it now."
 
-Longbow scrolled to Point 10, the American Health Freedom Plan. Medicare becomes a personal account measured in gold. Fully owned. Inheritable. Benefits tied to what you put in. And care for people who are disabled or can't pay is handled through its own funding, so nobody's personal account gets pooled or redistributed to cover it.
+Longbow scrolled to Point 10, the American Health Freedom Plan. Medicare becomes a personal account measured in gold. Fully owned. Inheritable. Benefits tied to what you put in. And care for people who are disabled or can't pay is handled through its own funding, so nobody's personal account gets pooled to cover it.
 
-Then the admin did what the team always did at the end of a test. She asked for the hard questions, the ones the plan hadn't answered yet.
+Then the admin asked for the hard questions, the ones the plan hadn't answered yet.
 
 Ridgeline went first. "Where does the gold come from? That's a lot of gold, and somebody has to guard it."
 
@@ -83,13 +85,13 @@ Mesa added the last one. "And the people who paid in for years before they becam
 
 Point 04 excludes them.
 
-The admin wrote all three on the board under a heading she'd started using for anything the team couldn't answer yet. Open questions. Then she typed them into the team's packet, with the monthly-data finding at the top.
+The admin wrote all three under Open questions and put them in the team's packet, with the monthly-data finding at the top.
 
 "That's the job," she said. "Not to pretend the plan is finished. To test it with real people, find where it breaks, and say so in public."
 
 Harvest closed his folder.
 
-"You know what's strange," he said. "For forty-six years, money came out of my check, and I never once saw where it went. Tonight, I found out more about my own retirement in two hours than I did in my whole working life."
+"For forty-six years, money came out of my check, and I never once saw where it went. Tonight, I found out more about my own retirement in two hours than I did in my whole working life."
 
 He looked around the room. A team that had started with a white envelope in a truck. A sixty-dollar question. A fight over a keg.
 
@@ -99,7 +101,7 @@ He looked around the room. A team that had started with a white envelope in a tr
 
 "Then we build on rock," Longbow said, and handed him a receipt code card. "Start with the small book. We'll work on the big one together."
 
-Recap. Point 04 converts every month of payroll contributions into gold weight, credited to a personal, inheritable ledger that is first in line for repayment and closed to government without permission. Point 10 does the same for Medicare. The team found one gap, yearly records against a monthly rule, and three open questions.
+Recap. Point 04 converts every month of payroll contributions into gold weight, the measure the Framers chose, credited to a personal, inheritable ledger that is first in line for repayment. Point 10 does the same for Medicare. The team found one gap, yearly records against a monthly rule, and three open questions, and built on rock instead of sand.
 
 <!-- series-navigation: start -->
 
