@@ -1,6 +1,6 @@
 # Every Dollar in the Open
 
-**Status:** Draft. Four lessons so far; the series is not finished. Nothing here is approved.
+**Status:** Draft. Six lessons; series complete. Nothing here is approved.
 
 How a Runtime Republic team runs its money in the open, starting with a plain explainer and
 then following one Sedgwick County team from a cash envelope to a registered group testing the
@@ -12,9 +12,14 @@ fingerprint stamped on the Bitcoin blockchain with OpenTimestamps; private recei
 change blocks when a spend splits a block; SPEND issues approved by the second admin;
 an enumerated spending list; pledge blocks for optional functions.
 
-**New idea, not yet in the AGCL documents:** Rule of 72 accounts. Government gets one chance
-to spend each tax dollar on enumerated purposes; a failed attempt sends the taxpayer's share to
-their own sinking fund, part to pay down the national debt and part to grow for retirement.
+**AGCL points the series teaches (no new doctrine):** Point 05.1 Power of 72 Sinking Liberty
+Fund (lesson 04); Point 04 Social Security Gold Lockbox and Point 10 gold-backed Medicare
+(lessons 05–06); draft control 00L citizen trigger (lesson 04).
+
+**Findings and open questions raised in lesson 06:** Point 04 requires month-by-month
+contribution data, but the public Social Security earnings record shows yearly earnings only;
+the source of the gold and its custody; the transition for people already drawing benefits;
+people who paid in before becoming citizens.
 
 | # | Lesson | Runtime | Status |
 |---|---|---|---|
@@ -22,6 +27,8 @@ their own sinking fund, part to pay down the national debt and part to grow for 
 | 02 | [The Keg Question](02-the-keg-question/lesson.md) | about 6 minutes | Draft |
 | 03 | [The Second Pool](03-the-second-pool/lesson.md) | about 6 minutes | Draft |
 | 04 | [One Chance to Spend It Right](04-one-chance-to-spend-it-right/lesson.md) | about 7 minutes | Draft |
+| 05 | [The Question](05-the-question/lesson.md) | about 7 minutes | Draft |
+| 06 | [The Conversion](06-the-conversion/lesson.md) | about 7 minutes | Draft |
 
 ## Characters
 
@@ -32,6 +39,7 @@ their own sinking fund, part to pay down the national debt and part to grow for 
 | Mesa | Member; the keg's loudest supporter |
 | The treasurer | Kept the envelope; proposes two pools, then pledge blocks |
 | The admin | Runs meetings; frames each change as a PDCA test |
+| Harvest | Retired machinist, 67; asks how Social Security and Medicare compare |
 
 ---
 
