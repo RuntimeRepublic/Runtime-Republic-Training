@@ -1,10 +1,12 @@
 # The Keg Question, Part 2: The Second Pool
 
+![The Second Pool](../../../Images/every-dollar-in-the-open/03-the-second-pool.png)
+
 Course: Every Dollar in the Open
 Lesson: 03 of 06
 Status: Draft
 Runtime: about 6 minutes
-Image: Pending
+Image: 03-the-second-pool.png
 Podcast: Not recorded
 Sources: Virginia Statute for Religious Freedom (1786); AGCL plan/01_tax_trap.md
 Approved by: —
