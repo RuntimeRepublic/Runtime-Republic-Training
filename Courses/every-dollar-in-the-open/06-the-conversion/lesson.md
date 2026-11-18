@@ -1,10 +1,12 @@
 # The Conversion
 
+![The Conversion](../../../Images/every-dollar-in-the-open/06-the-conversion.png)
+
 Course: Every Dollar in the Open
 Lesson: 06 of 06
 Status: Draft
 Runtime: about 6 minutes
-Image: Pending
+Image: 06-the-conversion.png
 Podcast: Not recorded
 Sources: Article I, Section 10, U.S. Constitution; AGCL plan/04_social_security_gold.md, plan/10_health_plan.md; H.R. 25 (FairTax Act)
 Approved by: —
