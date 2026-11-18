@@ -26,9 +26,9 @@ people who paid in before becoming citizens.
 | 01 | [Every Dollar in the Open](01-every-dollar-in-the-open/lesson.md) | about 6 minutes | Draft |
 | 02 | [The Keg Question](02-the-keg-question/lesson.md) | about 6 minutes | Draft |
 | 03 | [The Second Pool](03-the-second-pool/lesson.md) | about 6 minutes | Draft |
-| 04 | [One Chance to Spend It Right](04-one-chance-to-spend-it-right/lesson.md) | about 7 minutes | Draft |
-| 05 | [The Question](05-the-question/lesson.md) | about 7 minutes | Draft |
-| 06 | [The Conversion](06-the-conversion/lesson.md) | about 7 minutes | Draft |
+| 04 | [One Chance to Spend It Right](04-one-chance-to-spend-it-right/lesson.md) | about 6 minutes | Draft |
+| 05 | [The Question](05-the-question/lesson.md) | about 6 minutes | Draft |
+| 06 | [The Conversion](06-the-conversion/lesson.md) | about 6 minutes | Draft |
 
 ## Characters
 

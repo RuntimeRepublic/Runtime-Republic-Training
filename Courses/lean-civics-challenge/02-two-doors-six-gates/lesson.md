@@ -41,10 +41,18 @@ Gate 5 is your first closed week. At least two members file packets for the same
 
 There are no time limits. You move to the next gate when the current one is checked, however long that takes. And if your team misses a week, it isn't over. It's paused, and it's active again the next week it posts.
 
-That's the whole system. Two doors, six gates, and no one joins as a bloc.
+Recap. Two doors: a new team, or an existing group. Six gates: request, values, purpose and sponsor, stand up, loop proven, first closed week. No time limits, and no one joins as a bloc.
 
 Open your team request at runtimerepublic.com/onboard.
 
+<!-- series-navigation: start -->
+
 ---
 
-[Lean Civics Challenge](../README.md) · [All series in this repository](../../README.md)
+### Continue reading
+
+[← Previous essay](../01-clean-house-first/lesson.md) · [Series index](../README.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

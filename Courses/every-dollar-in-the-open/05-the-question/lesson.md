@@ -3,7 +3,7 @@
 Course: Every Dollar in the Open
 Lesson: 05 of 06
 Status: Draft
-Runtime: about 7 minutes
+Runtime: about 6 minutes
 Image: Pending
 Podcast: Not recorded
 Sources: 2026 Social Security and Medicare Trustees Reports (https://www.ssa.gov/OACT/TRSUM/); Flemming v. Nestor, 363 U.S. 603 (1960); AGCL plan/05_1_power_72.md, plan/04_social_security_gold.md
@@ -24,8 +24,6 @@ That's when the new member raised his hand.
 His call sign was Harvest. He was sixty-seven, a retired machinist, and he'd joined two weeks earlier after his neighbor told him about the keg fight. He'd listened to the whole discussion with his arms folded.
 
 "I've been paying into something like this my whole life," he said. "It's called Social Security. And Medicare. Forty-six years of it came out of my check before I ever saw the money. So tell me. What's the difference?"
-
-It was a fair question. Several people in the room were thinking the same thing.
 
 Longbow didn't answer with a speech. He went to the whiteboard and drew two columns. On the left, Social Security and Medicare today. On the right, a Rule of 72 account under Point 05.1. Then he went down the list, one line at a time.
 
@@ -79,10 +77,6 @@ Left: Government files.
 
 Right: A public blockchain. Government spending traceable. You anonymous.
 
-"Same as our ledger," Mesa said.
-
-"Same idea. Bigger book."
-
 Then Longbow wrote one more line at the bottom of the left column and turned around.
 
 "And here's why this matters now, not someday."
@@ -117,10 +111,20 @@ The admin wrote it on the board under the two columns.
 
 Next week: how to convert what Harvest already paid.
 
-Harvest stayed after the meeting and helped stack the chairs. On the way out, he stopped at the whiteboard and looked at the left column one more time.
+On the way out, Harvest looked at the left column one more time.
 
 "Forty-six years," he said to nobody in particular. "And they never once asked me if I wanted to own it."
 
+Recap. Harvest asked how a Rule of 72 account differs from Social Security and Medicare. Ownership, funding, inheritance, who borrows the money, and where the record lives all differ. The trustees project the retirement trust fund runs short in 2032 and Medicare's hospital fund in 2033. AGCL Point 04 answers what people have already paid.
+
+<!-- series-navigation: start -->
+
 ---
 
-[Every Dollar in the Open](../README.md) · [All series in this repository](../../README.md)
+### Continue reading
+
+[← Previous essay](../04-one-chance-to-spend-it-right/lesson.md) · [Series index](../README.md) · [Next essay →](../06-the-conversion/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

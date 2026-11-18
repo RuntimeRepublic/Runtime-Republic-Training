@@ -37,21 +37,17 @@ People liked it. It sounded fair. Then the treasurer did the math out loud.
 
 Ridgeline thought about it. "So I'm not opting out. I'm just making somebody else pay my share."
 
-"Of the keg, no. Of everything else, yes. The money moves around."
-
 That idea wasn't dead, but it was wounded. Someone wrote it on the board as "good for later, when we're bigger."
 
 The third proposal came from the treasurer himself. Two pools.
 
 The general pool pays only for what's on the enumerated list: admin costs and food functions. A second pool, the function pool, pays for anything beyond that. A keg. A bowling night. Whatever the team wants that not everyone wants to fund. Nobody's money goes into the function pool unless they choose to put it there. When you give, you choose. General, or function, or both.
 
-Both pools run the same way. Same receipt codes, same ten-dollar blocks, same random draws, same stamps on the blockchain. Same public file. The only difference is how money gets in.
-
 Mesa asked the obvious question. "What if nobody puts money in the function pool?"
 
 "Then there's no keg," the treasurer said. "And that's an answer, too."
 
-The room was quiet for a moment. Then Longbow said what several people were thinking.
+Longbow said what several people were thinking.
 
 "That's the FairTax."
 
@@ -62,8 +58,6 @@ He explained it the way he'd explained it a dozen times at the kitchen table. To
 Mesa grinned. "So beer is a consumption tax."
 
 "Beer has always been a consumption tax."
-
-That got the biggest laugh of the night.
 
 They didn't make it permanent. The admin wrote it up the way they'd been taught: as a test. Plan, do, check, act. Ninety days. The enumerated list would be adopted: admin costs and food functions in the general pool. The function pool would open for anything else. At the end of ninety days, they'd check three things.
 
@@ -95,6 +89,16 @@ The receipt went into the function pool's file that night. The fingerprint went 
 
 And the team, a little louder than usual, went back to work.
 
+Recap. The team weighed three answers to the keg: pass a hat off the books, flag receipt codes, or two pools. It chose two pools as a ninety-day test: a general pool for the enumerated list, and a function pool nobody pays into unless they choose. The real test wasn't whether everyone agreed. It was whether people who disagreed could stay.
+
+<!-- series-navigation: start -->
+
 ---
 
-[Every Dollar in the Open](../README.md) · [All series in this repository](../../README.md)
+### Continue reading
+
+[← Previous essay](../02-the-keg-question/lesson.md) · [Series index](../README.md) · [Next essay →](../04-one-chance-to-spend-it-right/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

@@ -3,7 +3,7 @@
 Course: Every Dollar in the Open
 Lesson: 06 of 06
 Status: Draft
-Runtime: about 7 minutes
+Runtime: about 6 minutes
 Image: Pending
 Podcast: Not recorded
 Sources: AGCL plan/04_social_security_gold.md, plan/10_health_plan.md; H.R. 25 (FairTax Act)
@@ -37,21 +37,13 @@ The treasurer leaned in. "So we can't run the conversion the way Point 04 says."
 
 "Not from this," Longbow said. "The rule says month by month. The record we can get is year by year."
 
-It was the first real finding of the test. Nobody had expected to hit a wall on step one.
-
 The admin wrote it down the way the team had learned to: as evidence, not as a complaint. Point 04 requires monthly contribution data. The public earnings record shows yearly earnings only. Either the monthly records exist inside government and must be released, or the rule needs a defined method for years where only annual data exists.
-
-"That's going in our packet," she said. "With Harvest's permission, and without his numbers."
-
-Harvest nodded. "Put it in."
 
 "Step two," Longbow said. "Only real contributions count."
 
 Point 04 limits the conversion to months with actual payroll payments. No contribution, no credit. And only people who were citizens when they paid qualify. No retroactive adjustments, no political exemptions, no administrative overrides.
 
-"That's tight," Ridgeline said.
-
-"On purpose. It's not a new benefit. It's a receipt for what you already paid."
+"It's not a new benefit," Longbow said. "It's a receipt for what you already paid."
 
 "Step three. Your own ledger."
 
@@ -61,15 +53,9 @@ Harvest asked the question everyone was waiting for. "And my kids?"
 
 "Inheritable. Required beneficiaries. What happened to your brother's forty years doesn't happen under this."
 
-He didn't say anything, but he wrote it down.
-
 "Step four. First in line."
 
 Point 04 classifies every converted obligation as Priority-One Federal Debt. First to be repaid, ahead of everything else the government owes. No deferral, no dilution, no reclassification. And it's tied into the same Rule of 72 structure as everyone's Sinking Liberty Fund.
-
-"So the government doesn't get to pay its other bills first and get to us when it's convenient," Mesa said.
-
-"Right. Today, seniors get told to hope. Under this, they're at the front of the line."
 
 "Step five. Nobody touches it without your permission."
 
@@ -82,10 +68,6 @@ Under H.R. 25, the FairTax, payroll taxes go away. Point 04 says future Social S
 "And Medicare?" Harvest asked. "I'm on it now."
 
 Longbow scrolled to Point 10, the American Health Freedom Plan. Medicare becomes a personal account measured in gold. Fully owned. Inheritable. Benefits tied to what you put in. And care for people who are disabled or can't pay is handled through its own funding, so nobody's personal account gets pooled or redistributed to cover it.
-
-"So I keep what's mine," Harvest said, "and the people who really need help still get it, from somewhere else."
-
-"That's how Point 10 reads."
 
 Then the admin did what the team always did at the end of a test. She asked for the hard questions, the ones the plan hadn't answered yet.
 
@@ -117,6 +99,16 @@ Longbow handed him a receipt code card.
 
 "Start with the small book," he said. "We'll work on the big one together."
 
+Recap. Point 04 converts every month of payroll contributions into gold weight, credited to a personal, inheritable ledger that is first in line for repayment and closed to government without permission. Point 10 does the same for Medicare. The team found one gap, yearly records against a monthly rule, and three open questions.
+
+<!-- series-navigation: start -->
+
 ---
 
-[Every Dollar in the Open](../README.md) · [All series in this repository](../../README.md)
+### Continue reading
+
+[← Previous essay](../05-the-question/lesson.md) · [Series index](../README.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->

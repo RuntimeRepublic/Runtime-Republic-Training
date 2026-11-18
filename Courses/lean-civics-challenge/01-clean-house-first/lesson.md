@@ -33,6 +33,16 @@ Your group already has the association. The challenge gives it a scoreboard, a m
 
 Start with five weeks and one budget per member. Put your group's name on the board, and see how far up the CE scale you can climb together.
 
+Recap. Clean house first: five weeks of household budgets, with every tax dollar traced. Log the gaps against Moneyball, the British Bicycle Team and the CE1 to CE5 scale. Join as a team, put your progress on a public board, and let Plan-Do-Check-Act keep your group from drifting.
+
+<!-- series-navigation: start -->
+
 ---
 
-[Lean Civics Challenge](../README.md) · [All series in this repository](../../README.md)
+### Continue reading
+
+[Series index](../README.md) · [Next essay →](../02-two-doors-six-gates/lesson.md)
+
+[All series in this repository](../../README.md) · [Repository home](../../../README.md)
+
+<!-- series-navigation: end -->
