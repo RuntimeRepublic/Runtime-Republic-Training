@@ -1,10 +1,12 @@
 # The Keg Question
 
+![The Keg Question](../../../Images/every-dollar-in-the-open/02-the-keg-question.png)
+
 Course: Every Dollar in the Open
 Lesson: 02 of 06
 Status: Draft
 Runtime: about 6 minutes
-Image: Pending
+Image: 02-the-keg-question.png
 Podcast: Not recorded
 Sources: The Federalist No. 45
 Approved by: —
