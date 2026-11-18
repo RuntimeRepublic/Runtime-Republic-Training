@@ -1,10 +1,12 @@
 # Clean House First: Why Your Group Should Join the Lean Civics Challenge
 
+![Clean House First](../../../Images/lean-civics-challenge/01-clean-house-first.png)
+
 Course: Lean Civics Challenge
 Lesson: 01 of 01
-Status: Draft
+Status: Review
 Runtime: about 3 minutes
-Image: Pending
+Image: 01-clean-house-first.png
 Podcast: Not recorded
 Sources: None
 Approved by: —

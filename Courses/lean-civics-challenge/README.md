@@ -8,7 +8,7 @@ Moneyball, the British Bicycle Team (marginal gains) and the Close Encounters sc
 
 | # | Lesson | Runtime | Status |
 |---|---|---|---|
-| 01 | [Clean House First](01-clean-house-first/lesson.md) | about 3 minutes | Draft |
+| 01 | [Clean House First](01-clean-house-first/lesson.md) | about 3 minutes | Review |
 
 ---
 
