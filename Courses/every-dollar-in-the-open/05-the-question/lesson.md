@@ -21,7 +21,7 @@ The answers came in at the next Saturday meeting. The treasurer put them on the 
 
 That's when the new member raised his hand.
 
-His call sign was Harvest. He was sixty-seven, a retired machinist, and he'd joined two weeks earlier after his neighbor told him about the keg fight. He'd listened to the whole discussion with his arms folded.
+His call sign was Harvest. He was sixty-seven, a retired machinist, and he'd joined two weeks earlier after his neighbor told him about the keg fight.
 
 "I've been paying into something like this my whole life," he said. "It's called Social Security. And Medicare. Forty-six years of it came out of my check before I ever saw the money. So tell me. What's the difference?"
 
@@ -36,8 +36,6 @@ He wrote on the left: Not you.
 On the right he wrote: You.
 
 "Point 05.1 says it plainly. The fund is private property. The government has no ownership claim."
-
-Harvest unfolded his arms.
 
 "Second line. How is it funded?"
 
@@ -93,9 +91,11 @@ Harvest leaned back. "So the promise has an expiration date. And I don't own any
 
 Nobody argued.
 
-Ridgeline, who had been quiet the whole time, finally spoke up. "So what do we tell him? Sorry, you're too old for the good system?"
+Ridgeline spoke up. "So what do we tell him? Sorry, you're too old for the good system?"
 
 That was the question everyone was afraid of. Every reform anyone had ever proposed seemed to end the same way: the young get the new deal, and the old get told to hope.
+
+"I've watched reformers sweep out one mess after another," Harvest said. "They never put anything in its place. What came back was always worse."
 
 Longbow shook his head. "No. That's the part people miss. The AGCL doesn't leave him behind. It has a whole point for what he's already paid. Point 04. It's called the Social Security Gold Lockbox."
 

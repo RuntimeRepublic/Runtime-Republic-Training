@@ -25,13 +25,13 @@ She didn't ask for a vote. She asked for proposals. Three came in.
 
 The first came from Longbow. Take the keg off the list entirely. The general pool pays for what nearly everyone supports, and nothing else. If people want beer, they pass a hat at the event, in cash, outside the ledger.
 
-It was clean and simple. But Mesa, one of the keg supporters, pushed back. "So the one thing half of us want is the one thing that goes back to the envelope? We built all this to get out of the envelope."
+But Mesa, one of the keg supporters, pushed back. "So the one thing half of us want is the one thing that goes back to the envelope? We built all this to get out of the envelope. Sweep it out, leave the room empty, and it comes back with friends."
 
 That landed. Nobody wanted cash moving around off the books again, even for beer.
 
 The second proposal came from Ridgeline. Keep the keg on the list, but let donors flag their receipt codes. Any code flagged "no alcohol" would be skipped when the random draw picked blocks for the keg.
 
-People liked it. It sounded fair. Then the treasurer did the math out loud.
+It sounded fair. Then the treasurer did the math out loud.
 
 "Say four of us flag. The keg gets drawn only from the unflagged blocks. That means the people who didn't flag pay a bigger share of the keg, and the flaggers' blocks get pulled harder for everything else. The pool still mixes. You're not keeping your money out of the keg. You're pushing the keg onto someone else's money."
 
