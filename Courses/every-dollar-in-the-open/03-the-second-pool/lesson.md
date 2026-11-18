@@ -4,7 +4,7 @@
 
 Course: Every Dollar in the Open
 Lesson: 03 of 06
-Status: Draft
+Status: Review
 Runtime: about 6 minutes
 Image: 03-the-second-pool.png
 Podcast: Not recorded

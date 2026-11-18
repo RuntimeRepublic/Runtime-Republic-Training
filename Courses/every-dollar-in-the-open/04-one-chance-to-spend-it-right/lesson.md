@@ -4,7 +4,7 @@
 
 Course: Every Dollar in the Open
 Lesson: 04 of 06
-Status: Draft
+Status: Review
 Runtime: about 6 minutes
 Image: 04-one-chance-to-spend-it-right.png
 Podcast: Not recorded

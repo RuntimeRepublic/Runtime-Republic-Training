@@ -4,7 +4,7 @@
 
 Course: Every Dollar in the Open
 Lesson: 01 of 06
-Status: Draft
+Status: Review
 Runtime: about 6 minutes
 Image: 01-laying-a-new-foundation.png
 Podcast: Not recorded

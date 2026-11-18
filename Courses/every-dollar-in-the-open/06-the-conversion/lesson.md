@@ -4,7 +4,7 @@
 
 Course: Every Dollar in the Open
 Lesson: 06 of 06
-Status: Draft
+Status: Review
 Runtime: about 6 minutes
 Image: 06-the-conversion.png
 Podcast: Not recorded

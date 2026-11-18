@@ -4,7 +4,7 @@
 
 Course: Every Dollar in the Open
 Lesson: 05 of 06
-Status: Draft
+Status: Review
 Runtime: about 6 minutes
 Image: 05-the-question.png
 Podcast: Not recorded
