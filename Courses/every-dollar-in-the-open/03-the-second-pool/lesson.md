@@ -1,7 +1,7 @@
 # The Keg Question, Part 2: The Second Pool
 
 Course: Every Dollar in the Open
-Lesson: 03 of 04 (series continues)
+Lesson: 03 of 06
 Status: Draft
 Runtime: about 6 minutes
 Image: Pending

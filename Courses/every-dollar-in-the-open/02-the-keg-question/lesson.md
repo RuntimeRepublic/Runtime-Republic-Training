@@ -1,7 +1,7 @@
 # The Keg Question
 
 Course: Every Dollar in the Open
-Lesson: 02 of 04 (series continues)
+Lesson: 02 of 06
 Status: Draft
 Runtime: about 6 minutes
 Image: Pending

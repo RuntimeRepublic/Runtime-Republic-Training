@@ -1,12 +1,12 @@
 # The Keg Question, Part 3: One Chance to Spend It Right
 
 Course: Every Dollar in the Open
-Lesson: 04 of 04 (series continues)
+Lesson: 04 of 06
 Status: Draft
 Runtime: about 7 minutes
 Image: Pending
 Podcast: Not recorded
-Sources: None
+Sources: AGCL plan/05_1_power_72.md; AGCL 00L (draft)
 Approved by: —
 License: CC BY 4.0
 Audience: Team treasurers, admins and members
@@ -63,41 +63,49 @@ He walked to the whiteboard and wrote one sentence.
 
 Government gets one chance to spend it right.
 
-"Taxes come in. Government spends them on enumerated, constitutional purposes. That's the deal. But say government tries to spend your share on something that isn't enumerated, something the Constitution never gave it authority to do. Under taxpayer supremacy, that attempt fails. And your share doesn't go back into government's pool."
+"Taxes come in. Under AGCL Point 05.1, every federal program has to be classified, enumerated or non-enumerated. Enumerated is what the Constitution actually lists. Non-enumerated spending can't be paid for with debt, and it expires automatically unless it's reauthorized. If Congress fails to pass a lawful budget, the non-enumerated programs are the first to go."
 
-"Where does it go?" Mesa asked.
+"And the money that doesn't get spent right?" Mesa asked.
 
-"Into your own sinking fund."
+"Point 05.1 calls it surplus reversion. Unspent federal money doesn't stay with the government. It goes back to the citizen's own account."
 
-He drew a second box on the board.
+"What account?"
 
-"Half of that fund pays down the national debt. The other half stays yours and grows for your retirement. Government doesn't get a second try at that dollar. It's gone, and it's working for you now."
+He drew a second box on the board. "Your Sinking Liberty Fund. Hamilton's Power of 72. Every citizen gets one. Up to a quarter of the federal taxes you pay is credited to it, never less than five percent. It's yours. It's inheritable. Nobody can seize it. And it's recorded on a public blockchain: the government's side is traceable, your side is anonymous."
 
-The treasurer frowned, the way he did when he was checking math in his head. "How much is that worth to one person?"
+The treasurer frowned, the way he did when he was checking math in his head. "And then what? It sits there?"
+
+"It works. The Treasury has to borrow from citizen funds first, at half the market rate, and every dollar of interest is credited to you. No borrowing from foreign governments. No borrowing from the Federal Reserve. Right now, the people who hold the national debt are somebody else. Under 05.1, it's you."
+
+"How much is that worth to one person?"
 
 Longbow wrote 72 on the board.
 
-"Rule of 72. Divide 72 by the return, and that's how many years it takes money to double. At six percent, money doubles every twelve years. Say a hundred dollars of yours gets diverted when you're thirty. By sixty-six, that's about eight hundred dollars. Three doublings."
+"Rule of 72. Divide 72 by the return, and that's how many years it takes money to double. At six percent, money doubles every twelve years. Say a hundred dollars lands in your fund when you're thirty. By sixty-six, that's about eight hundred dollars. Three doublings."
 
-"From one bad spending attempt," Ridgeline said.
+"From one hundred dollars," Ridgeline said.
 
-"From one. Now think about every non-enumerated program in the county budget, the state budget, the federal budget. Every one of them becomes a number in somebody's account, growing, with their name on it."
+"From one. Now think about every dollar of every tax return for forty years, and every dollar government failed to spend right coming back to you instead of disappearing."
 
 The room was quiet.
 
 Mesa said it first. "Government would get real careful real fast."
 
-"That's the point," Longbow said. "Right now, bad spending costs government nothing. The money's already gone. Nobody gets it back. Under this, every unconstitutional dollar is a dollar government loses forever, and a citizen gains forever. The incentive flips."
+"That's the point," Longbow said. "Right now, bad spending costs government nothing. The money's already gone. Under 05.1, government gets one chance to spend it right. Non-enumerated spending runs out on its own, and unspent money comes home. The incentive flips."
 
-The admin, who had been quietly writing notes, looked up. "Is this in the AGCL?"
+"Who decides when a program failed?" the treasurer asked.
 
-Longbow answered honestly. "Part of it. The Sinking Liberty Fund is there. Paying down the debt is there. Putting non-enumerated programs first in line to go is there. Letting each taxpayer send failed spending into their own account, the Rule of 72 accounts, isn't written down yet. It's a proposal."
+"The AGCL has a draft control for that, 00L. Every standard has to carry a public smoke test, and any citizen can file when it fails. No lawyer. No fee."
 
-"Then let's propose it," the admin said. "With evidence."
+The admin, who had been quietly writing notes, looked up. "Is all of this in the AGCL?"
+
+"It's Point 05.1. Written down," Longbow said. "What isn't written yet is the proof that ordinary households come out ahead. That part's our job."
+
+"Then let's prove it," the admin said. "With evidence."
 
 That was how the team found its next project. Not a function. A test.
 
-Every member already had their household tax map: every tax they paid, who received it, and whether it passed the control tests. Now they would add one column. For each dollar that failed the enumeration test, how much would be sitting in their sinking fund today, and how much would it grow by retirement?
+Every member already had their household tax map: every tax they paid, who received it, and whether it passed the control tests. Now they would add one column. How much of their federal taxes would have been credited to their own Sinking Liberty Fund, and what would it grow to by retirement?
 
 They'd run it like everything else. Plan, do, check, act. One month of real numbers, from real households, in the open.
 

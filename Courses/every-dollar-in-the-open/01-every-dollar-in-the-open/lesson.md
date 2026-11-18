@@ -1,7 +1,7 @@
 # Every Dollar in the Open: How a Group Can Track Its Money by Blockchain
 
 Course: Every Dollar in the Open
-Lesson: 01 of 04 (series continues)
+Lesson: 01 of 06
 Status: Draft
 Runtime: about 6 minutes
 Image: Pending
