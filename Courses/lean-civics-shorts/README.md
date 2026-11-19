@@ -1,6 +1,6 @@
 # Lean Civics Shorts
 
-**Status:** Draft. One script so far. Nothing here is approved.
+**Status:** Draft. Six scripts. Short 01 is published on YouTube; 02–06 await review. Nothing here is approved.
 
 Vertical (9:16) cartoon Shorts for YouTube Shorts and Facebook Reels, each under three
 minutes. Every script opens with about 15 seconds on the Lean Civics Challenge, then tells one
@@ -20,6 +20,16 @@ Ledger and Gavel call signs are new in this series (Human Engineer, 2026-11-18).
 **Open item:** the Lean Civics Challenge goal of paying off the national debt by 2076 is stated
 by the Human Engineer and is not yet written in a source document.
 
-| # | Script | Runtime | Images | Status |
+Each folder holds `lesson.md` (the script, read aloud exactly) and `production.md` (not narrated: the
+six image prompts, editing steps, and YouTube title, description and tags). Scripts run about one
+minute: a hook in the first three seconds, one idea, and a cliffhanger. Each **Cut. Beep!** line marks
+an edit point: delete everything before the first beep, each beep, and everything after the last.
+
+| # | Script | Words | Images | Status |
 |---|---|---|---|---|
-| 01 | [Every Dollar in the Open](01-every-dollar-in-the-open/lesson.md) | about 3 minutes | 7, pending | Draft |
+| 01 | [Every Dollar in the Open](01-every-dollar-in-the-open/lesson.md) | 143 | 6 | Draft (published on YouTube) |
+| 02 | [The Keg Question](02-the-keg-question/lesson.md) | 154 | 6 | Draft, review first |
+| 03 | [The Second Pool](03-the-second-pool/lesson.md) | 161 | 6 | Draft |
+| 04 | [One Chance to Spend It Right](04-one-chance-to-spend-it-right/lesson.md) | 172 | 6 | Draft |
+| 05 | [The Question](05-the-question/lesson.md) | 169 | 6 | Draft |
+| 06 | [The Conversion](06-the-conversion/lesson.md) | 167 | 6 | Draft |
