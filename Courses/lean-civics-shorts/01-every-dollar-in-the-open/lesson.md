@@ -1,9 +1,9 @@
 # Every Dollar in the Open
 
 Course: Lean Civics Shorts
-Lesson: 01 of 01
+Lesson: 01 of 06
 Status: Draft
-Runtime: about 3 minutes
+Runtime: about 1 minute
 Image: Pending
 Podcast: Not recorded
 Sources: Article I, Section 9, Clause 7, U.S. Constitution; AGCL plan/02_revenue_sharing.md; Every Dollar in the Open, lesson 01; Lean Civics Challenge goal of paying off the national debt by 2076 (Human Engineer, 2026-11-18)
@@ -13,46 +13,30 @@ Audience: The public on YouTube Shorts and Facebook Reels
 
 ---
 
-**Image one.**
+**Cut. Beep!**
 
-This is the Lean Civics Challenge. A nationwide effort to reverse the national debt and pay it off by 2076, America's three hundredth birthday. Not with one big law. With ordinary teams, starting with their own budgets, every dollar in the open.
+A volunteer group lost a whole year of donations. The treasurer's answer? Ask Topeka.
 
-**Image two.**
+**Cut. Beep!**
 
-One of those teams is in Kansas. They see themselves finishing the work of the Great Generations, the Americans from 1775 to 1945 who won a country, built it, and saved it. And the man who holds the team together wears a beer helmet.
+This is the Lean Civics Challenge. Teams across America working to pay off the national debt by 2076, starting with their own money.
 
-**Image three.**
-
-Meet them. Dana asks what everyone else is thinking. Mike has been treasurer for exactly one week. Linda, a retired school secretary, has never lost a file. Walt explains things like you're at his kitchen table. And Dale wears a hard hat with two beer cans strapped to it. Don't knock him. He golfs with a congressman, and he's spent twenty years in hospital IT.
-
-Online, they use call signs, like fighter pilots, so the work is public but their names aren't.
-
-**Image four.**
-
-One Saturday, Dana asked where last year's donations went.
-
-Mike said to ask the old treasurer. He'd moved to Topeka. Mike said to ask the laptop. It had died. Then Mike said to ask Topeka.
+**Cut. Beep!**
 
 Nobody thought anyone stole a dime. But nobody could prove it. And trust you can't check is just suspicion with good manners.
 
-**Image five.**
+**Cut. Beep!**
 
-That's when Dale set down his straws.
+Then Dale spoke up. Yes, the guy in the beer helmet. Twenty years in hospital IT.
 
-We all have AI assistants now, he said. It can check a thousand lines in a second. But it's only as good as the record. If somebody can quietly change the file, the AI is just double-checking a lie.
+Every gift goes in a public file, he said. No names. Each month, the file's fingerprint gets stamped on the Bitcoin blockchain. Change one line, and the fingerprint snitches. Now everyone's AI assistant can check the books.
 
-So we keep the bank. Every gift becomes one line in a public file. Date, amount, receipt code. Never a name. Each month, a free tool takes the file's fingerprint, a short code that changes if you touch a single comma, and stamps it on the Bitcoin blockchain. Nobody can erase it or backdate it.
+**Cut. Beep!**
 
-Now every member's assistant can check the books. We don't need one person we trust. We need everyone able to check. Change one line, and the fingerprint snitches.
+Walt laid a stone labeled Open Accounts. Dale laid one labeled Hydration.
 
-**Image six.**
+**Cut. Beep!**
 
-Walt laid a stone labeled Open Accounts. Dale laid one beside it labeled Hydration.
+Next time, a beer keg splits the team down the middle. Subscribe for The Keg Question. More at RuntimeRepublic.com.
 
-Walt said that wasn't a founding principle. Dale said it was in July.
-
-Next time, the team votes on what its money is allowed to buy. And a beer keg splits the room right down the middle.
-
-**Image seven.**
-
-Subscribe so you don't miss The Keg Question. And see every episode at RuntimeRepublic.com.
+**Cut. Beep!**
