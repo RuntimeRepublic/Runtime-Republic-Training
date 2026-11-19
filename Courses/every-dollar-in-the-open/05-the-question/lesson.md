@@ -1,10 +1,12 @@
 # The Question
 
+![The Question](../../../Images/every-dollar-in-the-open/05-the-question.png)
+
 Course: Every Dollar in the Open
 Lesson: 05 of 06
-Status: Draft
+Status: Review
 Runtime: about 6 minutes
-Image: Pending
+Image: 05-the-question.png
 Podcast: Not recorded
 Sources: 2026 Social Security and Medicare Trustees Reports (https://www.ssa.gov/OACT/TRSUM/); Flemming v. Nestor, 363 U.S. 603 (1960); AGCL plan/05_1_power_72.md, plan/04_social_security_gold.md
 Approved by: —

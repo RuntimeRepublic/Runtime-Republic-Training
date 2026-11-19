@@ -1,10 +1,12 @@
 # Every Dollar in the Open
 
+![Laying a New Foundation](../../../Images/every-dollar-in-the-open/01-laying-a-new-foundation.png)
+
 Course: Every Dollar in the Open
 Lesson: 01 of 06
-Status: Draft
+Status: Review
 Runtime: about 6 minutes
-Image: Pending
+Image: 01-laying-a-new-foundation.png
 Podcast: Not recorded
 Sources: Article I, Section 9, Clause 7, U.S. Constitution; AGCL plan/02_revenue_sharing.md
 Approved by: —

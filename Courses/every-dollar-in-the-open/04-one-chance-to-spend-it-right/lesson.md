@@ -1,10 +1,12 @@
 # The Keg Question, Part 3: One Chance to Spend It Right
 
+![One Chance to Spend It Right](../../../Images/every-dollar-in-the-open/04-one-chance-to-spend-it-right.png)
+
 Course: Every Dollar in the Open
 Lesson: 04 of 06
-Status: Draft
+Status: Review
 Runtime: about 6 minutes
-Image: Pending
+Image: 04-one-chance-to-spend-it-right.png
 Podcast: Not recorded
 Sources: Hamilton, Report on Public Credit (1790); AGCL plan/05_1_power_72.md
 Approved by: —
